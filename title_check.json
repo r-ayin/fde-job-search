@@ -1,0 +1,42 @@
+[
+ {
+  "brand": "皆大欢喜",
+  "hr": "（已脱敏）",
+  "eid": "5fe469858b4a501503d50tu1E1RR",
+  "realTitle": "企业AI化转型高级咨询/培训师",
+  "quoted": "FDE顾问（制造业方向）",
+  "match": false
+ },
+ {
+  "brand": "梓晨",
+  "hr": "（已脱敏）",
+  "eid": "31c3a1778a17f43a0nN72tW4FFJV",
+  "realTitle": "FDE（前沿部署工程师）",
+  "quoted": "FDE（前沿部署工程师）",
+  "match": true
+ },
+ {
+  "brand": "数秦科技",
+  "hr": "（已脱敏）",
+  "eid": "55677630b617bd3c0nN62t69EFFR",
+  "realTitle": "前线部署工程师（FDE）",
+  "quoted": "AI智能应用（FDE）工程师-上市公司-包三餐",
+  "match": false
+ },
+ {
+  "brand": "缦德润",
+  "hr": "（已脱敏）",
+  "eid": "10820ce9042f02400nN709-9FldS",
+  "realTitle": "AI 前沿部署工程师（FDE）",
+  "quoted": "AI需求分析师（fde方向）外包岗位",
+  "match": false
+ },
+ {
+  "brand": "润和软件",
+  "hr": "（已脱敏）",
+  "eid": "ba350f06c11a891a0nV43tm-GFFQ",
+  "realTitle": "评测标注员",
+  "quoted": "AI需求分析师（fde方向）外包岗位",
+  "match": false
+ }
+]

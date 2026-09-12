@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<title>input selftest</title>
+<style>
+  body { font-family: system-ui, sans-serif; margin: 0; padding: 20px; }
+  #ta { width: 600px; min-height: 120px; border: 2px solid #333; padding: 10px; font-size: 16px; }
+  #btn { margin-top: 16px; padding: 12px 28px; background: #00bebd; color: #fff;
+         border: 0; border-radius: 6px; font-size: 16px; cursor: pointer; }
+  #log { white-space: pre-wrap; font-family: monospace; font-size: 12px;
+         background: #111; color: #0f0; padding: 10px; margin-top: 16px;
+         max-height: 420px; overflow: auto; }
+</style>
+</head>
+<body>
+<div id="ta" contenteditable="true">初始文本</div>
+<button id="btn">立即沟通</button>
+<pre id="log"></pre>
+<script>
+const L = [];
+function rec(ev, extra) {
+  L.push({ t: ev.type, trusted: ev.isTrusted,
+           target: (ev.target && ev.target.id) || '',
+           extra: extra || '' });
+  document.getElementById('log').textContent = JSON.stringify(L.slice(-40), null, 1);
+}
+const TYPES = ['pointerdown','mousedown','pointerup','mouseup','click',
+               'beforeinput','input','keydown','keyup','paste',
+               'compositionstart','compositionend'];
+TYPES.forEach(t => document.addEventListener(t, e => {
+  let extra = '';
+  if (t === 'keydown' || t === 'keyup') extra = 'key=' + e.key + ' code=' + e.code;
+  else if (t === 'input' || t === 'beforeinput') extra = 'inputType=' + (e.inputType || '');
+  else if (t === 'paste') extra = 'len=' + ((e.clipboardData && e.clipboardData.getData('text')) || '').length;
+  rec(e, extra);
+}, true));
+window.__log   = () => L;
+window.__clear = () => { L.length = 0; document.getElementById('log').textContent = ''; };
+window.__val   = () => document.getElementById('ta').innerText;
+window.__btnRect = () => { const r = document.getElementById('btn').getBoundingClientRect();
+  return { x: r.x + r.width / 2, y: r.y + r.height / 2, w: r.width, h: r.height }; };
+window.__taRect  = () => { const r = document.getElementById('ta').getBoundingClientRect();
+  return { x: r.x + r.width / 2, y: r.y + r.height / 2 }; };
+window.__dpr     = () => window.devicePixelRatio;
+</script>
+</body>
+</html>

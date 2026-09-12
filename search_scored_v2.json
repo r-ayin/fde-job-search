@@ -1,0 +1,554 @@
+[
+ {
+  "eid": "85750bf2bca2e1e30nN73du7EFtZ",
+  "name": "电商短视频行业 FDE 负责人",
+  "company": "云智创心",
+  "salary": "18-30K",
+  "area": null,
+  "score": 84,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(交付,客户,工作流,方案,电商,解决方案)",
+   "+15 电商行业",
+   "+15 薪资匹配"
+  ],
+  "descLen": 873
+ },
+ {
+  "eid": "840c7a4fe3e3b2180nJ_3d65F1ZT",
+  "name": "FDE前向部署工程师",
+  "company": "杭州雾楼台",
+  "salary": "12-18K·13薪",
+  "area": null,
+  "score": 79,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(agent,docker,llm,prompt,交付,大模型)",
+   "+15 电商行业",
+   "+10 薪资部分匹配"
+  ],
+  "descLen": 853
+ },
+ {
+  "eid": "17636fb15ed1f5530nJ_2N--GFtY",
+  "name": "纺织FDE工程师（base台州总部）",
+  "company": "冠织时尚科技",
+  "salary": "10-15K",
+  "area": null,
+  "score": 79,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(客户,数据分析,方案,电商,自动化,解决方案)",
+   "+15 电商行业",
+   "+10 薪资部分匹配"
+  ],
+  "descLen": 633
+ },
+ {
+  "eid": "d9224783d40953bd0nJ93NW9FVVX",
+  "name": "FDE顾问（制造业方向）",
+  "company": "深圳优维科技有限公司",
+  "salary": "50-80K",
+  "area": null,
+  "score": 73,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(agent,rag,tob,交付,大模型,客户)",
+   "+15 电商行业",
+   "+10 薪资部分匹配",
+   "-6 短板(java)"
+  ],
+  "descLen": 1198
+ },
+ {
+  "eid": "19ad53ef03b184470nJ92ti-EVRU",
+  "name": "前沿部署工程师【FDE】",
+  "company": "浙江麦腾",
+  "salary": "5-7K",
+  "area": null,
+  "score": 72,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(agent,prompt,rag,交付,大模型,客户)",
+   "+15 电商行业",
+   "+3 薪资偏低"
+  ],
+  "descLen": 491
+ },
+ {
+  "eid": "5484351f48d2a6620nJz29u-EVFR",
+  "name": "FDE工程师（智能调度方向）",
+  "company": "中控技术",
+  "salary": "15-30K·14薪",
+  "area": null,
+  "score": 69,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(agent,交付,数据分析,方案,知识库,部署)",
+   "+15 薪资匹配"
+  ],
+  "descLen": 1533
+ },
+ {
+  "eid": "1ef4b5e7bf1f17a40nF-29y9FFNT",
+  "name": "前沿部署工程师（FDE - AI Agent方向）",
+  "company": "箴理科技",
+  "salary": "16-28K·14薪",
+  "area": null,
+  "score": 69,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(agent,llm,poc,交付,客户,工作流)",
+   "+15 薪资匹配"
+  ],
+  "descLen": 2050
+ },
+ {
+  "eid": "78f4fde7b5619ff40nN40ti_ElRV",
+  "name": "FDE（AI 交付工程师 / AI 交付专家）",
+  "company": "南通五棵葱文化传媒",
+  "salary": "15-25K",
+  "area": null,
+  "score": 69,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(agent,poc,交付,大模型,客户,方案)",
+   "+15 薪资匹配"
+  ],
+  "descLen": 726
+ },
+ {
+  "eid": "d1be8e170007f9a80nJ529y7E1JX",
+  "name": "FDE前沿部署工程师",
+  "company": "杭州原点数集",
+  "salary": "5000-15000元/月",
+  "area": null,
+  "score": 69,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(agent,rag,交付,客户,工作流,提示词)",
+   "+15 电商行业"
+  ],
+  "descLen": 2233
+ },
+ {
+  "eid": "8fc0f564bc7aff140nF-3tS0E1BZ",
+  "name": "FDE工程师（客户成功方向）",
+  "company": "北京天润融通",
+  "salary": "15-25K",
+  "area": null,
+  "score": 69,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(poc,tob,交付,客户,方案,知识库)",
+   "+15 薪资匹配"
+  ],
+  "descLen": 855
+ },
+ {
+  "eid": "8ff8193318281d460nJ80tW4EFZT",
+  "name": "FDE前沿部署工程师",
+  "company": "三达德科技",
+  "salary": "20-40K",
+  "area": null,
+  "score": 68,
+  "reasons": [
+   "+30 核心FDE",
+   "+20 能力命中(tob,客户,方案,知识库,解决方案)",
+   "+8 零售",
+   "+10 薪资部分匹配"
+  ],
+  "descLen": 554
+ },
+ {
+  "eid": "33da99754e1570630nJ92dy9GVNQ",
+  "name": "FDE前线部署工程师",
+  "company": "杭州盐宁科技有限公司",
+  "salary": "18-25K·13薪",
+  "area": null,
+  "score": 66,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(agent,api,交付,大模型,客户,方案)",
+   "+15 电商行业",
+   "+15 薪资匹配",
+   "-18 短板(react,typescript,vue)"
+  ],
+  "descLen": 997
+ },
+ {
+  "eid": "34b217484ab064a20nJ_29W4FVVT",
+  "name": "AI FDE 工程师 / AI ERP 实施工程师",
+  "company": "杭州侯爷网络科技",
+  "salary": "8-9K·14薪",
+  "area": null,
+  "score": 65,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(agent,rag,交付,大模型,客户,工作流)",
+   "+8 零售",
+   "+3 薪资偏低"
+  ],
+  "descLen": 1449
+ },
+ {
+  "eid": "875e4540fb29a1660nJy0ti0FVBZ",
+  "name": "FDE（商务方向）",
+  "company": "绛紫",
+  "salary": "8-12K",
+  "area": null,
+  "score": 65,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(agent,rag,交付,客户,工作流,方案)",
+   "+8 零售",
+   "+3 薪资偏低"
+  ],
+  "descLen": 998
+ },
+ {
+  "eid": "89dd8c5e3f6943970nN53dy4ElNX",
+  "name": "FDE交付工程师（网易）",
+  "company": "微创软件",
+  "salary": "12-17K",
+  "area": null,
+  "score": 64,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(agent,大模型,客户,方案,知识库,解决方案)",
+   "+10 薪资部分匹配"
+  ],
+  "descLen": 543
+ },
+ {
+  "eid": "202657dbf050baa20nN72dq7GFpY",
+  "name": "高级FDE（杭州 深圳 郑州）",
+  "company": "超聚变技术有限公司",
+  "salary": "20-40K",
+  "area": null,
+  "score": 64,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(agent,llm,poc,rag,交付,大模型)",
+   "+10 薪资部分匹配"
+  ],
+  "descLen": 786
+ },
+ {
+  "eid": "cf57a8ad5ec872ea0nJy2dy0EVFR",
+  "name": "前沿部署工程师FDE（国际物流/AI方向）",
+  "company": "未斯",
+  "salary": "20-30K·14薪",
+  "area": null,
+  "score": 60,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(agent,api,prompt,rag,交付,向量)",
+   "+15 电商行业",
+   "+15 薪资匹配",
+   "-24 短板(java,spring boot,spring cloud,vue)"
+  ],
+  "descLen": 1668
+ },
+ {
+  "eid": "b5a64d1230368a160nB92dy1FVNY",
+  "name": "FDE（医疗AI）",
+  "company": "智诊科技",
+  "salary": "25-50K",
+  "area": null,
+  "score": 58,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(agent,api,docker,llm,prompt,rag)",
+   "+10 薪资部分匹配",
+   "-6 短板(k8s)"
+  ],
+  "descLen": 985
+ },
+ {
+  "eid": "4b62384f0e419a5a0nN439W8EFVW",
+  "name": "AI项目经理（FDE）",
+  "company": "杭州智德(金蝶)",
+  "salary": "15-20K",
+  "area": null,
+  "score": 57,
+  "reasons": [
+   "+30 核心FDE",
+   "+12 能力命中(交付,客户,方案)",
+   "+15 薪资匹配"
+  ],
+  "descLen": 377
+ },
+ {
+  "eid": "07ee313a3488607b0nJ82N-8FFpW",
+  "name": "AI Agent 全栈产品经理（初创/FDE岗）",
+  "company": "泰瓴未来",
+  "salary": "8-10K·13薪",
+  "area": null,
+  "score": 57,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(agent,api,mcp,rag,方案,知识库)",
+   "+3 薪资偏低"
+  ],
+  "descLen": 1008
+ },
+ {
+  "eid": "4ecf8d688fd9b4580nJ43N6-E1RZ",
+  "name": "现场实施工程师（FDE）",
+  "company": "佛山市益帕瓦物联科技",
+  "salary": "10-12K",
+  "area": null,
+  "score": 53,
+  "reasons": [
+   "+30 核心FDE",
+   "+20 能力命中(交付,大模型,客户,方案,部署)",
+   "+3 薪资偏低"
+  ],
+  "descLen": 453
+ },
+ {
+  "eid": "d131ce384405809d0nN709-1GFVX",
+  "name": "前线部署工程师（FDE）合伙人",
+  "company": "杭州家有仙妈电子商务",
+  "salary": "8-13K",
+  "area": null,
+  "score": 53,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(agent,prompt,rag,向量,大模型,工作流)",
+   "+8 零售",
+   "+3 薪资偏低",
+   "-12 短板(java,全栈开发)"
+  ],
+  "descLen": 745
+ },
+ {
+  "eid": "f3a981e023458e090nN629q8FVRX",
+  "name": "急聘AI电商销售主管",
+  "company": "成都福客人工智能科技",
+  "salary": "30-50K",
+  "area": null,
+  "score": 53,
+  "reasons": [
+   "+4 偏销售",
+   "+24 能力命中(poc,交付,客户,方案,电商,解决方案)",
+   "+15 电商行业",
+   "+10 薪资部分匹配"
+  ],
+  "descLen": 634
+ },
+ {
+  "eid": "d04f83d5ed2739240nF_2t67FFFR",
+  "name": "FDE 合伙",
+  "company": "杭州中盈佰润科技",
+  "salary": "30-60K·14薪",
+  "area": null,
+  "score": 52,
+  "reasons": [
+   "+30 核心FDE",
+   "+12 能力命中(api,交付,客户)",
+   "+10 薪资部分匹配"
+  ],
+  "descLen": 430
+ },
+ {
+  "eid": "c4bd9bc76fd661b90nN609q7ElBX",
+  "name": "展陈AI‑FDE/AI业务串联主管",
+  "company": "禧动文化",
+  "salary": "10-15K",
+  "area": null,
+  "score": 48,
+  "reasons": [
+   "+30 核心FDE",
+   "+8 能力命中(客户,方案)",
+   "+10 薪资部分匹配"
+  ],
+  "descLen": 260
+ },
+ {
+  "eid": "b9229f6a01af30190nN429S8EVpU",
+  "name": "AI 产品销售顾问",
+  "company": "紫驰网络",
+  "salary": "15-25K",
+  "area": null,
+  "score": 47,
+  "reasons": [
+   "+12 产品/项目",
+   "+20 能力命中(交付,大模型,客户,方案,智能体)",
+   "+15 薪资匹配"
+  ],
+  "descLen": 1103
+ },
+ {
+  "eid": "c6ec4b3604a49c680nN52ti9F1ZQ",
+  "name": "前向部署（FDE）负责人（p89年龄友好）",
+  "company": "前向部署（FDE）负责人（p89年龄友好） 70-100K·16薪",
+  "salary": "70-100K·16薪",
+  "area": null,
+  "score": 46,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(agent,llm,rag,交付,大模型,客户)",
+   "+10 薪资部分匹配",
+   "-18 短板(java,typescript,全栈开发)"
+  ],
+  "descLen": 890
+ },
+ {
+  "eid": "9c7ad820addf9bf20nJ52tS7EFdT",
+  "name": "FDE 全栈 AI 工程师",
+  "company": "云凡智联",
+  "salary": "20-40K",
+  "area": null,
+  "score": 46,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(agent,api,llm,prompt,rag,tob)",
+   "+10 薪资部分匹配",
+   "-18 短板(react,vue,全栈开发)"
+  ],
+  "descLen": 463
+ },
+ {
+  "eid": "7eb369a86e86166a0nF-0t27E1VX",
+  "name": "AI 产品经理",
+  "company": "长安仁恒",
+  "salary": "20-40K",
+  "area": null,
+  "score": 46,
+  "reasons": [
+   "+12 产品/项目",
+   "+24 能力命中(agent,llm,prompt,rag,交付,客户)",
+   "+10 薪资部分匹配"
+  ],
+  "descLen": 1771
+ },
+ {
+  "eid": "845c3ef4c12a08460nF83tW1FVdW",
+  "name": "fde全栈",
+  "company": "杭州利舰科技有限公司",
+  "salary": "15-30K",
+  "area": null,
+  "score": 45,
+  "reasons": [
+   "+30 核心FDE",
+   "+0 能力命中()",
+   "+15 薪资匹配"
+  ],
+  "descLen": 18
+ },
+ {
+  "eid": "f5fbe788f23735cb0nB43dS-EVFU",
+  "name": "AI交付工程师（FDE）",
+  "company": "沐光",
+  "salary": "6-8K",
+  "area": null,
+  "score": 45,
+  "reasons": [
+   "+30 核心FDE",
+   "+12 能力命中(交付,客户,方案)",
+   "+3 薪资偏低"
+  ],
+  "descLen": 635
+ },
+ {
+  "eid": "bc9f88c707790a070nN53t66FFZS",
+  "name": "AI运营官（FDE) AI效能官",
+  "company": "浙江东华芯数智科技",
+  "salary": "8-12K",
+  "area": null,
+  "score": 45,
+  "reasons": [
+   "+30 核心FDE",
+   "+12 能力命中(工作流,方案,智能体)",
+   "+3 薪资偏低"
+  ],
+  "descLen": 390
+ },
+ {
+  "eid": "4e3d4868a9b6e4a30nJ40tm_F1JZ",
+  "name": "大模型评测工程师（数据评测与合成）",
+  "company": "大模型评测工程师（数据评测与合成） 20-40K",
+  "salary": "20-40K",
+  "area": null,
+  "score": 42,
+  "reasons": [
+   "+8 其他",
+   "+24 能力命中(agent,llm,sft,交付,客户,方案)",
+   "+10 薪资部分匹配"
+  ],
+  "descLen": 764
+ },
+ {
+  "eid": "ff1a365aa09ffac80nJ739i-FltX",
+  "name": "产品经理CP2601",
+  "company": "华数传媒",
+  "salary": "10-15K",
+  "area": null,
+  "score": 42,
+  "reasons": [
+   "+12 产品/项目",
+   "+20 能力命中(大模型,客户,微调,数据分析,方案)",
+   "+10 薪资部分匹配"
+  ],
+  "descLen": 532
+ },
+ {
+  "eid": "66cb679bce53e1840nJ92Nu6ElVT",
+  "name": "人工智能开发 智能体 FDE OPC 跨境 Claw",
+  "company": "杭州星红文化传媒",
+  "salary": "20000-50000元/月",
+  "area": null,
+  "score": 42,
+  "reasons": [
+   "+30 核心FDE",
+   "+12 能力命中(方案,自动化,部署)"
+  ],
+  "descLen": 357
+ },
+ {
+  "eid": "73727ce691c8e0e80nJ609i0EVpW",
+  "name": "AI企业落地大客户/销售/商务经理",
+  "company": "维京",
+  "salary": "7-12K",
+  "area": null,
+  "score": 38,
+  "reasons": [
+   "+4 偏销售",
+   "+16 能力命中(交付,客户,方案,智能体)",
+   "+15 电商行业",
+   "+3 薪资偏低"
+  ],
+  "descLen": 773
+ },
+ {
+  "eid": "d2d803ca8cadb6b50nJ-2du4FFNX",
+  "name": "初级 ai 全栈工程师",
+  "company": "杭州个性进化教育科技",
+  "salary": "8-12K",
+  "area": null,
+  "score": 17,
+  "reasons": [
+   "+8 其他",
+   "+24 能力命中(agent,api,docker,llm,rag,大模型)",
+   "+3 薪资偏低",
+   "-18 短板(java,react,vue)"
+  ],
+  "descLen": 833
+ },
+ {
+  "eid": "9c98eb41b063dc0e0nJy3tq4FlBV",
+  "name": "智能体开发工程师",
+  "company": "杭州镒智科技有限公司",
+  "salary": "6-7K",
+  "area": null,
+  "score": 15,
+  "reasons": [
+   "+8 其他",
+   "+4 能力命中(智能体)",
+   "+3 薪资偏低"
+  ],
+  "descLen": 239
+ }
+]

@@ -1,0 +1,1018 @@
+[
+ {
+  "company": "海康威视",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "总部杭州滨江，员工数万人；EBG/解决方案/交付体系庞大，海外业务覆盖全球。",
+  "relevant_roles": [
+   "解决方案工程师（AI工程化）",
+   "售前/解决方案工程师（出差新加坡等）",
+   "大屏交付工程师（校招）",
+   "技术支持工程师"
+  ],
+  "role_type": "AI解决方案 / 技术支持 / 交付",
+  "career_url": "https://talent.hikvision.com/society/index",
+  "evidence_url": "https://www.zhipin.com/job_detail/189d3b86c65d275c1XJ-2tu8EFVV.html",
+  "why_fit": "安防+AIoT巨头，解决方案/售前岗明确要求AI工程化落地能力，FDE式『懂业务+能做方案』画像高度重合；电商经验可迁移到其电商/零售行业线。",
+  "confidence": "high",
+  "excluded": false
+ },
+ {
+  "company": "大华股份",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "总部杭州滨江；全球视频AI第二，行业解决方案与海外交付团队规模大。",
+  "relevant_roles": [
+   "解决方案工程师",
+   "产品解决方案工程师",
+   "解决方案经理",
+   "研发解决方案工程师（能源SDT）",
+   "海外资深解决方案工程师"
+  ],
+  "role_type": "AI解决方案",
+  "career_url": "https://dahua.zhiye.com/social",
+  "evidence_url": "https://www.zhipin.com/job_detail/db7c22c2409b44f31XR50t61GVZR.html",
+  "why_fit": "解决方案岗多、层级全（工程师/经理/总监），非纯算法岗；愿意出差驻场是海外解决方案线的加分项。",
+  "confidence": "high",
+  "excluded": false
+ },
+ {
+  "company": "宇视科技",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "总部杭州滨江，视频物联/AIoT，设『技服』（技术支持与交付）序列。",
+  "relevant_roles": [
+   "技服类岗位（技术支持/交付方向）"
+  ],
+  "role_type": "技术支持 / 交付",
+  "career_url": "https://talent.uniview.com/",
+  "evidence_url": "https://talent.uniview.com/wt/uniview/web/index/social?positionType=0/1227/100291&brandCode=1",
+  "why_fit": "技服序列常年吸纳『懂产品+能对客户』的人，AI落地能力可加分；杭州本地通勤友好。",
+  "confidence": "medium",
+  "excluded": false
+ },
+ {
+  "company": "新华三",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "总部杭州滨江（紫光集团旗下），政企网络/云/算力解决方案与交付体系庞大。",
+  "relevant_roles": [
+   "解决方案/售前类岗位（官网社招门户，需按城市筛选杭州）"
+  ],
+  "role_type": "AI解决方案 / 交付",
+  "career_url": "https://h3c.zhiye.com/social",
+  "evidence_url": "https://h3c.zhiye.com/social",
+  "why_fit": "政企AI解决方案与交付需求大，FDE画像匹配；但需在门户内按『杭州+解决方案』自行筛选确认在招。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "恒生电子",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "总部杭州滨江，金融IT龙头；证券/基金/银行解决方案与交付团队庞大。",
+  "relevant_roles": [
+   "解决方案-证券期货（20-30k·14薪，杭州滨江）",
+   "交付工程师（外地岗位亦有）"
+  ],
+  "role_type": "AI解决方案 / 交付",
+  "career_url": "https://hundsun.zhiye.com/social",
+  "evidence_url": "https://www.liepin.com/job/1985494113.shtml",
+  "why_fit": "金融科技解决方案岗明确在杭州在招；客户对接+方案设计能力可直接迁移，AI能力可切其数智化产品线。",
+  "confidence": "high",
+  "excluded": false
+ },
+ {
+  "company": "同花顺",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "总部杭州余杭，互联网金融信息服务与AI投研产品。",
+  "relevant_roles": [
+   "官网社招门户在招岗位（含AI/产品/服务方向，需站内筛选）"
+  ],
+  "role_type": "其他（以产品/算法岗为主）",
+  "career_url": "https://job.10jqka.com.cn/",
+  "evidence_url": "https://job.10jqka.com.cn/",
+  "why_fit": "金融AI产品线有落地方向，但以产品/算法为主，未见明确『AI交付/解决方案』岗；列为备选。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "虹软科技",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "总部杭州滨江，视觉AI算法与手机/汽车视觉解决方案。",
+  "relevant_roles": [
+   "以视觉算法研发岗为主"
+  ],
+  "role_type": "其他（仅算法研发岗，无AI交付/解决方案岗）",
+  "career_url": "https://www.arcsoft.com.cn/",
+  "evidence_url": "https://www.arcsoft.com.cn/",
+  "why_fit": "以算法研发为主，与『交付/解决方案』方向不完全匹配，且视觉方案能力非求职者强项，优先级低。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "涂鸦智能",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "总部杭州西湖区（华策中心），IoT/AI PaaS 平台，产品与技术团队在杭州。",
+  "relevant_roles": [
+   "解决方案架构师（能源）",
+   "AI 开发平台产品专家",
+   "AI 应用开发工程师（暂停中）",
+   "AI产品经理",
+   "AI产品运营",
+   "资深AI Agent开发工程师"
+  ],
+  "role_type": "AI解决方案 / AI产品",
+  "career_url": "https://app.mokahr.com/social-recruitment/tuya/3236",
+  "evidence_url": "https://app.mokahr.com/social-recruitment/tuya/3236",
+  "why_fit": "杭州在招解决方案架构师与多个AI平台/产品岗，toB交付+AI应用落地背景契合；能源行业经验是短板但可学。",
+  "confidence": "high",
+  "excluded": false
+ },
+ {
+  "company": "有赞",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "总部杭州，电商SaaS头部，商家服务与客户成功体系成熟。",
+  "relevant_roles": [
+   "官网社招门户（技术/客户成功方向，需站内筛选）"
+  ],
+  "role_type": "其他",
+  "career_url": "https://youzan.zhiye.com/social",
+  "evidence_url": "https://youzan.zhiye.com/social",
+  "why_fit": "电商SaaS与求职者电商背景高度契合，客户成功/交付类岗位存在可能，但门户为JS渲染，未能确认具体AI交付岗。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "微医",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "总部杭州萧山，数字健康平台，AI医疗与解决方案团队在杭州。",
+  "relevant_roles": [
+   "医疗行业解决方案架构师",
+   "医疗产品解决方案专家",
+   "技术支持",
+   "项目经理",
+   "高级项目经理",
+   "AI应用开发工程师（暂停中）"
+  ],
+  "role_type": "AI解决方案 / 技术支持",
+  "career_url": "https://app.mokahr.com/social-recruitment/wedoctor/41066",
+  "evidence_url": "https://app.mokahr.com/social-recruitment/wedoctor/41066",
+  "why_fit": "杭州萧山明确在招医疗行业解决方案架构师/解决方案专家+技术支持，是本地最匹配『解决方案交付』画像的公司之一；医疗行业经验需补。",
+  "confidence": "high",
+  "excluded": false
+ },
+ {
+  "company": "每日互动",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "总部杭州，数据智能服务商（个推）。",
+  "relevant_roles": [
+   "FDE交付工程师（15-30K，杭州）"
+  ],
+  "role_type": "FDE / AI交付",
+  "career_url": "https://www.zhipin.com/zhipin/",
+  "evidence_url": "https://www.zhipin.com/job_detail/f33ed8e349409aba0nJz3N65ElRQ.html",
+  "why_fit": "岗位名直接是『FDE交付工程师』，是杭州本土少见的原汁原味FDE岗，匹配度极高。",
+  "confidence": "high",
+  "excluded": false
+ },
+ {
+  "company": "群核科技（酷家乐）",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "总部杭州，3D云设计/AI空间智能。",
+  "relevant_roles": [
+   "官网招聘门户（以研发/产品为主）"
+  ],
+  "role_type": "其他（以研发/产品岗为主）",
+  "career_url": "https://www.kujiale.com/",
+  "evidence_url": "https://kujiale.zhiye.com/social",
+  "why_fit": "空间智能方向有AI产品化，但未见交付/解决方案岗在招，优先级低。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "数梦工场",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "总部杭州，政务/城市数字化数据智能。",
+  "relevant_roles": [
+   "政企数据智能解决方案/交付类岗位（官网门户）"
+  ],
+  "role_type": "AI解决方案 / 交付",
+  "career_url": "http://www.dtdream.com/",
+  "evidence_url": "http://www.dtdream.com/",
+  "why_fit": "政务数字化交付体系与FDE画像接近，可关注；但官网HTTPS配置异常且未能确认在招的AI交付具体岗位，投递前需先核实。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "趣链科技",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "总部杭州滨江，区块链+数据要素，解决方案/售前团队在杭州。",
+  "relevant_roles": [
+   "产品/解决方案实习生（能源，杭州滨江）",
+   "售前解决方案（外地）"
+  ],
+  "role_type": "AI解决方案",
+  "career_url": "https://app.mokahr.com/social-recruitment/qulian/56024",
+  "evidence_url": "https://app.mokahr.com/social-recruitment/qulian/56024",
+  "why_fit": "有解决方案序列，但杭州目前多为实习/外地岗，正式交付岗需持续跟进。",
+  "confidence": "medium",
+  "excluded": false
+ },
+ {
+  "company": "数秦科技",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "总部杭州，区块链/数据要素科技公司。",
+  "relevant_roles": [
+   "前线部署工程师（FDE，10-15K·14薪，杭州）"
+  ],
+  "role_type": "FDE",
+  "career_url": "https://www.zhipin.com/zhipin/",
+  "evidence_url": "https://www.zhipin.com/job_detail/55677630b617bd3c0nN62t69EFFR.html",
+  "why_fit": "岗位名即『前线部署工程师(FDE)』，杭州在招；薪资低于期望但可作为FDE入行跳板。",
+  "confidence": "high",
+  "excluded": false
+ },
+ {
+  "company": "宇泛智能",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "总部杭州，AIoT智能物联（人脸识别/智慧城市）。",
+  "relevant_roles": [
+   "AI产品解决方案工程师（15-25K，杭州）"
+  ],
+  "role_type": "AI解决方案",
+  "career_url": "https://www.zhipin.com/zhipin/",
+  "evidence_url": "https://www.zhipin.com/job_detail/bde5db43745c17ad0nB50t-5ElpW.html",
+  "why_fit": "岗位即『AI产品解决方案工程师』，与求职者AI应用落地+产品视角高度契合，薪资区间正落在期望内。",
+  "confidence": "high",
+  "excluded": false
+ },
+ {
+  "company": "魔点科技",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "总部杭州，人脸识别智能办公硬件。",
+  "relevant_roles": [
+   "官网招聘门户（以研发/硬件为主）"
+  ],
+  "role_type": "其他（以研发/硬件岗为主）",
+  "career_url": "https://www.moxiang.com/",
+  "evidence_url": "https://modian.zhiye.com/social",
+  "why_fit": "智能硬件为主，交付多是渠道实施，AI方案岗位信息不足，优先级低。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "税友软件",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "总部杭州滨江，财税数字化（亿企赢），企业服务交付体系成熟。",
+  "relevant_roles": [
+   "产品经理岗（人力智能体，杭州滨江）",
+   "业务咨询岗"
+  ],
+  "role_type": "AI产品 / 咨询",
+  "career_url": "https://app.mokahr.com/social-recruitment/servyou/42864",
+  "evidence_url": "https://app.mokahr.com/social-recruitment/servyou/42864",
+  "why_fit": "在招『人力智能体』产品岗，属AI应用落地方向；财税toB交付与求职者toB交付经验可迁移。",
+  "confidence": "medium",
+  "excluded": false
+ },
+ {
+  "company": "创业慧康",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "总部杭州，医疗信息化龙头。",
+  "relevant_roles": [
+   "官网招聘门户（医疗信息化实施/交付方向）"
+  ],
+  "role_type": "其他（医疗信息化实施，需行业经验）",
+  "career_url": "https://www.bsoft.com.cn/",
+  "evidence_url": "https://bsoft.zhiye.com/social",
+  "why_fit": "医疗信息化实施交付岗存在，但需行业经验；列为备选。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "中控技术",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "总部杭州滨江，工业自动化/工业AI龙头，解决方案与工程交付团队数千人。",
+  "relevant_roles": [
+   "解决方案工程师（物流机器人）",
+   "高级产品解决方案工程师",
+   "解决方案经理（华东大区）",
+   "巡检解决方案经理",
+   "矿山/装备行业解决方案总监",
+   "高级解决方案工程师/专家（火电方向）",
+   "大模型应用工程师",
+   "高级网络安全实施工程师/项目经理",
+   "APC实施兼项目经理"
+  ],
+  "role_type": "AI解决方案 / 交付 / 实施",
+  "career_url": "https://app.mokahr.com/social-recruitment/supcon/78261",
+  "evidence_url": "https://app.mokahr.com/social-recruitment/supcon/78261",
+  "why_fit": "杭州滨江在招解决方案岗数量最多（工程师到总监全层级）+大模型应用工程师，是本地『解决方案交付』岗最密集的公司；工业行业经验需补。",
+  "confidence": "high",
+  "excluded": false
+ },
+ {
+  "company": "浙大网新",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "总部杭州，IT服务与数字化解决方案。",
+  "relevant_roles": [
+   "官网招聘入口（系统集成/交付方向）"
+  ],
+  "role_type": "其他（系统集成交付，AI属性弱）",
+  "career_url": "https://www.insigma.com.cn/",
+  "evidence_url": "https://www.insigma.com.cn/",
+  "why_fit": "系统集成交付背景与FDE有一定重合，但AI属性弱，信息不足。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "银江技术",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "总部杭州，智慧交通/城市数字化。",
+  "relevant_roles": [
+   "官网招聘入口（智慧城市交付方向）"
+  ],
+  "role_type": "其他（智慧交通交付，需行业背景）",
+  "career_url": "http://www.enjoyor.net/",
+  "evidence_url": "http://www.enjoyor.net/join",
+  "why_fit": "智慧交通项目交付体系存在，但需行业背景，AI交付属性弱。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "聚光科技",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "总部杭州，环境监测仪器与智慧环保。",
+  "relevant_roles": [
+   "官网招聘入口（技术支持/实施方向）"
+  ],
+  "role_type": "其他（仪器仪表实施，AI属性弱）",
+  "career_url": "https://www.fpi-inc.com/",
+  "evidence_url": "https://fpi.zhiye.com/social",
+  "why_fit": "偏仪器仪表与行业实施，AI属性弱，优先级低。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "启明医疗",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "总部杭州，心脏瓣膜医疗器械。",
+  "relevant_roles": [
+   "官网招聘入口（临床/技术支持方向）"
+  ],
+  "role_type": "其他（临床技术支持，非AI方向）",
+  "career_url": "https://www.venusmedtech.com/",
+  "evidence_url": "https://www.venusmedtech.com/",
+  "why_fit": "医疗器械以临床技术支持为主，非AI交付方向，优先级低。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "当虹科技",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "总部杭州，视频AI/超高清编解码。",
+  "relevant_roles": [
+   "官网社招门户（视频AI方案/交付方向，需站内筛选）"
+  ],
+  "role_type": "其他（视频AI方案，跨度大）",
+  "career_url": "https://arcvideo.zhiye.com/social",
+  "evidence_url": "https://arcvideo.zhiye.com/social",
+  "why_fit": "视频AI方案与交付存在，但与求职者电商垂直经验跨度大，列为备选。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "安恒信息",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "总部杭州滨江，网络安全龙头。",
+  "relevant_roles": [
+   "官网招聘入口（安全服务/交付方向）"
+  ],
+  "role_type": "其他（安全服务交付，AI方向不明）",
+  "career_url": "https://www.dbappsecurity.com.cn/",
+  "evidence_url": "https://dbappsecurity.zhiye.com/social",
+  "why_fit": "安全交付/服务岗存在，但AI交付方向不明确，优先级低。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "迪普科技",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "总部杭州滨江，网络安全设备与解决方案。",
+  "relevant_roles": [
+   "官网社招门户（解决方案/技术支持方向）"
+  ],
+  "role_type": "其他（网络安全解决方案，AI属性弱）",
+  "career_url": "https://dptech.zhiye.com/social",
+  "evidence_url": "https://dptech.zhiye.com/social",
+  "why_fit": "网络安全解决方案与技术支持序列存在，AI属性弱，优先级低。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "信雅达",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "总部杭州滨江，金融科技（银行影像/风控），正推进AI产品化。",
+  "relevant_roles": [
+   "解决方案与售前工程师（杭州滨江）",
+   "交付项目经理（杭州滨江）",
+   "AI技术总监",
+   "AI研究员"
+  ],
+  "role_type": "AI解决方案 / 交付",
+  "career_url": "https://app.mokahr.com/social-recruitment/sunyard/43202",
+  "evidence_url": "https://app.mokahr.com/social-recruitment/sunyard/43202",
+  "why_fit": "杭州滨江同时在招『解决方案与售前工程师』+『交付项目经理』，是少见的方案+交付双岗组合，与FDE画像直接对应。",
+  "confidence": "high",
+  "excluded": false
+ },
+ {
+  "company": "恒生聚源",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "恒生电子旗下金融数据服务公司，杭州。",
+  "relevant_roles": [
+   "官网/母公司门户（数据服务与交付方向）"
+  ],
+  "role_type": "其他（金融数据服务）",
+  "career_url": "https://www.gildata.com/",
+  "evidence_url": "https://www.gildata.com/",
+  "why_fit": "金融数据服务，与AI应用落地有一定结合点，但岗位信息未确认。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "商米科技",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "总部杭州西湖区，商用IoT智能硬件与PaaS。",
+  "relevant_roles": [
+   "AI 工程师-2（杭州西湖区）",
+   "FDE工程师（Agent工程方向，15-30K·13薪，杭州）"
+  ],
+  "role_type": "FDE / AI应用",
+  "career_url": "https://app.mokahr.com/social-recruitment/sunmi/118589",
+  "evidence_url": "https://www.zhipin.com/job_detail/49847e610a602b620nJ80t27FlBX.html",
+  "why_fit": "杭州同时在招FDE（Agent工程方向）与AI工程师，Agent落地经验直接命中；智能商用场景与电商零售有交集。",
+  "confidence": "high",
+  "excluded": false
+ },
+ {
+  "company": "宇树科技",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "总部杭州，四足/人形机器人独角兽。",
+  "relevant_roles": [
+   "官网职位门户（以算法/硬件研发为主）"
+  ],
+  "role_type": "其他（仅算法/硬件研发岗，无AI交付岗）",
+  "career_url": "https://www.unitree.com/position/",
+  "evidence_url": "https://www.unitree.com/position/",
+  "why_fit": "以机器人算法研发为主，非交付/解决方案方向，优先级低。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "云深处科技",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "总部杭州，四足机器人。",
+  "relevant_roles": [
+   "官网招聘（研发为主）"
+  ],
+  "role_type": "其他（仅研发岗，无AI交付岗）",
+  "career_url": "https://www.deeprobotics.cn/",
+  "evidence_url": "https://www.deeprobotics.cn/",
+  "why_fit": "研发导向，交付/解决方案岗位信息不足，优先级低。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "深度求索（DeepSeek）",
+  "type": "AI独角兽（杭州总部）",
+  "hangzhou_team": "总部杭州，大模型公司；招聘以研究/工程为主。",
+  "relevant_roles": [
+   "官网招聘（研究/算法为主）"
+  ],
+  "role_type": "其他（仅研究/训练工程岗，无交付岗）",
+  "career_url": "https://www.deepseek.com/",
+  "evidence_url": "https://www.deepseek.com/",
+  "why_fit": "岗位以顶尖研究/训练工程为主，学历与背景门槛高，与交付方向不匹配。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "吉利控股集团",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "总部杭州，汽车集团；杭州滨江/萧山设数智化、智能驾驶与AI应用团队（极氪/领克）。",
+  "relevant_roles": [
+   "AI解决方案专家（生态方向，杭州滨江）",
+   "AI 交付产品经理（杭州滨江）",
+   "技术支持工程师-极氪（杭州）",
+   "远程技术支持工程师-吉利（杭州）",
+   "解决方案经理（智能驾驶业务，杭州）",
+   "语音产品解决方案工程师（杭州）",
+   "交付顾问（浙江战区，杭州拱墅）",
+   "AI应用解决方案工程师（慈溪）"
+  ],
+  "role_type": "AI交付 / AI解决方案 / 技术支持",
+  "career_url": "https://app.mokahr.com/social-recruitment/geely/96123",
+  "evidence_url": "https://www.zhipin.com/job_detail/0736f7ed123c0a8c0nJ509y4E1RZ.html",
+  "why_fit": "杭州滨江同时在招『AI交付产品经理』与『AI解决方案专家』，FDE方向明确；BOSS上还有FDE工程师岗(20-40K)；愿意出差驻场适配其区域交付（浙江战区）。",
+  "confidence": "high",
+  "excluded": false
+ },
+ {
+  "company": "海天瑞声",
+  "type": "AI独角兽（杭州设岗）",
+  "hangzhou_team": "北京总部，AI训练数据服务商，在杭州招聘FDE。",
+  "relevant_roles": [
+   "FDE工程师（18-30K·14薪，杭州）"
+  ],
+  "role_type": "FDE",
+  "career_url": "https://www.speechocean.com/",
+  "evidence_url": "https://www.zhipin.com/job_detail/d1b2084d6c53dbda0nFy29m9EFVS.html",
+  "why_fit": "人工智能数据服务龙头，杭州在招FDE工程师，标注/评测体系经验（求职者阿里标注基地背景）高度对口，是差异化优势岗。",
+  "confidence": "high",
+  "excluded": false
+ },
+ {
+  "company": "共达地",
+  "type": "AI独角兽（杭州设岗）",
+  "hangzhou_team": "深圳总部，AutoML视觉AI平台；杭州招聘行业应用解决方案专家。",
+  "relevant_roles": [
+   "AI行业应用解决方案专家（20-40K·14薪，杭州，需前3个月深圳磨合后可居家）"
+  ],
+  "role_type": "AI解决方案（售前/行业拓展）",
+  "career_url": "https://www.gongdadi.com/",
+  "evidence_url": "https://www.zhipin.com/job_detail/612487925a495a2f0nR739y6GFdW.html",
+  "why_fit": "岗位要求『熟悉1个垂直行业+有AI项目落地经验』，求职者电商垂直AI落地正好满足；薪资20-40K高于期望上限。注：JD要求视觉AI方案能力，是求职者短板需正面沟通。",
+  "confidence": "high",
+  "excluded": false
+ },
+ {
+  "company": "网易（杭州研究院）",
+  "type": "杭州本地大厂",
+  "hangzhou_team": "杭州研究院（滨江/西湖），游戏、云音乐、严选、易盾（安全）等多业务；技术岗规模数千人。",
+  "relevant_roles": [
+   "易盾-技术支持工程师（杭州）",
+   "Agent产品专家（杭州）",
+   "AI需求分析师（FDE方向，20-30K，杭州，外包编制）"
+  ],
+  "role_type": "技术支持 / AI产品 / FDE",
+  "career_url": "https://hr.163.com/",
+  "evidence_url": "https://hr.163.com/job-detail.html?id=76606",
+  "why_fit": "易盾技术支持明确在杭州在招，且网易有『AI需求分析师(FDE方向)』岗位，说明其内部认可FDE画像；平台大、体系成熟。",
+  "confidence": "high",
+  "excluded": false
+ },
+ {
+  "company": "腾讯（杭州）",
+  "type": "全国大厂杭州团队",
+  "hangzhou_team": "腾讯在杭州有 CSIG（腾讯云）与 IEG（游戏）团队，游戏侧杭州团队规模较大。",
+  "relevant_roles": [
+   "腾讯云-生态赋能与支持公有云架构师（杭州/北京/深圳）",
+   "腾讯游戏-大模型评测专家（杭州）"
+  ],
+  "role_type": "AI解决方案 / 技术支持（另有大量算法研发岗）",
+  "career_url": "https://careers.tencent.com/search.html",
+  "evidence_url": "https://careers.tencent.com/jobdesc.html?postId=2077641169****976",
+  "why_fit": "杭州确有腾讯云生态赋能/架构师岗（偏客户成功+方案支持），与期望方向一致；但杭州其余岗位以IEG大模型算法研发为主，需精准筛选。",
+  "confidence": "medium",
+  "excluded": false
+ },
+ {
+  "company": "华为（杭州研究所）",
+  "type": "全国大厂杭州团队",
+  "hangzhou_team": "华为杭州研究所（滨江），终端/云计算/计算产业；设交付与技术服务序列。",
+  "relevant_roles": [
+   "AI交付工程师（华为云计算，杭州岗位）"
+  ],
+  "role_type": "AI交付",
+  "career_url": "https://career.huawei.com/reccampportal/portal5/social-recruitment.html",
+  "evidence_url": "https://www.zhipin.com/job_detail/eb63afb318fb8f711X1y2di-E1BV.html",
+  "why_fit": "出现『AI交付工程师』岗位且指向杭州，是华为内部明确的交付序列；但整体招聘以研发为主，需按入口筛选。",
+  "confidence": "medium",
+  "excluded": false
+ },
+ {
+  "company": "百度（杭州）",
+  "type": "全国大厂杭州团队",
+  "hangzhou_team": "百度在杭州有分支机构；智能云/ACG 解决方案岗位多在北京、上海、深圳。",
+  "relevant_roles": [
+   "未检索到杭州的AI解决方案在招岗位（百度同一岗位多地workPlace未含杭州）"
+  ],
+  "role_type": "其他（无杭州在招AI交付岗）",
+  "career_url": "https://talent.baidu.com/jobs/social-list",
+  "evidence_url": "https://talent.baidu.com/jobs/social-list",
+  "why_fit": "用百度官方API全量检索『AI解决方案/解决方案/交付』等关键词，杭州均无命中，杭州团队以研发为主。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "字节跳动（杭州）",
+  "type": "全国大厂杭州团队",
+  "hangzhou_team": "字节杭州有研发团队（电商/飞书/火山相关）。",
+  "relevant_roles": [
+   "官网社招页（杭州岗位以研发/产品为主，未能确认AI交付岗）"
+  ],
+  "role_type": "其他（未验证出杭州AI交付岗）",
+  "career_url": "https://jobs.bytedance.com/experienced",
+  "evidence_url": "https://jobs.bytedance.com/experienced",
+  "why_fit": "招聘API对本环境返回405，未能验证杭州在招AI交付岗；列为待核查。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "京东（杭州）",
+  "type": "全国大厂杭州团队",
+  "hangzhou_team": "京东在杭州有区域与研发团队；京东云/零售解决方案多在总部。",
+  "relevant_roles": [
+   "招聘官网（需登录筛选，未能确认杭州AI交付岗）"
+  ],
+  "role_type": "其他（未验证出杭州AI交付岗）",
+  "career_url": "https://zhaopin.jd.com/",
+  "evidence_url": "https://zhaopin.jd.com/",
+  "why_fit": "京东零售数字化与求职者电商背景契合，但官方API返回NotLogin，未取得杭州岗位证据。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "美团（杭州）",
+  "type": "全国大厂杭州团队",
+  "hangzhou_team": "美团在杭州有研发与到店/零售业务团队。",
+  "relevant_roles": [
+   "招聘官网（需登录，未能确认杭州AI交付岗）"
+  ],
+  "role_type": "其他（未验证出杭州AI交付岗）",
+  "career_url": "https://zhaopin.meituan.com/web/home",
+  "evidence_url": "https://zhaopin.meituan.com/web/home",
+  "why_fit": "美团官方API返回『未登陆』，未能验证杭州AI交付岗；列为待核查。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "快手（杭州）",
+  "type": "全国大厂杭州团队",
+  "hangzhou_team": "快手在杭州有电商/商业化团队。",
+  "relevant_roles": [
+   "招聘官网（未能确认杭州AI交付岗）"
+  ],
+  "role_type": "其他（未验证出杭州AI交付岗）",
+  "career_url": "https://zhaopin.kuaishou.cn/",
+  "evidence_url": "https://zhaopin.kuaishou.cn/",
+  "why_fit": "电商业务与求职者背景契合，但招聘接口限制，未取得杭州岗位证据。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "小米（杭州）",
+  "type": "全国大厂杭州团队",
+  "hangzhou_team": "小米在杭州有区域与生态链团队。",
+  "relevant_roles": [
+   "招聘官网（未能确认杭州AI交付岗）"
+  ],
+  "role_type": "其他（未验证出杭州AI交付岗）",
+  "career_url": "https://hr.xiaomi.com/",
+  "evidence_url": "https://hr.xiaomi.com/",
+  "why_fit": "未能取得杭州AI交付类岗位证据，优先级低。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "微软（杭州）",
+  "type": "全国大厂杭州团队",
+  "hangzhou_team": "微软在杭州设研发中心（Azure/云与AI相关）。",
+  "relevant_roles": [
+   "Global careers 支持按 Hangzhou 地点检索（含 Solution/Architect 类岗位，多为英文）"
+  ],
+  "role_type": "AI解决方案 / 技术支持",
+  "career_url": "https://apply.careers.microsoft.com/",
+  "evidence_url": "https://jobs.careers.microsoft.com/global/en/search?lc=Hangzhou",
+  "why_fit": "微软Solution Architect/Technical Specialist类岗位与FDE画像接近，杭州有研发中心；但要求较强英文，是求职者短板。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "商汤科技",
+  "type": "AI独角兽",
+  "hangzhou_team": "总部北京/上海，杭州有业务与交付团队。",
+  "relevant_roles": [
+   "官网社招（hr-jobs.sensetime.com，含解决方案/交付方向，需站内筛选）"
+  ],
+  "role_type": "AI解决方案 / 交付",
+  "career_url": "https://hr-jobs.sensetime.com/exp/position/list",
+  "evidence_url": "https://hr-jobs.sensetime.com/exp/position/list",
+  "why_fit": "计算机视觉AI方案龙头，解决方案与交付岗存在；需视觉方案能力，是求职者短板，优先级中。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "旷视科技",
+  "type": "AI独角兽",
+  "hangzhou_team": "北京总部，杭州设业务/交付团队。",
+  "relevant_roles": [
+   "官网招聘页（以算法研发为主）"
+  ],
+  "role_type": "其他（仅算法研发岗）",
+  "career_url": "https://www.megvii.com/careers",
+  "evidence_url": "https://www.megvii.com/careers",
+  "why_fit": "以算法研发与视觉方案为主，与求职者方向不完全匹配。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "云从科技",
+  "type": "AI独角兽",
+  "hangzhou_team": "广州总部，杭州滨江有团队；在杭州在招项目经理。",
+  "relevant_roles": [
+   "项目经理（IOT，杭州滨江）"
+  ],
+  "role_type": "交付 / 项目管理",
+  "career_url": "https://app.mokahr.com/social-recruitment/cloudwalk/4871",
+  "evidence_url": "https://app.mokahr.com/social-recruitment/cloudwalk/4871",
+  "why_fit": "杭州滨江确认在招项目经理（IoT交付方向），与FDE的项目交付职责重合；AI属性偏弱。",
+  "confidence": "medium",
+  "excluded": false
+ },
+ {
+  "company": "第四范式",
+  "type": "AI独角兽",
+  "hangzhou_team": "北京总部；招聘门户显示仅5个在招岗位，均在京沪，无杭州。",
+  "relevant_roles": [
+   "无杭州在招岗位（官网门户全量核验）"
+  ],
+  "role_type": "其他（无杭州在招岗位）",
+  "career_url": "https://app.mokahr.com/social-recruitment/4paradigm/102013",
+  "evidence_url": "https://app.mokahr.com/social-recruitment/4paradigm/102013",
+  "why_fit": "企业级AI平台明星公司，但当前无杭州在招岗位，暂不匹配。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "智谱AI",
+  "type": "AI独角兽",
+  "hangzhou_team": "北京总部，杭州未设交付团队。",
+  "relevant_roles": [
+   "官网招聘页（以北京为主）"
+  ],
+  "role_type": "其他（仅算法/研究岗，无杭州岗位）",
+  "career_url": "https://www.zhipuai.cn/careers",
+  "evidence_url": "https://www.zhipuai.cn/careers",
+  "why_fit": "大模型头部但岗位集中北京，杭州无交付团队，暂不匹配。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "月之暗面（Moonshot AI）",
+  "type": "AI独角兽",
+  "hangzhou_team": "北京总部；官方招聘门户108个在招岗位中杭州为0。",
+  "relevant_roles": [
+   "无杭州在招岗位（门户全量核验）"
+  ],
+  "role_type": "其他（无杭州在招岗位）",
+  "career_url": "https://app.mokahr.com/social-recruitment/moonshot/148506",
+  "evidence_url": "https://app.mokahr.com/social-recruitment/moonshot/148506",
+  "why_fit": "岗位集中北京/上海，杭州无交付团队，暂不匹配。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "MiniMax",
+  "type": "AI独角兽",
+  "hangzhou_team": "上海总部，杭州无交付团队。",
+  "relevant_roles": [
+   "官网招聘页（以京沪为主）"
+  ],
+  "role_type": "其他（无杭州在招岗位）",
+  "career_url": "https://www.minimax.cn/careers",
+  "evidence_url": "https://www.minimax.cn/careers",
+  "why_fit": "岗位集中上海/北京，杭州无相关岗位。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "科大讯飞",
+  "type": "全国大厂",
+  "hangzhou_team": "合肥总部，浙江有区域团队；招聘门户以合肥/区域销售交付为主。",
+  "relevant_roles": [
+   "官网招聘门户（区域交付/售前方向，需站内筛选）"
+  ],
+  "role_type": "其他（区域交付/售前，待核实）",
+  "career_url": "https://campus.iflytek.com/",
+  "evidence_url": "https://campus.iflytek.com/",
+  "why_fit": "区域交付与售前岗存在，但未能确认杭州在招AI交付岗；列为备选。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "泛微网络",
+  "type": "全国大厂（杭州设岗）",
+  "hangzhou_team": "上海总部，OA/协同管理软件龙头；杭州团队招聘AI智能应用工程师。",
+  "relevant_roles": [
+   "AI智能应用（FDE）工程师（30-45K，杭州，上市公司包三餐）"
+  ],
+  "role_type": "FDE / AI交付",
+  "career_url": "https://www.weaver.com.cn/",
+  "evidence_url": "https://www.zhipin.com/job_detail/574fbdf52cb29fef0nN52ty6EVZT.html",
+  "why_fit": "岗位名直接含FDE，30-45K显著高于期望上限；企业协同场景+Agent落地与求职者经验高度契合。",
+  "confidence": "high",
+  "excluded": false
+ },
+ {
+  "company": "帆软软件",
+  "type": "全国大厂（杭州设岗）",
+  "hangzhou_team": "无锡总部，BI/报表行业龙头；杭州设解决方案与交付团队（多岗位）。",
+  "relevant_roles": [
+   "FDE解决方案工程师（15-25K，杭州）",
+   "ai FDE（前沿部署工程师）（25-50K，杭州）"
+  ],
+  "role_type": "FDE / AI解决方案",
+  "career_url": "https://join.fanruan.com/",
+  "evidence_url": "https://www.zhipin.com/job_detail/933039922006f3c90nd439W4F1BV.html",
+  "why_fit": "同时有『FDE解决方案工程师』与『ai FDE』两个岗位，薪资覆盖期望区间；BI+AI落地与企业服务交付经验契合。",
+  "confidence": "high",
+  "excluded": false
+ },
+ {
+  "company": "彩讯股份",
+  "type": "全国大厂（杭州设岗）",
+  "hangzhou_team": "深圳/北京总部，企业级AI应用；杭州团队招聘AI交付工程师。",
+  "relevant_roles": [
+   "FDE（企业级AI应用交付工程师）（25-40K·13薪，杭州）"
+  ],
+  "role_type": "FDE / AI交付",
+  "career_url": "https://www.richinfo.cn/",
+  "evidence_url": "https://www.zhipin.com/job_detail/0c4ddb54df9baf960nJz2tu-FFpX.html",
+  "why_fit": "岗位即『企业级AI应用交付工程师（FDE）』，25-40K高于期望；企业AI应用交付与求职者toB落地经验对口。",
+  "confidence": "high",
+  "excluded": false
+ },
+ {
+  "company": "得力集团",
+  "type": "知名企业（杭州设岗）",
+  "hangzhou_team": "宁波总部，办公/文具集团，数字化与AI应用团队在杭州。",
+  "relevant_roles": [
+   "FDE 工程师（AI 应用/全栈）（15-25K·16薪，杭州）",
+   "AI 产品与解决方案负责人（30-50K，杭州）"
+  ],
+  "role_type": "FDE / AI产品与解决方案",
+  "career_url": "https://www.nbdeli.com/",
+  "evidence_url": "https://www.zhipin.com/job_detail/5fe1d83b043961c40nN73NW4ElZW.html",
+  "why_fit": "杭州在招FDE工程师（薪资正落期望区间）+高阶解决方案负责人岗，成长路径清晰。",
+  "confidence": "high",
+  "excluded": false
+ },
+ {
+  "company": "众安商业集团",
+  "type": "知名企业（杭州）",
+  "hangzhou_team": "杭州，众安旗下商业集团，推进AI赋能。",
+  "relevant_roles": [
+   "AI赋能技术岗（15-18K，杭州）"
+  ],
+  "role_type": "AI应用 / 技术支持",
+  "career_url": "https://www.zhongan.com/",
+  "evidence_url": "https://www.zhipin.com/job_detail/42cb39e0d9a619510nN53tS0ElNQ.html",
+  "why_fit": "AI赋能技术岗与『业务+AI落地』画像吻合，薪资在期望区间下沿，可作为稳妥选择。",
+  "confidence": "medium",
+  "excluded": false
+ },
+ {
+  "company": "新中大科技",
+  "type": "杭州本地知名企业",
+  "hangzhou_team": "杭州，工程建设行业信息化软件。",
+  "relevant_roles": [
+   "ai大模型业务专家（20-30K·16薪，杭州）"
+  ],
+  "role_type": "AI解决方案 / 业务专家",
+  "career_url": "https://www.newgrand.cn/",
+  "evidence_url": "https://www.zhipin.com/job_detail/d8e37634539bfa2403Fy3924FlpZ.html",
+  "why_fit": "『大模型业务专家』偏业务方案与落地，与FDE画像接近；行业为工程建筑需补。",
+  "confidence": "medium",
+  "excluded": false
+ },
+ {
+  "company": "天娱数科",
+  "type": "全国企业（杭州设岗）",
+  "hangzhou_team": "北京总部，AI数字娱乐；杭州招聘AI应用交付工程师。",
+  "relevant_roles": [
+   "AI应用交付工程师（Agent/FDE方向）（20-35K，杭州）"
+  ],
+  "role_type": "FDE / AI交付",
+  "career_url": "https://www.tianyushuke.com/",
+  "evidence_url": "https://www.zhipin.com/job_detail/39889df1ab681ea80nJ40tu8F1FY.html",
+  "why_fit": "岗位即『Agent/FDE方向』的AI应用交付工程师，与求职者Agent落地经验直接对应，薪资匹配。",
+  "confidence": "medium",
+  "excluded": false
+ },
+ {
+  "company": "极智嘉 Geek+",
+  "type": "全国大厂（杭州设岗）",
+  "hangzhou_team": "北京总部，仓储物流机器人龙头；杭州列入项目经理岗可选城市。",
+  "relevant_roles": [
+   "项目经理（可选杭州，含外地交付）"
+  ],
+  "role_type": "交付 / 项目管理",
+  "career_url": "https://app.mokahr.com/social-recruitment/geekplus/5030",
+  "evidence_url": "https://app.mokahr.com/social-recruitment/geekplus/5030",
+  "why_fit": "物流机器人项目交付岗含杭州，适合愿意出差驻场的求职者；AI属性偏工程实施。",
+  "confidence": "medium",
+  "excluded": false
+ },
+ {
+  "company": "润和软件",
+  "type": "全国企业（杭州设岗）",
+  "hangzhou_team": "南京总部，软件外包/数字化；杭州有交付与评测团队。",
+  "relevant_roles": [
+   "评测标注员（13-17K，杭州）"
+  ],
+  "role_type": "其他（评测标注岗，非交付岗）",
+  "career_url": "https://www.hoperun.com/",
+  "evidence_url": "https://www.zhipin.com/job_detail/ba350f06c11a891a0nV43tm-GFFQ.html",
+  "why_fit": "评测标注岗与求职者阿里标注基地经验对口，但非交付岗位，可作为行业跳板。",
+  "confidence": "low",
+  "excluded": false
+ },
+ {
+  "company": "亚信科技",
+  "type": "全国大厂（杭州设岗）",
+  "hangzhou_team": "北京总部，电信/政企软件与数字化服务；杭州文新设研发与交付团队。",
+  "relevant_roles": [
+   "AI应用开发工程师（12-20K·14薪，杭州-文新）",
+   "飞猪-AI应用研发工程师-JAVA（10-20K，杭州）"
+  ],
+  "role_type": "AI应用 / 交付",
+  "career_url": "https://www.asiainfo.com/",
+  "evidence_url": "https://www.liepin.com/job/1985516639.shtml",
+  "why_fit": "杭州文新明确在招AI应用开发工程师，电信/政企项目交付体系成熟，可承接toB AI落地；薪资在期望区间内。",
+  "confidence": "medium",
+  "excluded": false
+ },
+ {
+  "company": "华睿科技",
+  "type": "杭州本地知名企业（大华系）",
+  "hangzhou_team": "杭州滨江长河，大华股份旗下机器视觉/移动机器人公司。",
+  "relevant_roles": [
+   "机器人技术支持工程师（6-7K·13薪，杭州滨江长河）"
+  ],
+  "role_type": "技术支持 / 交付",
+  "career_url": "https://www.huaraytech.com/",
+  "evidence_url": "https://www.liepin.com/job/1985293987.shtml",
+  "why_fit": "杭州滨江在招机器人技术支持工程师，属大华系、平台稳定；薪资偏低但可作为本地交付岗保底。",
+  "confidence": "medium",
+  "excluded": false
+ },
+ {
+  "company": "阿里巴巴集团",
+  "type": "全国大厂杭州总部",
+  "excluded": true,
+  "hangzhou_team": "总部杭州余杭，淘天/千问办公/企业智能等事业群。",
+  "relevant_roles": [
+   "阿里淘天-AI产品经理（正编P5-7，25-50K·16薪，杭州）",
+   "千问办公-AI应用研发工程师/评测工程师（杭州）",
+   "AI安全工程师（杭州上城区）"
+  ],
+  "role_type": "AI产品 / AI研发",
+  "career_url": "https://talent.alibaba.com/",
+  "evidence_url": "https://www.zhipin.com/job_detail/d339b26a49f9ed1a0nd80t27FldV.html",
+  "why_fit": "岗位与期望方向相关，但求职者明确不投阿里系，仅列出供参考。",
+  "confidence": "high"
+ },
+ {
+  "company": "阿里云",
+  "type": "全国大厂杭州总部",
+  "excluded": true,
+  "hangzhou_team": "杭州云谷园区，智能集团AI产品与解决方案团队。",
+  "relevant_roles": [
+   "AI应用开发工程师（12-20K·13薪，杭州文新）",
+   "高级AI开发工程师（20-35K·14薪，杭州余杭）",
+   "AI知识工程师/评测工程师（20-50K，杭州）"
+  ],
+  "role_type": "AI应用 / AI解决方案",
+  "career_url": "https://talent.alibaba.com/",
+  "evidence_url": "https://www.liepin.com/job/1985518245.shtml",
+  "why_fit": "阿里云杭州有AI应用与知识工程岗位，匹配方向；但属阿里系，已排除。",
+  "confidence": "high"
+ },
+ {
+  "company": "蚂蚁集团",
+  "type": "全国大厂杭州总部",
+  "excluded": true,
+  "hangzhou_team": "总部杭州，AI安全/智能体/数字天蚂等团队。",
+  "relevant_roles": [
+   "AI安全工程师（12-15K，杭州上城区）",
+   "业务技术-大模型算法工程师-生成式AI（30-50K，杭州）"
+  ],
+  "role_type": "AI研发 / AI安全",
+  "career_url": "https://talent.antgroup.com/",
+  "evidence_url": "https://www.liepin.com/job/1985528713.shtml",
+  "why_fit": "杭州有岗位，但属阿里系且偏算法研发，已排除。",
+  "confidence": "medium"
+ },
+ {
+  "company": "钉钉",
+  "type": "全国大厂杭州总部",
+  "excluded": true,
+  "hangzhou_team": "总部杭州，企业协同与AI Agent平台。",
+  "relevant_roles": [
+   "未单独验证在招交付/解决方案岗（属阿里系）"
+  ],
+  "role_type": "其他",
+  "career_url": "https://talent.alibaba.com/",
+  "evidence_url": "https://talent.alibaba.com/",
+  "why_fit": "钉钉AI Agent开放平台与FDE方向相关，但属阿里系，已排除。",
+  "confidence": "low"
+ }
+]

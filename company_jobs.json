@@ -1,0 +1,1310 @@
+[
+ {
+  "company": "海康威视",
+  "ai_score": 13,
+  "sector": "",
+  "sources": [
+   "知名企业"
+  ],
+  "jobs": [
+   {
+    "eid": "52af5ffce40f846c0nB-29W7EVNX",
+    "company": "海康威视",
+    "jobName": "机器人-机器视觉解决方案工程师",
+    "salary": "15-25K·15薪",
+    "salary_low": 15
+   },
+   {
+    "eid": "661c2ae98794b0170nJz09-7FFNW",
+    "company": "海康威视",
+    "jobName": "AGV实施工程师",
+    "salary": "15-20K·14薪",
+    "salary_low": 15
+   },
+   {
+    "eid": "f694c75f6fc5c8d403V73N25E1FT",
+    "company": "海康威视",
+    "jobName": "LLM大模型算法",
+    "salary": "28-40K·15薪",
+    "salary_low": 28
+   },
+   {
+    "eid": "b4f9de37bd8bb4ff0nN53d60FFpZ",
+    "company": "海康威视",
+    "jobName": "AI agent工程师",
+    "salary": "15-25K·15薪",
+    "salary_low": 15
+   },
+   {
+    "eid": "2f2707d51a419f430nJ609i4EVpW",
+    "company": "海康威视",
+    "jobName": "海康机器人-机器人AI Agent工程师",
+    "salary": "25-35K·15薪",
+    "salary_low": 25
+   },
+   {
+    "eid": "4086f557c87b48f40nB-3dW4EVJW",
+    "company": "海康威视",
+    "jobName": "ai应用开发工程师",
+    "salary": "15-20K·15薪",
+    "salary_low": 15
+   },
+   {
+    "eid": "7a13336833cf54b40ndz29u1FlZS",
+    "company": "海康威视",
+    "jobName": "PBG-解决方案工程师-人工智能/大模型-杭州",
+    "salary": "-K",
+    "salary_low": null
+   },
+   {
+    "eid": "0636c58077f1e9250nJ-29W9GVZS",
+    "company": "海康威视",
+    "jobName": "ai产品经理",
+    "salary": "-K·薪",
+    "salary_low": null
+   }
+  ]
+ },
+ {
+  "company": "斑头雁智能科技",
+  "ai_score": 10,
+  "sector": "企业级 AI Agent（BetterYeah AI），toB 场景交付",
+  "sources": [
+   "媒体(36氪/铅笔道)"
+  ],
+  "jobs": [
+   {
+    "eid": "dbdfcec435dfd6190nN70tW8GFJU",
+    "company": "杭州斑头雁智能科技",
+    "jobName": "AI Agent 算法工程师",
+    "salary": "20-40K·13薪",
+    "salary_low": 20
+   },
+   {
+    "eid": "ba24dddd2392bbdf0nJ60tW8GFFX",
+    "company": "杭州斑头雁智能科技",
+    "jobName": "AI Agent 产品经理（Vibe Coding方向）",
+    "salary": "25-40K·13薪",
+    "salary_low": 25
+   }
+  ]
+ },
+ {
+  "company": "杭州百子尖科技股份有限公司",
+  "ai_score": 10,
+  "sector": "工业AI/机器视觉检测",
+  "sources": [
+   "专精特新/小巨人"
+  ],
+  "jobs": [
+   {
+    "eid": "d55b49b0d1bcb8201X1_0ty9F1dQ",
+    "company": "百子尖科技",
+    "jobName": "实施项目经理",
+    "salary": "15-23K·14薪",
+    "salary_low": 15
+   }
+  ]
+ },
+ {
+  "company": "贝联珠贯",
+  "ai_score": 10,
+  "sector": "云资源管理 / 降低 AI 落地门槛与运行成本",
+  "sources": [
+   "媒体(36氪/铅笔道)"
+  ],
+  "jobs": [
+   {
+    "eid": "8b5d25e9af6397310nJ-3Nm6EldW",
+    "company": "贝联珠贯",
+    "jobName": "前线交付工程师",
+    "salary": "25-40K",
+    "salary_low": 25
+   },
+   {
+    "eid": "c86ddb30c1470bb30nBy0ty9GFtV",
+    "company": "贝联珠贯",
+    "jobName": "资深Agent研发工程师",
+    "salary": "30-50K",
+    "salary_low": 30
+   }
+  ]
+ },
+ {
+  "company": "新华三",
+  "ai_score": 10,
+  "sector": "",
+  "sources": [
+   "知名企业"
+  ],
+  "jobs": [
+   {
+    "eid": "3cc2186a139027ba1HNy0925FVNW",
+    "company": "新华三",
+    "jobName": "智算（AI）解决方案专家",
+    "salary": "15-25K·14薪",
+    "salary_low": 15
+   }
+  ]
+ },
+ {
+  "company": "每日互动",
+  "ai_score": 10,
+  "sector": "",
+  "sources": [
+   "知名企业"
+  ],
+  "jobs": [
+   {
+    "eid": "d91b4c777fe64f450nN439u0FFdV",
+    "company": "每日互动",
+    "jobName": "AI应用开发工程师（α实验室）",
+    "salary": "20-35K·14薪",
+    "salary_low": 20
+   },
+   {
+    "eid": "08249cd2a7cd196e0nd43du-EVBV",
+    "company": "每日互动",
+    "jobName": "解决方案工程师",
+    "salary": "20-35K·14薪",
+    "salary_low": 20
+   },
+   {
+    "eid": "13a4e859c35426e603153925EVBX",
+    "company": "每日互动",
+    "jobName": "应用运维/ 系统实施工程师（AI 平台方向）",
+    "salary": "15-25K",
+    "salary_low": 15
+   },
+   {
+    "eid": "934126259c7b344e0nRz3dW6FlJT",
+    "company": "每日互动",
+    "jobName": "大模型算法工程师",
+    "salary": "20-40K·15薪",
+    "salary_low": 20
+   },
+   {
+    "eid": "2abca4dc3db77ac50nZ-3t25ElRZ",
+    "company": "每日互动",
+    "jobName": "AI Agent应用开发工程师",
+    "salary": "-K",
+    "salary_low": null
+   }
+  ]
+ },
+ {
+  "company": "吉利控股集团",
+  "ai_score": 10,
+  "sector": "",
+  "sources": [
+   "知名企业"
+  ],
+  "jobs": [
+   {
+    "eid": "30c94b0d8db4d7910nFz0t29FVdY",
+    "company": "吉利控股集团",
+    "jobName": "agent算法工程师",
+    "salary": "20-35K",
+    "salary_low": 20
+   },
+   {
+    "eid": "773a137532e31f900nN53N27E1tR",
+    "company": "吉利控股集团",
+    "jobName": "Agent 算法工程师 (MJ103839)",
+    "salary": "20-30K",
+    "salary_low": 20
+   },
+   {
+    "eid": "eed02435379c77c20nJ40ti7ElNZ",
+    "company": "吉利控股集团",
+    "jobName": "QMS实施高级经理",
+    "salary": "20-25K·14薪",
+    "salary_low": 20
+   },
+   {
+    "eid": "5ec0143eda878dd10nF_2dm8FFpT",
+    "company": "吉利控股集团",
+    "jobName": "资深后端开发工程师-经营数据交付组",
+    "salary": "20-40K",
+    "salary_low": 20
+   },
+   {
+    "eid": "4b2c07deebfe780d0nJ92d-7F1BS",
+    "company": "吉利控股集团",
+    "jobName": "ai大模型算法",
+    "salary": "20-40K·14薪",
+    "salary_low": 20
+   },
+   {
+    "eid": "a356d0e274b5b6300nFy0920FFdZ",
+    "company": "吉利控股集团",
+    "jobName": "Agent 工程师（后端）",
+    "salary": "20-35K",
+    "salary_low": 20
+   }
+  ]
+ },
+ {
+  "company": "泛微网络",
+  "ai_score": 10,
+  "sector": "",
+  "sources": [
+   "知名企业"
+  ],
+  "jobs": [
+   {
+    "eid": "1a781cb6aac41da70nFy2dS_GFBX",
+    "company": "泛微网络",
+    "jobName": "AI智能应用（FDE）工程师-上市公司-包三餐",
+    "salary": "200-300元/天",
+    "salary_low": 4.35
+   },
+   {
+    "eid": "074c1ecb5bafe2210nFy2dW4GVNS",
+    "company": "泛微网络",
+    "jobName": "前沿部署工程师（FDE）【27届】",
+    "salary": "200-300元/天",
+    "salary_low": 4.35
+   },
+   {
+    "eid": "12562a99587687240nZz2d69E1ZX",
+    "company": "泛微网络",
+    "jobName": "大模型算法工程师-AI应用-主板上市包三餐",
+    "salary": "20-40K·15薪",
+    "salary_low": 20
+   }
+  ]
+ },
+ {
+  "company": "帆软软件",
+  "ai_score": 10,
+  "sector": "",
+  "sources": [
+   "知名企业"
+  ],
+  "jobs": [
+   {
+    "eid": "f8781929ea5ff2b50nN42NW1EVpS",
+    "company": "帆软软件",
+    "jobName": "FDE解决方案工程师",
+    "salary": "18-35K·16薪",
+    "salary_low": 18
+   }
+  ]
+ },
+ {
+  "company": "新中大科技",
+  "ai_score": 10,
+  "sector": "",
+  "sources": [
+   "知名企业"
+  ],
+  "jobs": [
+   {
+    "eid": "5b46613046f218b30nZy29u4EFNW",
+    "company": "新中大科技",
+    "jobName": "实施经理",
+    "salary": "15-20K·14薪",
+    "salary_low": 15
+   }
+  ]
+ },
+ {
+  "company": "天娱数科",
+  "ai_score": 10,
+  "sector": "",
+  "sources": [
+   "知名企业"
+  ],
+  "jobs": [
+   {
+    "eid": "a9176626d2b798780nN-2t64FlZZ",
+    "company": "天娱数科",
+    "jobName": "FDE应用交付工程师",
+    "salary": "12-15K",
+    "salary_low": 12
+   }
+  ]
+ },
+ {
+  "company": "百应科技",
+  "ai_score": 8,
+  "sector": "对话式 AI / 智能用户运营（政企 + 头部企业 toB）",
+  "sources": [
+   "媒体(36氪/铅笔道)"
+  ],
+  "jobs": [
+   {
+    "eid": "10cae73ce4c46b620nF-2t60EVNX",
+    "company": "百应科技",
+    "jobName": "交付项目经理",
+    "salary": "15-30K·15薪",
+    "salary_low": 15
+   },
+   {
+    "eid": "94779697c06615730nF93Nm5EFpU",
+    "company": "百应科技",
+    "jobName": "ai架构师",
+    "salary": "25-40K·15薪",
+    "salary_low": 25
+   },
+   {
+    "eid": "104291413503bbc003F-39i7EVBQ",
+    "company": "百应科技",
+    "jobName": "高级运维实施工程师",
+    "salary": "15-25K",
+    "salary_low": 15
+   },
+   {
+    "eid": "b4493639866be92203dy3dS7F1tQ",
+    "company": "百应科技",
+    "jobName": "ai应用研发工程师",
+    "salary": "25-40K·14薪",
+    "salary_low": 25
+   },
+   {
+    "eid": "d45c493eeb2f8d820nB42dS4F1ZY",
+    "company": "百应科技",
+    "jobName": "智能语音产品运营专家｜AI Agent",
+    "salary": "20-35K·15薪",
+    "salary_low": 20
+   }
+  ]
+ },
+ {
+  "company": "实在智能",
+  "ai_score": 8,
+  "sector": "RPA → IPA（自研 TARS 垂直大模型 + 超自动化）",
+  "sources": [
+   "媒体(36氪/铅笔道)"
+  ],
+  "jobs": [
+   {
+    "eid": "0c86382755563ca50nB53di5EFNS",
+    "company": "实在智能",
+    "jobName": "售前工程师/解决方案经理/售前产品经理",
+    "salary": "20-30K",
+    "salary_low": 20
+   },
+   {
+    "eid": "a69fd80e03eb70c60nN62N-4FlNV",
+    "company": "实在智能",
+    "jobName": "Agent交付开发工程师",
+    "salary": "8-11K·15薪",
+    "salary_low": 8
+   }
+  ]
+ },
+ {
+  "company": "有赞",
+  "ai_score": 8,
+  "sector": "",
+  "sources": [
+   "知名企业"
+  ],
+  "jobs": [
+   {
+    "eid": "2205528405aa84600nR92d-_GVZT",
+    "company": "有赞",
+    "jobName": "交付项目经理（运营项目）",
+    "salary": "20-30K·14薪",
+    "salary_low": 20
+   },
+   {
+    "eid": "5bbdc3a4ec282eaa0nF629W_E1RV",
+    "company": "有赞",
+    "jobName": "支付售前解决方案专家",
+    "salary": "25-45K",
+    "salary_low": 25
+   },
+   {
+    "eid": "d03daa6136178fb203V43N-4EFBV",
+    "company": "有赞",
+    "jobName": "AI产品经理",
+    "salary": "15-30K",
+    "salary_low": 15
+   },
+   {
+    "eid": "8c6779a7a16c94c20nF63tq_EVdW",
+    "company": "有赞",
+    "jobName": "superun产品运营（coding agent方向）",
+    "salary": "20-40K·17薪",
+    "salary_low": 20
+   },
+   {
+    "eid": "bce21bd29701be850nF63du8FlZS",
+    "company": "有赞",
+    "jobName": "AI交付架构师(J10389)",
+    "salary": "30-50K·15薪",
+    "salary_low": 30
+   }
+  ]
+ },
+ {
+  "company": "当虹科技",
+  "ai_score": 8,
+  "sector": "",
+  "sources": [
+   "知名企业"
+  ],
+  "jobs": [
+   {
+    "eid": "c4a2018a435d3c390nV82t-8FlNS",
+    "company": "当虹科技",
+    "jobName": "售前解决方案经理",
+    "salary": "12-20K",
+    "salary_low": 12
+   }
+  ]
+ },
+ {
+  "company": "杭州云深处科技有限公司",
+  "ai_score": 5,
+  "sector": "四足机器人/具身智能",
+  "sources": [
+   "专精特新/小巨人"
+  ],
+  "jobs": [
+   {
+    "eid": "e7d8c7021ea591bb03Jz2d21GVpQ",
+    "company": "云深处科技",
+    "jobName": "项目交付经理",
+    "salary": "15-28K·14薪",
+    "salary_low": 15
+   },
+   {
+    "eid": "6b3fdca81f0b8bc803d-3NW1FVRW",
+    "company": "云深处科技",
+    "jobName": "解决方案工程师",
+    "salary": "14-28K·14薪",
+    "salary_low": 14
+   },
+   {
+    "eid": "17bde8167e5bf64b0nF-3dm9FFBT",
+    "company": "云深处科技",
+    "jobName": "软件工程师（集成部署&性能优化）",
+    "salary": "20-35K·14薪",
+    "salary_low": 20
+   }
+  ]
+ },
+ {
+  "company": "杭州鸿泉物联网技术股份有限公司",
+  "ai_score": 5,
+  "sector": "车联网/物联网（上市）",
+  "sources": [
+   "专精特新/小巨人"
+  ],
+  "jobs": [
+   {
+    "eid": "cb3d0cc54dddd4ee0nF-09u9F1BV",
+    "company": "鸿泉物联网",
+    "jobName": "嵌入式AI算法部署工程师",
+    "salary": "20-40K",
+    "salary_low": 20
+   },
+   {
+    "eid": "e254558d43bca5960nF-0tm9GVFV",
+    "company": "鸿泉物联网",
+    "jobName": "嵌入式AI算法部署工程师(J10009)",
+    "salary": "25-40K·14薪",
+    "salary_low": 25
+   }
+  ]
+ },
+ {
+  "company": "浙江大华技术股份有限公司",
+  "ai_score": 5,
+  "sector": "安防/AIoT/智慧物联（上市）",
+  "sources": [
+   "专精特新/小巨人"
+  ],
+  "jobs": [
+   {
+    "eid": "6daa3eca42643bca0nJz2N6_GVBR",
+    "company": "浙江大华技术",
+    "jobName": "应用软件工程师（AI/大模型方向）",
+    "salary": "20-30K·13薪",
+    "salary_low": 20
+   }
+  ]
+ },
+ {
+  "company": "杭州先锋电子技术股份有限公司",
+  "ai_score": 5,
+  "sector": "智能燃气表/能源物联网（上市）",
+  "sources": [
+   "专精特新/小巨人"
+  ],
+  "jobs": [
+   {
+    "eid": "c319baf1d7d9eabf1nN709u7FVBV",
+    "company": "杭州先锋电子技术",
+    "jobName": "解决方案工程师",
+    "salary": "11-20K",
+    "salary_low": 11
+   },
+   {
+    "eid": "d2be3818a1b973db0nZ629y8FlZS",
+    "company": "杭州先锋电子技术",
+    "jobName": "大模型开发工程师",
+    "salary": "15-25K",
+    "salary_low": 15
+   }
+  ]
+ },
+ {
+  "company": "杭州物必连科技有限公司",
+  "ai_score": 5,
+  "sector": "物联网/智能物联平台",
+  "sources": [
+   "专精特新/小巨人"
+  ],
+  "jobs": [
+   {
+    "eid": "99066db3703b22310nF_0t-9EltW",
+    "company": "杭州物必连",
+    "jobName": "实施工程师",
+    "salary": "6-8K",
+    "salary_low": 6
+   }
+  ]
+ },
+ {
+  "company": "联汇科技",
+  "ai_score": 5,
+  "sector": "多模态大模型 / 自主智能体（视觉语义、AIGC）",
+  "sources": [
+   "媒体(36氪/铅笔道)"
+  ],
+  "jobs": [
+   {
+    "eid": "23caaa7e314013000nd809y7GVZU",
+    "company": "联汇科技",
+    "jobName": "产品解决方案",
+    "salary": "20-30K",
+    "salary_low": 20
+   },
+   {
+    "eid": "2e8e26328e396ab40nJz3dq-GFJU",
+    "company": "联汇科技",
+    "jobName": "AI大模型开放平台产品经理 / 主管",
+    "salary": "20-35K",
+    "salary_low": 20
+   }
+  ]
+ },
+ {
+  "company": "云观秋毫",
+  "ai_score": 5,
+  "sector": "可观测性 / eBPF 排障（企业 IT 基础设施软件）",
+  "sources": [
+   "媒体(36氪/铅笔道)"
+  ],
+  "jobs": [
+   {
+    "eid": "0d48dbbd78c614640nJ52dS0E1RQ",
+    "company": "云观秋毫",
+    "jobName": "项目交付经理",
+    "salary": "15-20K",
+    "salary_low": 15
+   }
+  ]
+ },
+ {
+  "company": "宇泛智能",
+  "ai_score": 5,
+  "sector": "AI + IoT + 边缘计算（泛安防长尾市场）",
+  "sources": [
+   "媒体(36氪/铅笔道)",
+   "知名企业"
+  ],
+  "jobs": [
+   {
+    "eid": "b2fe1db13f3415430nJ709u-GFBW",
+    "company": "宇泛智能",
+    "jobName": "多模态大模型算法负责人",
+    "salary": "30-60K",
+    "salary_low": 30
+   },
+   {
+    "eid": "274995006fd1cf7a03Ny3tm9EVJQ",
+    "company": "宇泛智能",
+    "jobName": "高级/专家AI产品解决方案工程师",
+    "salary": "14-28K",
+    "salary_low": 14
+   }
+  ]
+ },
+ {
+  "company": "新华三技术有限公司",
+  "ai_score": 5,
+  "sector": "数字化基础设施/云网/AI",
+  "sources": [
+   "专精特新/小巨人"
+  ],
+  "jobs": [
+   {
+    "eid": "3b07b75b83ec7ca80nF_39S_FVtZ",
+    "company": "新华三技术有限公司",
+    "jobName": "售前工程师",
+    "salary": "15-25K·14薪",
+    "salary_low": 15
+   },
+   {
+    "eid": "b717e660e0af4ff403F-39i7EFtT",
+    "company": "新华三技术有限公司",
+    "jobName": "项目交付支持工程师",
+    "salary": "15-25K",
+    "salary_low": 15
+   },
+   {
+    "eid": "188aa509131e67a40nF739y7EldR",
+    "company": "新华三技术有限公司",
+    "jobName": "sap实施顾问（现场面试）",
+    "salary": "11-17K",
+    "salary_low": 11
+   },
+   {
+    "eid": "aa1738d0d037448f0nJ_292-GFZT",
+    "company": "新华三技术有限公司",
+    "jobName": "AI应用软件工程师",
+    "salary": "15-30K·14薪",
+    "salary_low": 15
+   },
+   {
+    "eid": "b53e03539a34b00303Zz3Ni9FldT",
+    "company": "新华三技术有限公司",
+    "jobName": "大模型算法高级专家",
+    "salary": "45-70K·14薪",
+    "salary_low": 45
+   },
+   {
+    "eid": "0085c88254ace5cd03Zz3Ni1EVRT",
+    "company": "新华三技术有限公司",
+    "jobName": "大模型推理算法高级专家",
+    "salary": "45-70K·14薪",
+    "salary_low": 45
+   }
+  ]
+ },
+ {
+  "company": "宇视科技",
+  "ai_score": 5,
+  "sector": "",
+  "sources": [
+   "知名企业"
+  ],
+  "jobs": [
+   {
+    "eid": "c92ed46ad7e9625c0ndz3t--FlpW",
+    "company": "宇视科技",
+    "jobName": "企业SOP解决方案专家",
+    "salary": "20-25K·14薪",
+    "salary_low": 20
+   }
+  ]
+ },
+ {
+  "company": "恒生电子",
+  "ai_score": 5,
+  "sector": "",
+  "sources": [
+   "知名企业"
+  ],
+  "jobs": [
+   {
+    "eid": "883e187fb8f0d6f20nN70t25F1BY",
+    "company": "恒生电子",
+    "jobName": "资深实施工程师-云毅网络",
+    "salary": "20-30K",
+    "salary_low": 20
+   }
+  ]
+ },
+ {
+  "company": "同花顺",
+  "ai_score": 5,
+  "sector": "",
+  "sources": [
+   "知名企业"
+  ],
+  "jobs": [
+   {
+    "eid": "13c5c11299cda1550nB439u7FVdQ",
+    "company": "同花顺",
+    "jobName": "大模型应用工程师（工程化落地）",
+    "salary": "35-55K·15薪",
+    "salary_low": 35
+   },
+   {
+    "eid": "a7662e96a41d21a50nJ509q5EldT",
+    "company": "同花顺",
+    "jobName": "AI Agent工程师",
+    "salary": "50-80K",
+    "salary_low": 50
+   },
+   {
+    "eid": "0de3fcfefafb1f250nJ53Nq1GFVQ",
+    "company": "同花顺",
+    "jobName": "AI产品经理",
+    "salary": "20-30K·15薪",
+    "salary_low": 20
+   },
+   {
+    "eid": "2cb23ee9e3bc2fe50nJ93d24FltV",
+    "company": "同花顺",
+    "jobName": "AI Agent-产品经理(金融）",
+    "salary": "-K·薪",
+    "salary_low": null
+   }
+  ]
+ },
+ {
+  "company": "虹软科技",
+  "ai_score": 5,
+  "sector": "",
+  "sources": [
+   "知名企业"
+  ],
+  "jobs": [
+   {
+    "eid": "bd34bed4fdf5b6780nZ80tW8GVNR",
+    "company": "虹软科技",
+    "jobName": "ADAS解决方案工程师（校招）",
+    "salary": "12-24K",
+    "salary_low": 12
+   },
+   {
+    "eid": "2f4044c6f214cdb81XF72968F1tR",
+    "company": "虹软科技",
+    "jobName": "ai算法测试工程师",
+    "salary": "15-20K·15薪",
+    "salary_low": 15
+   }
+  ]
+ },
+ {
+  "company": "涂鸦智能",
+  "ai_score": 5,
+  "sector": "",
+  "sources": [
+   "知名企业"
+  ],
+  "jobs": [
+   {
+    "eid": "b24f5404aac6b2730nJ_3N21EFRR",
+    "company": "涂鸦智能",
+    "jobName": "IoT项目经理（智能硬件交付方向）",
+    "salary": "15-30K",
+    "salary_low": 15
+   },
+   {
+    "eid": "3940b5d2c190c6ed0nF43tu8EVBZ",
+    "company": "涂鸦智能",
+    "jobName": "资深AI大模型算法工程师 (MJ003619)",
+    "salary": "30-50K",
+    "salary_low": 30
+   },
+   {
+    "eid": "7f9e9d93d8b41a930nd42Nq1FlZV",
+    "company": "涂鸦智能",
+    "jobName": "AI Agent工程师MJ004127",
+    "salary": "20-40K",
+    "salary_low": 20
+   },
+   {
+    "eid": "57906fc89fe215a10nF53t2-F1pU",
+    "company": "涂鸦智能",
+    "jobName": "资深AI Agent开发工程师 (MJ003834)",
+    "salary": "20-40K",
+    "salary_low": 20
+   }
+  ]
+ },
+ {
+  "company": "微医",
+  "ai_score": 5,
+  "sector": "",
+  "sources": [
+   "知名企业"
+  ],
+  "jobs": [
+   {
+    "eid": "1d68e11bc5d1baa303V93dq8E1JQ",
+    "company": "微医",
+    "jobName": "AI智能体&java业务开发工程师",
+    "salary": "12-16K",
+    "salary_low": 12
+   },
+   {
+    "eid": "637149d0221042cb0nF60965EVdW",
+    "company": "微医",
+    "jobName": "医疗AI产品经理/高级产品经理（2C）",
+    "salary": "15-30K",
+    "salary_low": 15
+   }
+  ]
+ },
+ {
+  "company": "中控技术",
+  "ai_score": 5,
+  "sector": "",
+  "sources": [
+   "知名企业"
+  ],
+  "jobs": [
+   {
+    "eid": "fc5afec3ef2bdba00nJz09q_GFdR",
+    "company": "中控技术",
+    "jobName": "算法工程师（调度方向）",
+    "salary": "20-40K·14薪",
+    "salary_low": 20
+   },
+   {
+    "eid": "32abb36288286bcb0nN73tu8EFdU",
+    "company": "中控技术",
+    "jobName": "算法工程师（调度方向）",
+    "salary": "15-30K·14薪",
+    "salary_low": 15
+   },
+   {
+    "eid": "ffd27f8e4909c8960nFz0tu0FFtX",
+    "company": "中控技术",
+    "jobName": "全球技术支持工程师",
+    "salary": "20-30K",
+    "salary_low": 20
+   },
+   {
+    "eid": "18a93470f193502a0nJ62ti9GVFV",
+    "company": "中控技术",
+    "jobName": "全球交付工程师",
+    "salary": "20-30K",
+    "salary_low": 20
+   },
+   {
+    "eid": "8c4544fcb02278d60nd829-0ElBS",
+    "company": "中控技术",
+    "jobName": "SaaS交付经理",
+    "salary": "11-20K·14薪",
+    "salary_low": 11
+   },
+   {
+    "eid": "4d6f93a91572d75d1X1y2tm8GVNR",
+    "company": "中控技术",
+    "jobName": "解决方案经理",
+    "salary": "15-20K·14薪",
+    "salary_low": 15
+   },
+   {
+    "eid": "efe413a85a3d9bf503B739-6FFpV",
+    "company": "中控技术",
+    "jobName": "APC实施兼项目经理（全国）",
+    "salary": "13-26K·14薪",
+    "salary_low": 13
+   },
+   {
+    "eid": "106efdefdd3b68830nV53964F1dR",
+    "company": "中控技术",
+    "jobName": "解决方案经理",
+    "salary": "15-18K",
+    "salary_low": 15
+   },
+   {
+    "eid": "06f992c84de408990nN509u5GVtY",
+    "company": "中控技术",
+    "jobName": "工业AI算法工程师",
+    "salary": "20-21K",
+    "salary_low": 20
+   },
+   {
+    "eid": "dec7a453e3e631460nZ_3dy8EFRX",
+    "company": "中控技术",
+    "jobName": "ai应用开发工程师",
+    "salary": "14-20K·14薪",
+    "salary_low": 14
+   }
+  ]
+ },
+ {
+  "company": "聚光科技",
+  "ai_score": 5,
+  "sector": "",
+  "sources": [
+   "知名企业"
+  ],
+  "jobs": [
+   {
+    "eid": "c3a44101419a0d0003d43tm_EVpU",
+    "company": "聚光科技",
+    "jobName": "行业解决方案主管（石化）",
+    "salary": "15-30K",
+    "salary_low": 15
+   }
+  ]
+ },
+ {
+  "company": "安恒信息",
+  "ai_score": 5,
+  "sector": "",
+  "sources": [
+   "知名企业"
+  ],
+  "jobs": [
+   {
+    "eid": "7f95644b6bf32d320nJ539u-EVVT",
+    "company": "安恒信息",
+    "jobName": "售前解决方案专家(J14128)",
+    "salary": "17-25K",
+    "salary_low": 17
+   },
+   {
+    "eid": "6c3c9de8845759850nN529i6F1BZ",
+    "company": "安恒信息",
+    "jobName": "态势感知售前解决方案专家(J14354)",
+    "salary": "18-22K",
+    "salary_low": 18
+   }
+  ]
+ },
+ {
+  "company": "恒生聚源",
+  "ai_score": 5,
+  "sector": "",
+  "sources": [
+   "知名企业"
+  ],
+  "jobs": [
+   {
+    "eid": "796716254ce7b5ef0nBy39m7GFpU",
+    "company": "恒生聚源",
+    "jobName": "云原生&AI技术架构师",
+    "salary": "40-50K·13薪",
+    "salary_low": 40
+   }
+  ]
+ },
+ {
+  "company": "宇树科技",
+  "ai_score": 5,
+  "sector": "",
+  "sources": [
+   "知名企业"
+  ],
+  "jobs": [
+   {
+    "eid": "4b8b93302cd788410nd82Ni0GVtZ",
+    "company": "宇树科技",
+    "jobName": "解决方案工程师（工业自动化方向）",
+    "salary": "12-20K·13薪",
+    "salary_low": 12
+   },
+   {
+    "eid": "198f4021136e30970nJ60921F1ZQ",
+    "company": "宇树科技",
+    "jobName": "金蝶ERP实施项目经理",
+    "salary": "18-25K",
+    "salary_low": 18
+   },
+   {
+    "eid": "d29115a0339a852f0nJ63dW8E1ZQ",
+    "company": "宇树科技",
+    "jobName": "AI算法工程师（大模型）",
+    "salary": "25-40K",
+    "salary_low": 25
+   },
+   {
+    "eid": "f15481a61458803203dy3N--FFNQ",
+    "company": "宇树科技",
+    "jobName": "大模型算法工程师(J10033)",
+    "salary": "40-70K·14薪",
+    "salary_low": 40
+   },
+   {
+    "eid": "c8a4a38c54dffc3e03Bz0t25GVpR",
+    "company": "宇树科技",
+    "jobName": "教育解决方案工程师",
+    "salary": "12-15K",
+    "salary_low": 12
+   }
+  ]
+ },
+ {
+  "company": "云深处科技",
+  "ai_score": 5,
+  "sector": "",
+  "sources": [
+   "知名企业"
+  ],
+  "jobs": [
+   {
+    "eid": "e7d8c7021ea591bb03Jz2d21GVpQ",
+    "company": "云深处科技",
+    "jobName": "项目交付经理",
+    "salary": "15-28K·14薪",
+    "salary_low": 15
+   },
+   {
+    "eid": "6b3fdca81f0b8bc803d-3NW1FVRW",
+    "company": "云深处科技",
+    "jobName": "解决方案工程师",
+    "salary": "14-28K·14薪",
+    "salary_low": 14
+   },
+   {
+    "eid": "17bde8167e5bf64b0nF-3dm9FFBT",
+    "company": "云深处科技",
+    "jobName": "软件工程师（集成部署&性能优化）",
+    "salary": "20-35K·14薪",
+    "salary_low": 20
+   }
+  ]
+ },
+ {
+  "company": "科大讯飞",
+  "ai_score": 5,
+  "sector": "",
+  "sources": [
+   "知名企业"
+  ],
+  "jobs": [
+   {
+    "eid": "8b6a720ddecbc9ce0nN53d20ElVZ",
+    "company": "科大讯飞",
+    "jobName": "交付项目经理",
+    "salary": "13-25K·14薪",
+    "salary_low": 13
+   },
+   {
+    "eid": "29419d73c2a1f5770nN53t-9FFtQ",
+    "company": "科大讯飞",
+    "jobName": "AI产品经理-智能办公（base合肥社保杭州）",
+    "salary": "40-60K",
+    "salary_low": 40
+   },
+   {
+    "eid": "fad99f46f26a2c480nF92N65EVZZ",
+    "company": "科大讯飞",
+    "jobName": "AI解决方案架构（base合肥)",
+    "salary": "-K",
+    "salary_low": null
+   }
+  ]
+ },
+ {
+  "company": "亚信科技",
+  "ai_score": 5,
+  "sector": "",
+  "sources": [
+   "知名企业"
+  ],
+  "jobs": [
+   {
+    "eid": "5273f4522824be9c0nN50t-7EFVX",
+    "company": "亚信科技",
+    "jobName": "AI架构师",
+    "salary": "20-35K",
+    "salary_low": 20
+   },
+   {
+    "eid": "1ace8ee138d56b830nN50t61FFBT",
+    "company": "亚信科技",
+    "jobName": "AI应用开发工程师",
+    "salary": "12-20K",
+    "salary_low": 12
+   },
+   {
+    "eid": "497609cb54f432520nN-29W8F1BW",
+    "company": "亚信科技",
+    "jobName": "AI全栈工程师（大模型/智能体应用方向）",
+    "salary": "-K",
+    "salary_low": null
+   }
+  ]
+ },
+ {
+  "company": "云深处科技（DeepRobotics）",
+  "ai_score": 3,
+  "sector": "足式机器人 / 行业智能机器人",
+  "sources": [
+   "媒体(36氪/铅笔道)"
+  ],
+  "jobs": [
+   {
+    "eid": "e7d8c7021ea591bb03Jz2d21GVpQ",
+    "company": "云深处科技",
+    "jobName": "项目交付经理",
+    "salary": "15-28K·14薪",
+    "salary_low": 15
+   },
+   {
+    "eid": "6b3fdca81f0b8bc803d-3NW1FVRW",
+    "company": "云深处科技",
+    "jobName": "解决方案工程师",
+    "salary": "14-28K·14薪",
+    "salary_low": 14
+   },
+   {
+    "eid": "17bde8167e5bf64b0nF-3dm9FFBT",
+    "company": "云深处科技",
+    "jobName": "软件工程师（集成部署&性能优化）",
+    "salary": "20-35K·14薪",
+    "salary_low": 20
+   }
+  ]
+ },
+ {
+  "company": "有鹿机器人",
+  "ai_score": 3,
+  "sector": "具身智能通用大脑（Master2000），前阿里达摩院团队",
+  "sources": [
+   "媒体(36氪/铅笔道)"
+  ],
+  "jobs": [
+   {
+    "eid": "446704afa9cadaea0nJy29-4EVJS",
+    "company": "浙江有鹿机器人科技",
+    "jobName": "GPU 模型部署 / 训练优化工程师（机器人）",
+    "salary": "15-30K·14薪",
+    "salary_low": 15
+   }
+  ]
+ },
+ {
+  "company": "远算科技",
+  "ai_score": 3,
+  "sector": "工业仿真软件国产化 + 云化（仿真 + 云）",
+  "sources": [
+   "媒体(36氪/铅笔道)"
+  ],
+  "jobs": [
+   {
+    "eid": "17496ad0994bd2ee03x_39i-E1dS",
+    "company": "远算科技",
+    "jobName": "能源电力交付经理",
+    "salary": "15-25K·14薪",
+    "salary_low": 15
+   },
+   {
+    "eid": "b73e1f6eb36287bd0nd809S5FVVV",
+    "company": "远算科技",
+    "jobName": "实施交付工程师",
+    "salary": "10-15K·14薪",
+    "salary_low": 10
+   }
+  ]
+ },
+ {
+  "company": "迦智科技",
+  "ai_score": 3,
+  "sector": "SLAM 导航 AGV / 智能物流解决方案",
+  "sources": [
+   "媒体(36氪/铅笔道)"
+  ],
+  "jobs": [
+   {
+    "eid": "8f959eeca3295a480nJ63NW9F1NZ",
+    "company": "迦智科技",
+    "jobName": "交付项目经理",
+    "salary": "15-20K",
+    "salary_low": 15
+   },
+   {
+    "eid": "c2455b76c5928c640nN40ty5F1ZX",
+    "company": "迦智科技",
+    "jobName": "技术交付经理",
+    "salary": "15-25K·13薪",
+    "salary_low": 15
+   }
+  ]
+ },
+ {
+  "company": "华睿科技",
+  "ai_score": 3,
+  "sector": "",
+  "sources": [
+   "知名企业"
+  ],
+  "jobs": [
+   {
+    "eid": "3eb51fbe98601f9d0nBy2NS1GFdY",
+    "company": "华睿科技",
+    "jobName": "项目交付经理-杭州(J10339)",
+    "salary": "11-18K·14薪",
+    "salary_low": 11
+   },
+   {
+    "eid": "8f28a6b0bbc043cb0nF70ti_FVtT",
+    "company": "华睿科技",
+    "jobName": "机器视觉解决方案工程师",
+    "salary": "12-24K·14薪",
+    "salary_low": 12
+   },
+   {
+    "eid": "1d4c8b8e01c5cf380nJ_2ty6FlVR",
+    "company": "华睿科技",
+    "jobName": "项目交付负责人",
+    "salary": "11-18K·14薪",
+    "salary_low": 11
+   }
+  ]
+ },
+ {
+  "company": "浙江春风动力股份有限公司",
+  "ai_score": 2,
+  "sector": "摩托车/全地形车",
+  "sources": [
+   "专精特新/小巨人"
+  ],
+  "jobs": [
+   {
+    "eid": "267eb152d88b3ec60nJy3NS4FVVU",
+    "company": "浙江春风动力股份...",
+    "jobName": "MES实施顾问",
+    "salary": "15-20K·14薪",
+    "salary_low": 15
+   },
+   {
+    "eid": "4de8cd08729e50db0nN439i6FFtT",
+    "company": "浙江春风动力股份...",
+    "jobName": "产品经理-AI应用",
+    "salary": "15-25K·14薪",
+    "salary_low": 15
+   }
+  ]
+ },
+ {
+  "company": "杭州科百特过滤器材有限公司",
+  "ai_score": 2,
+  "sector": "过滤材料/半导体耗材",
+  "sources": [
+   "专精特新/小巨人"
+  ],
+  "jobs": [
+   {
+    "eid": "42c71c3d4c390e6203J_2di-FFJU",
+    "company": "杭州科百特过滤器材",
+    "jobName": "制造业营销系统实施顾问（CRM/ERP+AI方向）",
+    "salary": "15-30K",
+    "salary_low": 15
+   }
+  ]
+ },
+ {
+  "company": "整数智能",
+  "ai_score": 2,
+  "sector": "AI 数据服务 / 数据集构建 / 智能数据工程平台",
+  "sources": [
+   "媒体(36氪/铅笔道)"
+  ],
+  "jobs": [
+   {
+    "eid": "ac6fe23bd8cf6d7f0nJy09S9FlFV",
+    "company": "整数智能",
+    "jobName": "Code Agent 游戏数据工程师",
+    "salary": "20-40K·13薪",
+    "salary_low": 20
+   }
+  ]
+ }
+]

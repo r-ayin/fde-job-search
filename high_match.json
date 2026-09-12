@@ -1,0 +1,209 @@
+[
+ {
+  "eid": "85750bf2bca2e1e30nN73du7EFtZ",
+  "name": "电商短视频行业 FDE 负责人",
+  "company": "云智创心",
+  "salary": "18-30K",
+  "area": null,
+  "score": 84,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(交付,客户,工作流,方案,电商,解决方案)",
+   "+15 电商行业",
+   "+15 薪资匹配"
+  ],
+  "descLen": 873
+ },
+ {
+  "eid": "840c7a4fe3e3b2180nJ_3d65F1ZT",
+  "name": "FDE前向部署工程师",
+  "company": "杭州雾楼台",
+  "salary": "12-18K·13薪",
+  "area": null,
+  "score": 79,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(agent,docker,llm,prompt,交付,大模型)",
+   "+15 电商行业",
+   "+10 薪资部分匹配"
+  ],
+  "descLen": 853
+ },
+ {
+  "eid": "17636fb15ed1f5530nJ_2N--GFtY",
+  "name": "纺织FDE工程师（base台州总部）",
+  "company": "冠织时尚科技",
+  "salary": "10-15K",
+  "area": null,
+  "score": 79,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(客户,数据分析,方案,电商,自动化,解决方案)",
+   "+15 电商行业",
+   "+10 薪资部分匹配"
+  ],
+  "descLen": 633
+ },
+ {
+  "eid": "d9224783d40953bd0nJ93NW9FVVX",
+  "name": "FDE顾问（制造业方向）",
+  "company": "深圳优维科技有限公司",
+  "salary": "50-80K",
+  "area": null,
+  "score": 73,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(agent,rag,tob,交付,大模型,客户)",
+   "+15 电商行业",
+   "+10 薪资部分匹配",
+   "-6 短板(java)"
+  ],
+  "descLen": 1198
+ },
+ {
+  "eid": "5484351f48d2a6620nJz29u-EVFR",
+  "name": "FDE工程师（智能调度方向）",
+  "company": "中控技术",
+  "salary": "15-30K·14薪",
+  "area": null,
+  "score": 69,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(agent,交付,数据分析,方案,知识库,部署)",
+   "+15 薪资匹配"
+  ],
+  "descLen": 1533
+ },
+ {
+  "eid": "1ef4b5e7bf1f17a40nF-29y9FFNT",
+  "name": "前沿部署工程师（FDE - AI Agent方向）",
+  "company": "箴理科技",
+  "salary": "16-28K·14薪",
+  "area": null,
+  "score": 69,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(agent,llm,poc,交付,客户,工作流)",
+   "+15 薪资匹配"
+  ],
+  "descLen": 2050
+ },
+ {
+  "eid": "78f4fde7b5619ff40nN40ti_ElRV",
+  "name": "FDE（AI 交付工程师 / AI 交付专家）",
+  "company": "南通五棵葱文化传媒",
+  "salary": "15-25K",
+  "area": null,
+  "score": 69,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(agent,poc,交付,大模型,客户,方案)",
+   "+15 薪资匹配"
+  ],
+  "descLen": 726
+ },
+ {
+  "eid": "8fc0f564bc7aff140nF-3tS0E1BZ",
+  "name": "FDE工程师（客户成功方向）",
+  "company": "北京天润融通",
+  "salary": "15-25K",
+  "area": null,
+  "score": 69,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(poc,tob,交付,客户,方案,知识库)",
+   "+15 薪资匹配"
+  ],
+  "descLen": 855
+ },
+ {
+  "eid": "8ff8193318281d460nJ80tW4EFZT",
+  "name": "FDE前沿部署工程师",
+  "company": "三达德科技",
+  "salary": "20-40K",
+  "area": null,
+  "score": 68,
+  "reasons": [
+   "+30 核心FDE",
+   "+20 能力命中(tob,客户,方案,知识库,解决方案)",
+   "+8 零售",
+   "+10 薪资部分匹配"
+  ],
+  "descLen": 554
+ },
+ {
+  "eid": "33da99754e1570630nJ92dy9GVNQ",
+  "name": "FDE前线部署工程师",
+  "company": "杭州盐宁科技有限公司",
+  "salary": "18-25K·13薪",
+  "area": null,
+  "score": 66,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(agent,api,交付,大模型,客户,方案)",
+   "+15 电商行业",
+   "+15 薪资匹配",
+   "-18 短板(react,typescript,vue)"
+  ],
+  "descLen": 997
+ },
+ {
+  "eid": "875e4540fb29a1660nJy0ti0FVBZ",
+  "name": "FDE（商务方向）",
+  "company": "绛紫",
+  "salary": "8-12K",
+  "area": null,
+  "score": 65,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(agent,rag,交付,客户,工作流,方案)",
+   "+8 零售",
+   "+3 薪资偏低"
+  ],
+  "descLen": 998
+ },
+ {
+  "eid": "89dd8c5e3f6943970nN53dy4ElNX",
+  "name": "FDE交付工程师（网易）",
+  "company": "微创软件",
+  "salary": "12-17K",
+  "area": null,
+  "score": 64,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(agent,大模型,客户,方案,知识库,解决方案)",
+   "+10 薪资部分匹配"
+  ],
+  "descLen": 543
+ },
+ {
+  "eid": "202657dbf050baa20nN72dq7GFpY",
+  "name": "高级FDE（杭州 深圳 郑州）",
+  "company": "超聚变技术有限公司",
+  "salary": "20-40K",
+  "area": null,
+  "score": 64,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(agent,llm,poc,rag,交付,大模型)",
+   "+10 薪资部分匹配"
+  ],
+  "descLen": 786
+ },
+ {
+  "eid": "cf57a8ad5ec872ea0nJy2dy0EVFR",
+  "name": "前沿部署工程师FDE（国际物流/AI方向）",
+  "company": "未斯",
+  "salary": "20-30K·14薪",
+  "area": null,
+  "score": 60,
+  "reasons": [
+   "+30 核心FDE",
+   "+24 能力命中(agent,api,prompt,rag,交付,向量)",
+   "+15 电商行业",
+   "+15 薪资匹配",
+   "-24 短板(java,spring boot,spring cloud,vue)"
+  ],
+  "descLen": 1668
+ }
+]

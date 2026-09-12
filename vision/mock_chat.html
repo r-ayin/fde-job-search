@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<title>mock chat (BOSS DOM 结构复刻)</title>
+<style>
+  body { font-family: system-ui, sans-serif; margin: 0; display: flex; height: 100vh; }
+  #list { width: 300px; border-right: 1px solid #e6e7eb; overflow: auto; }
+  .friend-content-warp { padding: 12px; border-bottom: 1px solid #f0f1f3; cursor: pointer; }
+  .friend-content { font-size: 14px; }
+  #main { flex: 1; display: flex; flex-direction: column; }
+  .chat-conversation { padding: 12px 16px; border-bottom: 1px solid #e6e7eb; font-weight: 700; }
+  .chat-position-content { padding: 10px 16px; color: #61666d; font-size: 13px;
+                           background: #fafafa; border-bottom: 1px solid #e6e7eb; }
+  #chat-input { flex: 1; margin: 12px; padding: 10px; border: 1px solid #ddd;
+                border-radius: 6px; font-size: 15px; overflow: auto; }
+  #sendbar { padding: 0 12px 12px; text-align: right; }
+  .btn-send { background: #00bebd; color: #fff; border: 0; border-radius: 6px;
+              padding: 10px 26px; font-size: 15px; cursor: pointer; }
+  .btn-send.disabled { background: #ccc; pointer-events: none; }
+  #sent, #log { font-family: monospace; font-size: 12px; padding: 8px; }
+  #sent { background: #eef; white-space: pre-wrap; }
+  #log { background: #111; color: #0f0; white-space: pre-wrap; height: 130px; overflow: auto; }
+</style>
+</head>
+<body>
+<div id="list">
+  <div class="friend-content-warp"><div class="friend-content">杭州雾楼台 · 招聘者</div></div>
+  <div class="friend-content-warp"><div class="friend-content">云智创心科技 · 招聘者</div></div>
+</div>
+<div id="main">
+  <div class="chat-conversation">云智创心科技 · 王**</div>
+  <div class="chat-position-content">电商短视频行业 FDE 负责人 18-30K</div>
+  <div id="chat-input" contenteditable="true"></div>
+  <div id="sendbar"><button class="btn-send disabled" id="sendbtn">发送</button></div>
+  <div id="sent">已发送内容会显示在这里</div>
+  <pre id="log"></pre>
+</div>
+<script>
+const L = [];
+['pointerdown','mousedown','pointerup','mouseup','click','keydown','input'].forEach(t =>
+  document.addEventListener(t, e => {
+    L.push({ t, trusted: e.isTrusted, target: (e.target.id || e.target.className || e.target.tagName) });
+    document.getElementById('log').textContent = JSON.stringify(L.slice(-25), null, 1);
+  }, true));
+
+const input = document.getElementById('chat-input');
+const btn = document.getElementById('sendbtn');
+function sync() {
+  // 复刻 BOSS 行为：输入框有内容才启用发送按钮
+  if ((input.innerText || '').trim().length > 0) btn.classList.remove('disabled');
+  else btn.classList.add('disabled');
+}
+input.addEventListener('input', sync);
+input.addEventListener('keyup', sync);
+btn.addEventListener('click', () => {
+  document.getElementById('sent').textContent = '已发送(' + (input.innerText||'').length + '字):\n' + input.innerText;
+  input.innerHTML = '';
+  sync();
+});
+
+// 点击列表项切换会话（复刻"面板更新滞后"的特性）
+document.querySelectorAll('.friend-content-warp').forEach((w, i) => {
+  w.addEventListener('click', () => {
+    const name = w.innerText.split('·')[0].trim();
+    document.querySelector('.chat-conversation').textContent = name + ' · 招聘者';
+    document.querySelector('.chat-position-content').textContent = '载入中';
+    setTimeout(() => {
+      const jobs = {'杭州雾楼台': 'FDE前向部署工程师 12-18K·13薪',
+                    '云智创心科技': '电商短视频行业 FDE 负责人 18-30K'};
+      document.querySelector('.chat-position-content').textContent = jobs[name] || '未知岗位';
+    }, 900);  // 故意延迟，模拟 BOSS 卡片更新慢
+  });
+});
+
+window.__log = () => L;
+window.__clear = () => { L.length = 0; document.getElementById('log').textContent = ''; };
+window.__val = () => input.innerText;
+window.__sent = () => document.getElementById('sent').textContent;
+sync();
+</script>
+</body>
+</html>

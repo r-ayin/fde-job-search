@@ -1,0 +1,75 @@
+[
+ {
+  "company": "阿里巴巴集团",
+  "sources": [
+   "知名企业"
+  ],
+  "sector": "",
+  "relevant_roles": [
+   "阿里淘天-AI产品经理（正编P5-7，25-50K·16薪，杭州）",
+   "千问办公-AI应用研发工程师/评测工程师（杭州）",
+   "AI安全工程师（杭州上城区）"
+  ],
+  "career_url": "https://talent.alibaba.com/",
+  "evidence_url": "https://www.zhipin.com/job_detail/d339b26a49f9ed1a0nd80t27FldV.html",
+  "ai_score": 2,
+  "is_ali": true,
+  "excluded": true,
+  "already_contacted": true,
+  "notes": "why_fit=岗位与期望方向相关，但求职者明确不投阿里系，仅列出供参考。 | role_type=AI产品 / AI研发"
+ },
+ {
+  "company": "阿里云",
+  "sources": [
+   "知名企业"
+  ],
+  "sector": "",
+  "relevant_roles": [
+   "AI应用开发工程师（12-20K·13薪，杭州文新）",
+   "高级AI开发工程师（20-35K·14薪，杭州余杭）",
+   "AI知识工程师/评测工程师（20-50K，杭州）"
+  ],
+  "career_url": "https://talent.alibaba.com/",
+  "evidence_url": "https://www.liepin.com/job/1985518245.shtml",
+  "ai_score": 5,
+  "is_ali": true,
+  "excluded": true,
+  "already_contacted": true,
+  "notes": "why_fit=阿里云杭州有AI应用与知识工程岗位，匹配方向；但属阿里系，已排除。 | role_type=AI应用 / AI解决方案"
+ },
+ {
+  "company": "蚂蚁集团",
+  "sources": [
+   "知名企业"
+  ],
+  "sector": "",
+  "relevant_roles": [
+   "AI安全工程师（12-15K，杭州上城区）",
+   "业务技术-大模型算法工程师-生成式AI（30-50K，杭州）"
+  ],
+  "career_url": "https://talent.antgroup.com/",
+  "evidence_url": "https://www.liepin.com/job/1985528713.shtml",
+  "ai_score": 2,
+  "is_ali": true,
+  "excluded": true,
+  "already_contacted": false,
+  "notes": "why_fit=杭州有岗位，但属阿里系且偏算法研发，已排除。 | role_type=AI研发 / AI安全"
+ },
+ {
+  "company": "钉钉",
+  "sources": [
+   "知名企业"
+  ],
+  "sector": "",
+  "relevant_roles": [
+   "未单独验证在招交付/解决方案岗（属阿里系）"
+  ],
+  "career_url": "https://talent.alibaba.com/",
+  "evidence_url": "https://talent.alibaba.com/",
+  "ai_score": 10,
+  "is_ali": true,
+  "excluded": true,
+  "already_contacted": false,
+  "notes": "why_fit=钉钉AI Agent开放平台与FDE方向相关，但属阿里系，已排除。 | role_type=其他"
+ }
+]

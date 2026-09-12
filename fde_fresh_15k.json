@@ -1,0 +1,274 @@
+[
+ {
+  "eid": "278ca71101e124140nN53920EFZY",
+  "jobName": "前向部署（FDE）负责人p8+（带人不coding)",
+  "company": "某大型互联网公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 173.9375,
+  "y": -8748,
+  "salary": "80-110K·16薪",
+  "kw": "fde",
+  "salary_low": 80.0,
+  "salary_high": 110.0
+ },
+ {
+  "eid": "31706c061ca5910e0nN52966FVJT",
+  "jobName": "前向部署（FDE）专家-scope详谈",
+  "company": "某大型互联网公司",
+  "tags": [
+   "10年以上",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 173.9375,
+  "y": -4050,
+  "salary": "80-110K·16薪",
+  "kw": "fde",
+  "salary_low": 80.0,
+  "salary_high": 110.0
+ },
+ {
+  "eid": "c6ec4b3604a49c680nN52ti9F1ZQ",
+  "jobName": "前向部署（FDE）负责人（p89年龄友好）",
+  "company": "某大型互联网公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 172.3125,
+  "y": -27540,
+  "salary": "70-100K·16薪",
+  "kw": "fde",
+  "salary_low": 70.0,
+  "salary_high": 100.0
+ },
+ {
+  "eid": "f8229429d3f755280nF73dq1E1pU",
+  "jobName": "FDE大模型前沿部署工程师",
+  "company": "北京某大型互联网技术上市公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8984375,
+  "y": -7698,
+  "salary": "50-80K·16薪",
+  "kw": "fde",
+  "salary_low": 50.0,
+  "salary_high": 80.0
+ },
+ {
+  "eid": "da0de9e11785d5320nJ42t-9FlVT",
+  "jobName": "高级 FDE-北/杭/深/西/郑",
+  "company": "某大型计算机硬件公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 174.265625,
+  "y": -18594,
+  "salary": "35-45K·20薪",
+  "kw": "fde",
+  "salary_low": 35.0,
+  "salary_high": 45.0
+ },
+ {
+  "eid": "d04f83d5ed2739240nF_2t67FFFR",
+  "jobName": "FDE 合伙",
+  "company": "杭州中盈佰润科技",
+  "tags": [
+   "经验不限",
+   "学历不限"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 175.8828125,
+  "y": -29340,
+  "salary": "30-60K·14薪",
+  "kw": "fde",
+  "salary_low": 30.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "35a7adbb530ab5ef0nN62Nq6EFNS",
+  "jobName": "FDE工程师",
+  "company": "某大型通信公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 195.4296875,
+  "y": -14196,
+  "salary": "30-60K",
+  "kw": "fde",
+  "salary_low": 30.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "4c746ff3365016790nB439S1ElFW",
+  "jobName": "AI前沿部署工程师-北京/杭州",
+  "company": "某大型互联网上市集团公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8984375,
+  "y": -30138,
+  "salary": "30-60K·17薪",
+  "kw": "前线部署",
+  "salary_low": 30.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "b5a64d1230368a160nB92dy1FVNY",
+  "jobName": "FDE（医疗AI）",
+  "company": "智诊科技",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州·临平区·东湖",
+  "x": 195.4296875,
+  "y": -27990,
+  "salary": "25-50K",
+  "kw": "fde",
+  "salary_low": 25.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "66cb679bce53e1840nJ92Nu6ElVT",
+  "jobName": "人工智能开发 智能体 FDE OPC 跨境 Claw",
+  "company": "杭州星红文化传媒",
+  "tags": [
+   "经验不限",
+   "学历不限"
+  ],
+  "location": "杭州·钱塘区·金沙湖",
+  "x": 150.5234375,
+  "y": -27390,
+  "salary": "20000-50000元/月",
+  "kw": "fde",
+  "salary_low": 20.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "9c7ad820addf9bf20nJ52tS7EFdT",
+  "jobName": "FDE 全栈 AI 工程师",
+  "company": "云凡智联",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·萧山区·宁围",
+  "x": 195.4140625,
+  "y": -25392,
+  "salary": "20-40K",
+  "kw": "fde",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "3263e7effac48d220nN-2tq0EVFY",
+  "jobName": "FDE-AI前沿部署工程师",
+  "company": "绿和",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 195.4296875,
+  "y": -35620,
+  "salary": "20-25K",
+  "kw": "前沿部署",
+  "salary_low": 20.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "4b62384f0e419a5a0nN439W8EFVW",
+  "jobName": "AI项目经理（FDE）",
+  "company": "杭州智德(金蝶)",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·西兴",
+  "x": 197.046875,
+  "y": -30090,
+  "salary": "15-20K",
+  "kw": "fde",
+  "salary_low": 15.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "845c3ef4c12a08460nF83tW1FVdW",
+  "jobName": "fde全栈",
+  "company": "杭州利舰科技有限公司",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 197.046875,
+  "y": -29640,
+  "salary": "15-30K",
+  "kw": "fde",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "e5d614f804b856eb0nN-2du5E1FV",
+  "jobName": "FDE解决方案架构师（AI大模型）(J16048)",
+  "company": "先进数通",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·萧山区·钱江世纪城",
+  "x": 197.046875,
+  "y": -22842,
+  "salary": "15-25K",
+  "kw": "fde",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "317371e2bed609bc0nN53Ni9EVVW",
+  "jobName": "AI后端工程师&后端开发&AI全栈&FDE",
+  "company": "多点",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·上城区·九堡",
+  "x": 197.046875,
+  "y": -20694,
+  "salary": "15-25K",
+  "kw": "fde",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "7879da0f72e7a4a60nN-2t68FFBX",
+  "jobName": "FDE（前沿部署工程师）",
+  "company": "杭州灵通云智算科技",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·勾庄",
+  "x": 197.046875,
+  "y": -16944,
+  "salary": "15-20K",
+  "kw": "fde",
+  "salary_low": 15.0,
+  "salary_high": 20.0
+ }
+]

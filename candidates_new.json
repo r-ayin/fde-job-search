@@ -1,0 +1,9010 @@
+[
+ {
+  "eid": "d43bbad6065498270nR73d-1GFdV",
+  "jobName": "大模型工程师",
+  "salary": "25-30K·13薪",
+  "company": "智谋科技",
+  "tags": [
+   "5-10年",
+   "硕士"
+  ],
+  "location": "杭州·萧山区·宁围",
+  "x": 175.8984375,
+  "y": -4582,
+  "kw": "前沿部署",
+  "salary_low": 25.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "e7fd12fe190c10d90nFz3NS7FFVW",
+  "jobName": "资深开发工程师（AI应用方向）",
+  "salary": "25-30K",
+  "company": "杭州应无所住智能科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 195.4296875,
+  "y": -334,
+  "kw": "AI应用工程师",
+  "salary_low": 25.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "584adca85af48c550nF809q-FlRV",
+  "jobName": "资深Golang / GO 开发工程师（AI Agent)",
+  "salary": "25-30K",
+  "company": "光年AI",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 195.4296875,
+  "y": -784,
+  "kw": "AI Agent",
+  "salary_low": 25.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "03775476d6f4a5fd0nN62tu-EVFY",
+  "jobName": "模型应用工程师（端侧AI与机器人部署方向）",
+  "salary": "22-25K",
+  "company": "杭州易加仿生科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 195.4296875,
+  "y": -17728,
+  "kw": "前沿部署",
+  "salary_low": 22.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "41886d096358a2e40nN629W-F1pU",
+  "jobName": "流媒体AI应用工程师",
+  "salary": "22-30K",
+  "company": "嘉兴九州文化传媒",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·钱塘区·金沙湖",
+  "x": 195.4296875,
+  "y": -14728,
+  "kw": "AI应用工程师",
+  "salary_low": 22.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "e8c21a8e5644f6720nN739q9F1FW",
+  "jobName": "AI Agent 开发工程师",
+  "salary": "22-30K",
+  "company": "嘉兴九州文化传媒",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·钱塘区·金沙湖",
+  "x": 195.4296875,
+  "y": -21076,
+  "kw": "AI Agent",
+  "salary_low": 22.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "55202a6c7f3791b70nFy0tW1FlNS",
+  "jobName": "FDE工程师",
+  "salary": "20-30K·14薪",
+  "company": "北京精医和生医药科技",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 175.8828125,
+  "y": -12280,
+  "kw": "fde",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "83eb915ae15b9b790nBy39-6FFNR",
+  "jobName": "FDE-前端部署工程师",
+  "salary": "20-30K",
+  "company": "晟命科技",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州·余杭区·万达广场",
+  "x": 195.4296875,
+  "y": -10480,
+  "kw": "fde",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "a0e019efb51d2f560nZ83N61EFZR",
+  "jobName": "ai产品经理",
+  "salary": "20-30K",
+  "company": "瞬维智能",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 195.4296875,
+  "y": -9580,
+  "kw": "fde",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "5c3289c1a913db150nJz3tu7EFdY",
+  "jobName": "ai解决方案架构师（FDE）",
+  "salary": "20-30K·14薪",
+  "company": "攻壳数智",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 175.8828125,
+  "y": -5932,
+  "kw": "fde",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "3263e7effac48d220nN-2tq0EVFY",
+  "jobName": "FDE-AI前沿部署工程师",
+  "salary": "20-25K",
+  "company": "绿和",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 195.4296875,
+  "y": -21526,
+  "kw": "前沿部署",
+  "salary_low": 20.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "d09dcfc8b1f937310nFy2Nm0EVNQ",
+  "jobName": "能源AI应用中心负责人",
+  "salary": "20-30K",
+  "company": "新至数碳",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·临平区·塘栖",
+  "x": 195.4296875,
+  "y": -784,
+  "kw": "前沿部署",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "f57228025c32ba710nd_2tS9GFBQ",
+  "jobName": "AI应用工程师-（国企双休餐补交补房补）",
+  "salary": "20-30K",
+  "company": "边锋",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·拱墅区·拱宸桥",
+  "x": 195.4296875,
+  "y": -21526,
+  "kw": "AI应用工程师",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "05258f3f060f3ba20nB429i9EVZV",
+  "jobName": "AI大模型应用开发工程师",
+  "salary": "20-25K",
+  "company": "吉林壹码通网络科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 195.4296875,
+  "y": -17428,
+  "kw": "AI应用工程师",
+  "salary_low": 20.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "43e8287be05402980nN609-6GFRR",
+  "jobName": "AI应用工程师（27届）-杭州 (MJ000864)",
+  "salary": "20-30K·14薪",
+  "company": "广立微",
+  "tags": [
+   "在校/应届",
+   "学历不限"
+  ],
+  "location": "杭州·滨江区·浦沿",
+  "x": 175.8828125,
+  "y": -17278,
+  "kw": "AI应用工程师",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "723e9d6e6d39462a0nBy2dm1EFRQ",
+  "jobName": "AI全栈应用工程师",
+  "salary": "20-25K",
+  "company": "杭州来布科技有限公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 195.4296875,
+  "y": -16078,
+  "kw": "AI应用工程师",
+  "salary_low": 20.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "c403a9e73f02c4900nJ_0tu1FVNV",
+  "jobName": "Ai应用研发工程师（架构方向）-TikTok shop",
+  "salary": "20-30K·15薪",
+  "company": "字节跳动",
+  "tags": [
+   "在校/应届",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 175.8984375,
+  "y": -13828,
+  "kw": "AI应用工程师",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "beccc555d7d5b9010nBz3NS6GFdV",
+  "jobName": "AI应用工程师",
+  "salary": "20-30K·16薪",
+  "company": "杰华特微电子股份...",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·三墩",
+  "x": 175.8984375,
+  "y": -9730,
+  "kw": "AI应用工程师",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "2436a9f118dd0cb70nJ_39i5EFtQ",
+  "jobName": "大模型应用工程师（Agent方向）",
+  "salary": "20-25K·14薪",
+  "company": "一桌好酒",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·勾庄",
+  "x": 175.8828125,
+  "y": -8482,
+  "kw": "AI应用工程师",
+  "salary_low": 20.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "0a57a52c4325d84903xz2dm1ElpW",
+  "jobName": "AI应用开发工程师（跨境电商）",
+  "salary": "20-30K",
+  "company": "杭州奔途",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 195.4296875,
+  "y": -3334,
+  "kw": "AI应用工程师",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "428cf7109037e0f20nJ_3t-_FlpX",
+  "jobName": "AI 应用工程师（Agent/RAG 方向）",
+  "salary": "20-25K",
+  "company": "田螺云厨",
+  "tags": [
+   "5-10年",
+   "学历不限"
+  ],
+  "location": "杭州·富阳区·春江",
+  "x": 195.4296875,
+  "y": -2734,
+  "kw": "AI应用工程师",
+  "salary_low": 20.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "618ebaaf8ecd90090nJ_3tm1F1ZT",
+  "jobName": "鸿蒙应用开发工程师--AI coding/Agent",
+  "salary": "20-30K·15薪",
+  "company": "浙江大华",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 175.8984375,
+  "y": -934,
+  "kw": "AI应用工程师",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "cee658903711f88b0nBy3dS5EVFR",
+  "jobName": "AI应用开发工程师",
+  "salary": "20-25K·13薪",
+  "company": "炽橙数字",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·上城区·南星",
+  "x": 175.8984375,
+  "y": -634,
+  "kw": "AI应用工程师",
+  "salary_low": 20.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "7b891ade21a1e9300nF709m_EFRX",
+  "jobName": "AI 应用工程师",
+  "salary": "20-30K",
+  "company": "杭州御剑飞行科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·瓶窑",
+  "x": 195.4296875,
+  "y": 1664,
+  "kw": "AI应用工程师",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "c716579eee3e91a60nN60ti0EVtS",
+  "jobName": "Ai应用开发工程师",
+  "salary": "20-30K",
+  "company": "梦寻电商",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 195.4296875,
+  "y": 1964,
+  "kw": "AI应用工程师",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "30a8c1733083245f031639W4FVFV",
+  "jobName": "AI Agent 应用后端工程师",
+  "salary": "20-30K",
+  "company": "菠萝踏歌",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·滨江区政府",
+  "x": 195.4296875,
+  "y": 2414,
+  "kw": "AI应用工程师",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "55ba0ccde3b6ad1e0nN42dq4F1pV",
+  "jobName": "高级AI售前经理 / 解决方案工程师",
+  "salary": "20-30K",
+  "company": "鲸云智能",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·未来科技城",
+  "x": 195.4296875,
+  "y": -21226,
+  "kw": "AI解决方案",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "b41243f7f4bd766a0nJz09W9GFVY",
+  "jobName": "AI语音智能体产品解决方案",
+  "salary": "20-25K",
+  "company": "共道网络科技有限公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 195.4296875,
+  "y": -21076,
+  "kw": "AI解决方案",
+  "salary_low": 20.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "068a71a43f8d0f420nB42du-FlJR",
+  "jobName": "跨境支付解决方案经理（数娱/AI 行业）",
+  "salary": "20-30K·15薪",
+  "company": "深圳加领管理咨询",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 175.8984375,
+  "y": -19726,
+  "kw": "AI解决方案",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "b29f368131309c3f0nF63d67FVRV",
+  "jobName": "解决方案中级专家(MJ003826)",
+  "salary": "20-25K·14薪",
+  "company": "顾家家居",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·上城区·火车东站",
+  "x": 175.8828125,
+  "y": -19426,
+  "kw": "AI解决方案",
+  "salary_low": 20.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "88e25cfdfb8d47560nJ_09-8F1ZV",
+  "jobName": "ai产品经理",
+  "salary": "20-25K·13薪",
+  "company": "维美创业投资有限公司",
+  "tags": [
+   "10年以上",
+   "本科"
+  ],
+  "location": "杭州·萧山区·宁围",
+  "x": 175.8984375,
+  "y": -15778,
+  "kw": "AI解决方案",
+  "salary_low": 20.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "0bd8b29d830c13e00nBy0tq8FVdR",
+  "jobName": "ai产品经理",
+  "salary": "20-30K",
+  "company": "开心果数智",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·拱墅区·万达广场",
+  "x": 195.4296875,
+  "y": -15478,
+  "kw": "AI解决方案",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "b6463ef6b7598bc30nN62dW-FVtW",
+  "jobName": "云计算解决方案架构师",
+  "salary": "20-30K·13薪",
+  "company": "某大型互联网公司",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8984375,
+  "y": -11680,
+  "kw": "AI解决方案",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "aa10bdd617ae7e271HB70920EVBZ",
+  "jobName": "军工解决方案工程师",
+  "salary": "20-30K",
+  "company": "九麒",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·文三路",
+  "x": 195.4296875,
+  "y": -11080,
+  "kw": "AI解决方案",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "23caaa7e314013000nd809y7GVZU",
+  "jobName": "产品解决方案",
+  "salary": "20-30K",
+  "company": "联汇科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 195.4296875,
+  "y": -6682,
+  "kw": "AI解决方案",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "f578da632ff54a880nJ-2967EFBT",
+  "jobName": "解决方案工程师（上市公司）",
+  "salary": "20-30K·14薪",
+  "company": "杭州某大型通信/网络设备公司",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": -6382,
+  "kw": "AI解决方案",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "e03056e9a76f4ece0nN709q7GFBT",
+  "jobName": "解决方案架构师",
+  "salary": "20-30K",
+  "company": "天宽科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·黄龙",
+  "x": 195.4296875,
+  "y": -5632,
+  "kw": "AI解决方案",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "c1742fb314d3164203Z93Nq7ElNV",
+  "jobName": "AI产品经理",
+  "salary": "20-30K",
+  "company": "中嘉数科",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·萧山区·北干",
+  "x": 195.4296875,
+  "y": -5182,
+  "kw": "AI解决方案",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "d65cf83b787cad1b0nRz2N-_FlBY",
+  "jobName": "AI 产品经理（智能体 / Agent PaaS）",
+  "salary": "20-23K",
+  "company": "光年AI",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 195.4296875,
+  "y": -4582,
+  "kw": "AI解决方案",
+  "salary_low": 20.0,
+  "salary_high": 23.0
+ },
+ {
+  "eid": "2a1bfeb6d1e8999a0nN73d26FlBZ",
+  "jobName": "【医疗】售前解决方案",
+  "salary": "20-25K",
+  "company": "美联控股",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·萧山区·西兴",
+  "x": 195.4296875,
+  "y": -3334,
+  "kw": "AI解决方案",
+  "salary_low": 20.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "79aea48d5a10c3480nF_39q4FVdY",
+  "jobName": "AI产品经理",
+  "salary": "20-25K",
+  "company": "神州邦邦",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 195.4296875,
+  "y": -1684,
+  "kw": "AI解决方案",
+  "salary_low": 20.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "21ebd2e43a8eff040nZ80tW6F1tU",
+  "jobName": "解决方案经理-医疗大数据",
+  "salary": "20-30K",
+  "company": "深睿医疗",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 195.4296875,
+  "y": 1514,
+  "kw": "AI解决方案",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "32b2da624a7079a20nF52Ny1EFJS",
+  "jobName": "解决方案专家",
+  "salary": "20-30K·14薪",
+  "company": "衍算智能",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 175.8828125,
+  "y": 1964,
+  "kw": "AI解决方案",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "723359f4da28688d0nN60t-1FVBR",
+  "jobName": "算力项目交付工程师",
+  "salary": "20-30K·14薪",
+  "company": "某中型储能公司",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": -17878,
+  "kw": "AI交付",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "f9b4fa74868152d30nV-2d6-GFVX",
+  "jobName": "AI 产品经理 (智能体/ Agentic Workflow )",
+  "salary": "20-30K",
+  "company": "美联控股",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·萧山区·西兴",
+  "x": 195.4296875,
+  "y": -17278,
+  "kw": "AI交付",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "82ddf5ab15b9cd5c0nd83d-1EVBS",
+  "jobName": "ai产品经理",
+  "salary": "20-30K",
+  "company": "乐维创新",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 195.4296875,
+  "y": -5632,
+  "kw": "AI交付",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "f336aa40bd53f82a0nJy09y_FVRZ",
+  "jobName": "AI产品经理",
+  "salary": "20-25K·13薪",
+  "company": "杭州露曦影视文化",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 175.8984375,
+  "y": -4282,
+  "kw": "AI交付",
+  "salary_low": 20.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "0de3fcfefafb1f250nJ53Nq1GFVQ",
+  "jobName": "AI产品经理",
+  "salary": "20-30K·15薪",
+  "company": "同花顺",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8984375,
+  "y": -2134,
+  "kw": "AI交付",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "b72e6b0408ef746b0nN-2t6_EFtY",
+  "jobName": "大模型应用开发工程师 岗位代码FSE01",
+  "salary": "20-30K",
+  "company": "杭州赢云贸易有限公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 195.4296875,
+  "y": -21826,
+  "kw": "大模型应用",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "e8b0883dd1bae7fe0nN729y9FlZX",
+  "jobName": "大模型应用与推理工程师",
+  "salary": "20-30K·14薪",
+  "company": "亿咖通科技ECARX",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": -21526,
+  "kw": "大模型应用",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "89f7cdeb4e3928bc0nF63dm7FlRV",
+  "jobName": "大模型应用测试开发工程师",
+  "salary": "20-30K·14薪",
+  "company": "浙江惠瀜网络科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": -21226,
+  "kw": "大模型应用",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "5eb4c9e760926424031y2961ElNW",
+  "jobName": "大模型应用测试产品经理",
+  "salary": "20-30K",
+  "company": "轻象科技",
+  "tags": [
+   "经验不限",
+   "硕士"
+  ],
+  "location": "杭州",
+  "x": 195.4296875,
+  "y": -11980,
+  "kw": "大模型应用",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "5dfacd4b92803d9a0nFy3966E1RX",
+  "jobName": "大模型应用工程师(Agent/RAG Demo)",
+  "salary": "20-30K",
+  "company": "华来科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 195.4296875,
+  "y": -11830,
+  "kw": "大模型应用",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "aa719c9e598b01e50nJ-29y1GVFU",
+  "jobName": "大模型应用开发工程师",
+  "salary": "20-30K",
+  "company": "某知名仪器仪表上市公司",
+  "tags": [
+   "5-10年",
+   "硕士"
+  ],
+  "location": "杭州",
+  "x": 195.4296875,
+  "y": -7582,
+  "kw": "大模型应用",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "f2c9f97c4ea8d2210nZ73Ny1FFpZ",
+  "jobName": "大模型应用工程师",
+  "salary": "20-30K",
+  "company": "云树科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 195.4296875,
+  "y": -5332,
+  "kw": "大模型应用",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "7b5d529908b8c1f00nZy3d21FVNZ",
+  "jobName": "大模型应用工程师",
+  "salary": "20-30K",
+  "company": "海康保泰",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 195.4296875,
+  "y": -5182,
+  "kw": "大模型应用",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "6daa3eca42643bca0nJz2N6_GVBR",
+  "jobName": "应用软件工程师（AI/大模型方向）",
+  "salary": "20-30K·13薪",
+  "company": "浙江大华技术",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 175.8984375,
+  "y": -334,
+  "kw": "大模型应用",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "f4a10158e654af3f0nFz3d64FlJZ",
+  "jobName": "AI Agent 全栈开发工程师",
+  "salary": "20-30K",
+  "company": "三子智联",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 195.4296875,
+  "y": -20326,
+  "kw": "AI Agent",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "d97b1db46bdbafaf0nJ82dS7GVdQ",
+  "jobName": "AI agent开发工程师",
+  "salary": "20-30K",
+  "company": "广州快创",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·萧山区·西兴",
+  "x": 195.4296875,
+  "y": -17278,
+  "kw": "AI Agent",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "07c812eb92fff6bb0nJ53t28F1pV",
+  "jobName": "AI Agent开发工程师",
+  "salary": "20-26K",
+  "company": "华为",
+  "tags": [
+   "在校/应届",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 195.4296875,
+  "y": -16678,
+  "kw": "AI Agent",
+  "salary_low": 20.0,
+  "salary_high": 26.0
+ },
+ {
+  "eid": "1d69ca05e40bf56a0nJ629y-FVpZ",
+  "jobName": "AI Agent开发工程师",
+  "salary": "20-30K·14薪",
+  "company": "杭州莅来求识信息科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 175.8828125,
+  "y": -16378,
+  "kw": "AI Agent",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "049ba891cc20f2940nV82t6-F1RZ",
+  "jobName": "AI agent 开发",
+  "salary": "20-25K",
+  "company": "如泽",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·萧山区·西兴",
+  "x": 195.4296875,
+  "y": -13978,
+  "kw": "AI Agent",
+  "salary_low": 20.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "b9fd74ec73c095120nN-2di9ElZQ",
+  "jobName": "私域/社群AI Agent开发工程师",
+  "salary": "20-25K",
+  "company": "淘朵拉",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·拱墅区·拱宸桥",
+  "x": 195.4296875,
+  "y": -9280,
+  "kw": "AI Agent",
+  "salary_low": 20.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "67c65c9da1cc64b30nF_2NW4F1VS",
+  "jobName": "AI Agent开发",
+  "salary": "20-30K",
+  "company": "意动智生",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 195.4296875,
+  "y": -7882,
+  "kw": "AI Agent",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "4f373eb51219fa4c0nJ_3tu5FVdT",
+  "jobName": "AI Agent开发工程师（具身）",
+  "salary": "20-28K·15薪",
+  "company": "老板电器",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·上城区·五堡",
+  "x": 175.8984375,
+  "y": -5182,
+  "kw": "AI Agent",
+  "salary_low": 20.0,
+  "salary_high": 28.0
+ },
+ {
+  "eid": "55289f0170d8814e0nJ_2tm1FVVW",
+  "jobName": "智能体（AI Agent）开发工程师",
+  "salary": "20-30K",
+  "company": "杭州雯哲科技有限公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 195.4296875,
+  "y": -4732,
+  "kw": "AI Agent",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "e2d67f8c8bf1a4da0nB-2dq0GFpV",
+  "jobName": "高级 AI Agent 应用开发工程师",
+  "salary": "20-30K",
+  "company": "天眼智联",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·海创园",
+  "x": 195.4296875,
+  "y": -634,
+  "kw": "AI Agent",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "bce62de49ccce5620nF92t65GVtY",
+  "jobName": "金融AI Agent开发工程师",
+  "salary": "20-30K·13薪",
+  "company": "杭州择尔裕",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·拱墅区·万达广场",
+  "x": 175.8984375,
+  "y": 1214,
+  "kw": "AI Agent",
+  "salary_low": 20.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "381fdf812203a3930nJ939W5FVRZ",
+  "jobName": "AI产品经理 (MJ007794)",
+  "salary": "18-28K",
+  "company": "移远quectel",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 197.046875,
+  "y": -11680,
+  "kw": "fde",
+  "salary_low": 18.0,
+  "salary_high": 28.0
+ },
+ {
+  "eid": "171204d621bbac8f0nB42dS4GFFZ",
+  "jobName": "视觉感知与工程化部署工程师",
+  "salary": "18-25K·15薪",
+  "company": "杭州市余杭区海创...",
+  "tags": [
+   "3-5年",
+   "硕士"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 177.515625,
+  "y": -9130,
+  "kw": "前沿部署",
+  "salary_low": 18.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "9359993a30397ee80nF_0t-_FldS",
+  "jobName": "AI应用工程师",
+  "salary": "18-30K",
+  "company": "佰町文创",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·钱塘区·和达东东城",
+  "x": 197.046875,
+  "y": -16228,
+  "kw": "AI应用工程师",
+  "salary_low": 18.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "4576b2b2962d191b0ndy2tq6E1JQ",
+  "jobName": "全栈开发工程师（偏AI应用研发）",
+  "salary": "18-25K·13薪",
+  "company": "星华新材",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·上城区·望江",
+  "x": 177.515625,
+  "y": -15628,
+  "kw": "AI应用工程师",
+  "salary_low": 18.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "c5bb83b6f5f1eb2b0nN539--ElJS",
+  "jobName": "AI应用工程师（电商 / 内容自动化方向）",
+  "salary": "18-25K",
+  "company": "杭州海松热能科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·闲林",
+  "x": 197.046875,
+  "y": -9880,
+  "kw": "AI应用工程师",
+  "salary_low": 18.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "3e6a4d4dd59409d10nB70t29FlBS",
+  "jobName": "AI应用工程师",
+  "salary": "18-25K·13薪",
+  "company": "中力",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·拱墅区·上塘",
+  "x": 177.515625,
+  "y": -2884,
+  "kw": "AI应用工程师",
+  "salary_low": 18.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "5dafce56a61e89080nB_0926EFdU",
+  "jobName": "全栈开发工程师（AI应用方向）",
+  "salary": "18-30K·13薪",
+  "company": "上海东旺",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·上城区·望江",
+  "x": 177.515625,
+  "y": 764,
+  "kw": "AI应用工程师",
+  "salary_low": 18.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "ce9cddcc49d33d500nF839q9FVpV",
+  "jobName": "ai应用工程师",
+  "salary": "18-30K",
+  "company": "杭州吉脑人工智能科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 197.046875,
+  "y": 1364,
+  "kw": "AI应用工程师",
+  "salary_low": 18.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "d2ecbe3fb79a079b0nJy3NS1FVBZ",
+  "jobName": "解决方案工程师",
+  "salary": "18-24K",
+  "company": "浙江国盾量子",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·老余杭",
+  "x": 197.0390625,
+  "y": -17728,
+  "kw": "AI解决方案",
+  "salary_low": 18.0,
+  "salary_high": 24.0
+ },
+ {
+  "eid": "a13d35d8d547f6fe0nJ62t67EFVV",
+  "jobName": "AI智算解决方案架构师",
+  "salary": "18-30K",
+  "company": "行云科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·萧山区·市心北路",
+  "x": 197.046875,
+  "y": -12730,
+  "kw": "AI解决方案",
+  "salary_low": 18.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "635585ee96eb7a650nVz2dm1FldY",
+  "jobName": "AI产品经理（教育方向）",
+  "salary": "18-28K",
+  "company": "雅石数科",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 197.046875,
+  "y": -934,
+  "kw": "AI解决方案",
+  "salary_low": 18.0,
+  "salary_high": 28.0
+ },
+ {
+  "eid": "5fe8b59d1529d1760nN-2du_F1BU",
+  "jobName": "ai产品经理",
+  "salary": "18-25K·13薪",
+  "company": "派芽",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·上城区·四季青",
+  "x": 177.515625,
+  "y": 1064,
+  "kw": "AI交付",
+  "salary_low": 18.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "d00f3395c5d447880nF53dq4FVRU",
+  "jobName": "大模型应用开发工程师（智能体方向）",
+  "salary": "18-22K",
+  "company": "觅瑞(MiRXES)",
+  "tags": [
+   "3-5年",
+   "硕士"
+  ],
+  "location": "杭州",
+  "x": 197.046875,
+  "y": -7882,
+  "kw": "大模型应用",
+  "salary_low": 18.0,
+  "salary_high": 22.0
+ },
+ {
+  "eid": "deeaa53b88c34c1e0nFy2t-8FFJT",
+  "jobName": "大模型应用工程师",
+  "salary": "18-22K·15薪",
+  "company": "火思动力",
+  "tags": [
+   "1-3年",
+   "硕士"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 177.515625,
+  "y": -6682,
+  "kw": "大模型应用",
+  "salary_low": 18.0,
+  "salary_high": 22.0
+ },
+ {
+  "eid": "c9d0f943c2516e2d0nd82N20GFFR",
+  "jobName": "AI Agent研发工程师（昇腾计算）",
+  "salary": "18-30K·16薪",
+  "company": "勇冠睿智",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 177.515625,
+  "y": -20926,
+  "kw": "AI Agent",
+  "salary_low": 18.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "526c1698a929c9900nB439W-GVtV",
+  "jobName": "AI Agent 架构师",
+  "salary": "18-30K",
+  "company": "西安旺火创科有限公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 197.046875,
+  "y": -19876,
+  "kw": "AI Agent",
+  "salary_low": 18.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "15090b960192f6290nN73N-9GFtT",
+  "jobName": "AI Agent产品经理",
+  "salary": "18-24K",
+  "company": "杭州启瀛",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·龙井",
+  "x": 197.0390625,
+  "y": -19276,
+  "kw": "AI Agent",
+  "salary_low": 18.0,
+  "salary_high": 24.0
+ },
+ {
+  "eid": "c811d61822b569760nF739W5ElVR",
+  "jobName": "Ai agent 开发工程师",
+  "salary": "18-28K",
+  "company": "知识聚变",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·拱墅区·拱宸桥",
+  "x": 197.046875,
+  "y": -8632,
+  "kw": "AI Agent",
+  "salary_low": 18.0,
+  "salary_high": 28.0
+ },
+ {
+  "eid": "c5c6c9182e3014470nJ_2du8EFtU",
+  "jobName": "ai应用工程师",
+  "salary": "17-30K",
+  "company": "鹏智宏创",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 197.046875,
+  "y": -12280,
+  "kw": "AI应用工程师",
+  "salary_low": 17.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "25a3987dd9bd3b820nJ-2di7FltR",
+  "jobName": "资深售前解决方案专家",
+  "salary": "17-23K·14薪",
+  "company": "中材邦业",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 177.5078125,
+  "y": -5782,
+  "kw": "AI解决方案",
+  "salary_low": 17.0,
+  "salary_high": 23.0
+ },
+ {
+  "eid": "a675b4dd0f1d28fa0nF-2960E1VW",
+  "jobName": "机器人文旅解决方案专家（具身智能方向）",
+  "salary": "17-25K·14薪",
+  "company": "大丰实业",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 177.5078125,
+  "y": 2714,
+  "kw": "AI解决方案",
+  "salary_low": 17.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "8b8f7ba909f6bcb50nB829q6GFpT",
+  "jobName": "大模型开发工程师（驻场岗位）",
+  "salary": "16-18K",
+  "company": "易雅通CRM",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·萧山区·钱江世纪城",
+  "x": 198.6640625,
+  "y": -484,
+  "kw": "前线部署",
+  "salary_low": 16.0,
+  "salary_high": 18.0
+ },
+ {
+  "eid": "0fe7dd067038119b0nJ52Nu5E1RY",
+  "jobName": "AI应用平台高级工程师",
+  "salary": "16-30K",
+  "company": "清博智能",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州·萧山区·义蓬",
+  "x": 197.046875,
+  "y": 2264,
+  "kw": "AI应用工程师",
+  "salary_low": 16.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "8e14c485bb0e89bd0nF82NW0FltY",
+  "jobName": "数据AI售前解决方案工程师",
+  "salary": "16-20K",
+  "company": "新至数碳",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 197.046875,
+  "y": -18028,
+  "kw": "AI解决方案",
+  "salary_low": 16.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "37e948a31e3fb60c0nJ43N21F1ZZ",
+  "jobName": "工业AI售前解决方案工程师",
+  "salary": "16-30K",
+  "company": "星华新材",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·上城区·望江",
+  "x": 197.046875,
+  "y": -9580,
+  "kw": "AI解决方案",
+  "salary_low": 16.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "6f6c65a78692a1330nN42N26EVFV",
+  "jobName": "AI应用工程师",
+  "salary": "16-30K·16薪",
+  "company": "华为",
+  "tags": [
+   "在校/应届",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 177.515625,
+  "y": -20026,
+  "kw": "大模型应用",
+  "salary_low": 16.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "3b1dc48648c572390nN-2dm4EVVZ",
+  "jobName": "AI大模型应用开发经理",
+  "salary": "16-20K",
+  "company": "中电金信",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·上城区·望江",
+  "x": 197.046875,
+  "y": -14278,
+  "kw": "大模型应用",
+  "salary_low": 16.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "78677b62207317d60ndz0tW7GVdZ",
+  "jobName": "（急）高级/资深测试开发工程师—AI Agent",
+  "salary": "16-22K·13薪",
+  "company": "杭州壹网壹创",
+  "tags": [
+   "5-10年",
+   "大专"
+  ],
+  "location": "杭州·钱塘区·和达东东城",
+  "x": 177.515625,
+  "y": -11680,
+  "kw": "AI Agent",
+  "salary_low": 16.0,
+  "salary_high": 22.0
+ },
+ {
+  "eid": "845c3ef4c12a08460nF83tW1FVdW",
+  "jobName": "fde全栈",
+  "salary": "15-30K",
+  "company": "杭州利舰科技有限公司",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 197.046875,
+  "y": -21826,
+  "kw": "fde",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "4b62384f0e419a5a0nN439W8EFVW",
+  "jobName": "AI项目经理（FDE）",
+  "salary": "15-20K",
+  "company": "杭州智德(金蝶)",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·西兴",
+  "x": 197.046875,
+  "y": -20626,
+  "kw": "fde",
+  "salary_low": 15.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "7879da0f72e7a4a60nN-2t68FFBX",
+  "jobName": "FDE（前沿部署工程师）",
+  "salary": "15-20K",
+  "company": "杭州灵通云智算科技",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·勾庄",
+  "x": 197.046875,
+  "y": -18826,
+  "kw": "fde",
+  "salary_low": 15.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "e5d614f804b856eb0nN-2du5E1FV",
+  "jobName": "FDE解决方案架构师（AI大模型）(J16048)",
+  "salary": "15-25K",
+  "company": "先进数通",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·萧山区·钱江世纪城",
+  "x": 197.046875,
+  "y": -17278,
+  "kw": "fde",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "a79b697149cff5620nJz3d24EFZT",
+  "jobName": "医疗FDE（算法）",
+  "salary": "15-25K",
+  "company": "循数科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·萧山区·西兴",
+  "x": 197.046875,
+  "y": -16528,
+  "kw": "fde",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "cf9a5b834be695720nJ80969EVZZ",
+  "jobName": "AI产品经理",
+  "salary": "15-22K·13薪",
+  "company": "不息",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·钱塘区·和达东东城",
+  "x": 177.515625,
+  "y": -14728,
+  "kw": "fde",
+  "salary_low": 15.0,
+  "salary_high": 22.0
+ },
+ {
+  "eid": "0c29ae682c1b5e440nN529-6FFpY",
+  "jobName": "全栈开发工程师/FDE工程师",
+  "salary": "15-30K",
+  "company": "源诚科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 197.046875,
+  "y": -6532,
+  "kw": "fde",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "7596ea53239322880nFz0t69FFpV",
+  "jobName": "AI产品经理（文档自动化）",
+  "salary": "15-25K",
+  "company": "易训管理咨询",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 197.046875,
+  "y": -6082,
+  "kw": "fde",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "2d4b55f0aefa11720nN-2ti_ElRV",
+  "jobName": "智能体研发专家",
+  "salary": "15-25K·14薪",
+  "company": "北京亚信云网安全科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·上城区·望江",
+  "x": 177.5078125,
+  "y": -4882,
+  "kw": "fde",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "4cc1b77a08f495ab0nJ42tS0FFBQ",
+  "jobName": "大模型部署工程师",
+  "salary": "15-30K",
+  "company": "常立科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 197.046875,
+  "y": -16378,
+  "kw": "前沿部署",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "4874119ea08d1a260nJ739u9ElVU",
+  "jobName": "大模型部署工程师-智能睡眠",
+  "salary": "15-25K",
+  "company": "喜临门",
+  "tags": [
+   "3-5年",
+   "硕士"
+  ],
+  "location": "杭州·萧山区·钱江世纪城",
+  "x": 197.046875,
+  "y": -11230,
+  "kw": "前沿部署",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "d3c53a07281aa20c0nB929q8E1RZ",
+  "jobName": "大模型产品经理（安全大模型方向）",
+  "salary": "15-30K",
+  "company": "易训管理咨询",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 197.046875,
+  "y": -1084,
+  "kw": "前沿部署",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "ee1950dbdf0a05530nN42dS4FFZU",
+  "jobName": "AI产品经理",
+  "salary": "15-20K",
+  "company": "讯盟科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 197.046875,
+  "y": 764,
+  "kw": "前沿部署",
+  "salary_low": 15.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "ea1ef2651bc6e7e90nFy2du7GFtU",
+  "jobName": "模型部署工程师",
+  "salary": "15-20K",
+  "company": "像衍科技",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·海创园",
+  "x": 197.046875,
+  "y": -8632,
+  "kw": "前线部署",
+  "salary_low": 15.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "f28a927cf28345c90nJz09m_EltZ",
+  "jobName": "解决方案工程师（绍兴） (MJ007889)",
+  "salary": "15-25K",
+  "company": "移远quectel",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 197.046875,
+  "y": -6382,
+  "kw": "前线部署",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "636b7fdbe5be68f00nN-2t68FltY",
+  "jobName": "AI应用开发工程师 岗位代码FSE01",
+  "salary": "15-25K",
+  "company": "杭州赢云贸易有限公司",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 197.046875,
+  "y": -22726,
+  "kw": "AI应用工程师",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "d6780d6200b1acfe0nF72925EFpU",
+  "jobName": "AI应用工程师",
+  "salary": "15-25K",
+  "company": "杭州火呗文化传媒...",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 197.046875,
+  "y": -22576,
+  "kw": "AI应用工程师",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "8798c18428de9a9d0nJ_2Nq_EFZU",
+  "jobName": "AI应用工程师【agent】",
+  "salary": "15-25K",
+  "company": "上海宇核聚能科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 197.046875,
+  "y": -22126,
+  "kw": "AI应用工程师",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "90ee0930146c9eff0nN53dW7GFpW",
+  "jobName": "ai应用工程师",
+  "salary": "15-25K",
+  "company": "杭州君盟新媒体科...",
+  "tags": [
+   "经验不限",
+   "学历不限"
+  ],
+  "location": "杭州·滨江区·西兴",
+  "x": 197.046875,
+  "y": -21826,
+  "kw": "AI应用工程师",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "eb0d3e3e65b74a700nZ_0tS_GFZW",
+  "jobName": "ai应用工程师",
+  "salary": "15-30K·15薪",
+  "company": "三花汽零",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·钱塘区·和达东东城",
+  "x": 177.515625,
+  "y": -17878,
+  "kw": "AI应用工程师",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "bb04a18f32bfe8d30nJz092_FVpQ",
+  "jobName": "ai应用工程师",
+  "salary": "15-22K",
+  "company": "杭州驰海",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 197.046875,
+  "y": -17578,
+  "kw": "AI应用工程师",
+  "salary_low": 15.0,
+  "salary_high": 22.0
+ },
+ {
+  "eid": "d92d684c6d8900bf0nJ839-1F1VY",
+  "jobName": "AI Agent 应用工程师（偏全栈）",
+  "salary": "15-27K",
+  "company": "零新网络",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·萧山区·西兴",
+  "x": 197.046875,
+  "y": -17128,
+  "kw": "AI应用工程师",
+  "salary_low": 15.0,
+  "salary_high": 27.0
+ },
+ {
+  "eid": "5a52634ea4ea00ef0nN43920ElNX",
+  "jobName": "高级全栈开发工程师（AI应用方向）",
+  "salary": "15-20K",
+  "company": "杭州恒懂科技有限公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·萧山区·西兴",
+  "x": 197.046875,
+  "y": -16828,
+  "kw": "AI应用工程师",
+  "salary_low": 15.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "0ccee91f041d06110nBy09W_E1JS",
+  "jobName": "AI应用工程师",
+  "salary": "15-20K",
+  "company": "左西",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·上城区·九堡",
+  "x": 197.046875,
+  "y": -16528,
+  "kw": "AI应用工程师",
+  "salary_low": 15.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "58c459996e935a7b03Z529q9E1VQ",
+  "jobName": "ai应用工程师",
+  "salary": "15-22K",
+  "company": "六石科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 197.046875,
+  "y": -15328,
+  "kw": "AI应用工程师",
+  "salary_low": 15.0,
+  "salary_high": 22.0
+ },
+ {
+  "eid": "01cc455fb336ca960nN43tS1GVdY",
+  "jobName": "AI 应用开发工程师（大模型 / Agent/RAG）",
+  "salary": "15-30K",
+  "company": "杭州找北智职智能科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 197.046875,
+  "y": -13678,
+  "kw": "AI应用工程师",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "00901c18390c06430nJ42d26EVdR",
+  "jobName": "AI 大模型应用高级工程师",
+  "salary": "15-30K",
+  "company": "鹏迪科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·萧山区·宁围",
+  "x": 197.046875,
+  "y": -13030,
+  "kw": "AI应用工程师",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "6f18b265e10cadfd0nN-2tW-GVZT",
+  "jobName": "ai应用研发工程师",
+  "salary": "15-20K",
+  "company": "华峻捷科",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·滨江宝龙城",
+  "x": 197.046875,
+  "y": -12880,
+  "kw": "AI应用工程师",
+  "salary_low": 15.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "a6c9f837e74b623d0nB73Ny7F1pX",
+  "jobName": "后端 / AI应用工程师",
+  "salary": "15-20K",
+  "company": "杭州思泡科技有限公司",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州·上城区·秋涛路沿线",
+  "x": 197.046875,
+  "y": -10630,
+  "kw": "AI应用工程师",
+  "salary_low": 15.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "9ecb9e035e9b40ae03153NS_FlNZ",
+  "jobName": "AI营销智能体应用开发工程师",
+  "salary": "15-30K·16薪",
+  "company": "北京灵犀深智科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 177.515625,
+  "y": -8980,
+  "kw": "AI应用工程师",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "c3b7c25658f7fd120nN-2tm_FFFT",
+  "jobName": "Python开发工程师（AI应用）",
+  "salary": "15-25K",
+  "company": "深圳某大型ICT基础设施和智能终端公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 197.046875,
+  "y": -8632,
+  "kw": "AI应用工程师",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "03c84e71c31f842e0nN42du6FlRQ",
+  "jobName": "高级全栈工程师（AI应用开发）",
+  "salary": "15-25K",
+  "company": "康徕科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 197.046875,
+  "y": -8332,
+  "kw": "AI应用工程师",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "e9091eb93c298a0e0nF-2964FlNQ",
+  "jobName": "AI应用开发工程师 (MJ000147)",
+  "salary": "15-20K",
+  "company": "弘则研究",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 197.046875,
+  "y": -8182,
+  "kw": "AI应用工程师",
+  "salary_low": 15.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "d2aeb2e54a3abd480nd42d-0ElNZ",
+  "jobName": "AI应用工程师（跨境电商/甲方品牌）",
+  "salary": "15-20K",
+  "company": "云端漫步",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 197.046875,
+  "y": -8032,
+  "kw": "AI应用工程师",
+  "salary_low": 15.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "36e7881bd680543c0nN-2tq4FVFW",
+  "jobName": "AI应用开发工程师",
+  "salary": "15-22K",
+  "company": "杭州十五分钟文化传媒",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 197.046875,
+  "y": -4582,
+  "kw": "AI应用工程师",
+  "salary_low": 15.0,
+  "salary_high": 22.0
+ },
+ {
+  "eid": "49d6218540094e8a0nB83N-4GVdT",
+  "jobName": "AI大模型应用开发工程师",
+  "salary": "15-25K",
+  "company": "杭州旷行科技有限公司",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 197.046875,
+  "y": -3184,
+  "kw": "AI应用工程师",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "f8b804eac3f9b1e20nF52tS8FVRZ",
+  "jobName": "ai应用工程师",
+  "salary": "15-30K",
+  "company": "谦贞数字",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 197.046875,
+  "y": -3034,
+  "kw": "AI应用工程师",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "ef82fb083c5410d20nF-29W8E1VR",
+  "jobName": "ai应用开发工程师",
+  "salary": "15-16K",
+  "company": "杭州司南云图科技",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·拱墅区·拱宸桥",
+  "x": 198.6640625,
+  "y": -2284,
+  "kw": "AI应用工程师",
+  "salary_low": 15.0,
+  "salary_high": 16.0
+ },
+ {
+  "eid": "913d5df5583eb0c00nN739S6E1RY",
+  "jobName": "AI应用工程师（视觉方向）",
+  "salary": "15-20K",
+  "company": "江南布衣",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 197.046875,
+  "y": -1234,
+  "kw": "AI应用工程师",
+  "salary_low": 15.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "0e1aabdb6bab0fce0nJ_0tm6ElFT",
+  "jobName": "功率器件应用工程师",
+  "salary": "15-20K·14薪",
+  "company": "杭州芯逐",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·萧山区·宁围",
+  "x": 177.5078125,
+  "y": 2564,
+  "kw": "AI应用工程师",
+  "salary_low": 15.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "e47a162****4150nJ92Ny-FFRU",
+  "jobName": "ai解决方案工程师",
+  "salary": "15-30K",
+  "company": "凌迪科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 197.046875,
+  "y": -21676,
+  "kw": "AI解决方案",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "5efd46dfa432ccf90nN42Ni0FVZT",
+  "jobName": "AI-token解决方案大客户经理（合作人模式）",
+  "salary": "15-30K",
+  "company": "溯天科技",
+  "tags": [
+   "经验不限",
+   "学历不限"
+  ],
+  "location": "杭州·西湖区·三墩",
+  "x": 197.046875,
+  "y": -20776,
+  "kw": "AI解决方案",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "ebb7d535554dd9a50nN639S7E1BQ",
+  "jobName": "解决方案工程师",
+  "salary": "15-30K·16薪",
+  "company": "CloudBU",
+  "tags": [
+   "在校/应届",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 177.515625,
+  "y": -20026,
+  "kw": "AI解决方案",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "b921f43641565fa00nJ53du_E1VQ",
+  "jobName": "Ai应用负责人（跨境电商）",
+  "salary": "15-25K",
+  "company": "杭州益兴电子商务",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 197.046875,
+  "y": -18376,
+  "kw": "AI解决方案",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "c8c141506d2f00140nd50t-4ElNV",
+  "jobName": "解决方案负责人（base南京）",
+  "salary": "15-30K",
+  "company": "南京炫佳",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·老余杭",
+  "x": 197.046875,
+  "y": -17578,
+  "kw": "AI解决方案",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "b501fa89b4aac80c0nN50961F1FT",
+  "jobName": "解决方案（具身智能）",
+  "salary": "15-25K·14薪",
+  "company": "杭州某中型人工智能机器人核心零部件公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 177.5078125,
+  "y": -17428,
+  "kw": "AI解决方案",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "b3bb224714933a980nB42d6_ElpX",
+  "jobName": "解决方案工程师（工业AI）",
+  "salary": "15-25K",
+  "company": "轻象科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 197.046875,
+  "y": -16978,
+  "kw": "AI解决方案",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "97695c8b0823df1a0nJ-3N29F1FY",
+  "jobName": "AI医疗/数字病理解决方案经理",
+  "salary": "15-25K",
+  "company": "某大型医疗器械公司",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 197.046875,
+  "y": -16678,
+  "kw": "AI解决方案",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "f86a3502f06896930nd-3dy5F1BZ",
+  "jobName": "金融数据与 AI 解决方案",
+  "salary": "15-25K",
+  "company": "美国道富",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 197.046875,
+  "y": -15328,
+  "kw": "AI解决方案",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "7a13336833cf54b40ndz29u1FlZS",
+  "jobName": "PBG-解决方案工程师-人工智能/大模型-杭州",
+  "salary": "15-25K",
+  "company": "海康威视",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 197.046875,
+  "y": -14578,
+  "kw": "AI解决方案",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "31729150cdc125de0nBz0tS6F1BZ",
+  "jobName": "AI产品经理（偏功能）",
+  "salary": "15-25K",
+  "company": "维妥科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 197.046875,
+  "y": -14128,
+  "kw": "AI解决方案",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "6dbe4062dcb90b720nN73dy1FldY",
+  "jobName": "行业解决方案售前经理（无人机 / 低空）",
+  "salary": "15-25K·13薪",
+  "company": "翼能科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·转塘",
+  "x": 177.515625,
+  "y": -13978,
+  "kw": "AI解决方案",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "3d1d25c34bef07340nd-3dy-ElZW",
+  "jobName": "AI解决方案经理",
+  "salary": "15-30K·14薪",
+  "company": "新华三人工智能",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·萧山区·西兴",
+  "x": 177.5078125,
+  "y": -12880,
+  "kw": "AI解决方案",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "e76290797907efc90nB829S9EFNQ",
+  "jobName": "智能工厂解决方案专家",
+  "salary": "15-30K",
+  "company": "中智达",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 197.046875,
+  "y": -12280,
+  "kw": "AI解决方案",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "4ae3a7a773a7f9b803d82t27FFFX",
+  "jobName": "售前解决方案专家",
+  "salary": "15-30K·13薪",
+  "company": "杭州亿格云科技",
+  "tags": [
+   "5-10年",
+   "大专"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 177.515625,
+  "y": -12130,
+  "kw": "AI解决方案",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "7013640edd5a4a2603dy3dW7EVdY",
+  "jobName": "工业互联网解决方案工程师",
+  "salary": "15-25K",
+  "company": "中国联通杭州分公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·拱墅区·武林",
+  "x": 197.046875,
+  "y": -8632,
+  "kw": "AI解决方案",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "1bacd2abf27479ce0nN72tu1EFBS",
+  "jobName": "无人驾驶行业解决方案专家（环卫方向）",
+  "salary": "15-25K",
+  "company": "图岳控股",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·拱墅区·三塘",
+  "x": 197.046875,
+  "y": -8332,
+  "kw": "AI解决方案",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "3712dcb736aab8130nJz39i5EVpU",
+  "jobName": "信息化解决方案专家",
+  "salary": "15-25K",
+  "company": "杭州福驻科技有限公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 197.046875,
+  "y": -6232,
+  "kw": "AI解决方案",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "d03daa6136178fb203V43N-4EFBV",
+  "jobName": "AI产品经理",
+  "salary": "15-30K",
+  "company": "有赞",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 197.046875,
+  "y": -6082,
+  "kw": "AI解决方案",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "62077d4b2a235d2b03x_2Nu4FVVY",
+  "jobName": "​AI云计算售前解决方案工程师",
+  "salary": "15-30K",
+  "company": "鹏生科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 197.046875,
+  "y": -5482,
+  "kw": "AI解决方案",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "3cc2186a139027ba1HNy0925FVNW",
+  "jobName": "智算（AI）解决方案专家",
+  "salary": "15-25K·14薪",
+  "company": "新华三",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 177.5078125,
+  "y": -5332,
+  "kw": "AI解决方案",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "a59d207c014c19d40nN72ty_EVRY",
+  "jobName": "硬件解决方案经理（算力）",
+  "salary": "15-20K·13薪",
+  "company": "杭州超会联网络科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·萧山区·闻堰",
+  "x": 177.515625,
+  "y": -4432,
+  "kw": "AI解决方案",
+  "salary_low": 15.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "e0a5af92cf75ce380nFz0t-1FFNQ",
+  "jobName": "资深解决方案",
+  "salary": "15-20K",
+  "company": "数聚链科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 197.046875,
+  "y": -3184,
+  "kw": "AI解决方案",
+  "salary_low": 15.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "509ead10be7ce2ed0nFy39W9EltW",
+  "jobName": "解决方案工程师",
+  "salary": "15-25K",
+  "company": "飞步科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 197.046875,
+  "y": -2734,
+  "kw": "AI解决方案",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "89bfa42d494434a90nF72N69FlBZ",
+  "jobName": "解决方案工程师（机器人方向 base无锡）",
+  "salary": "15-20K·13薪",
+  "company": "一立方智能",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 177.515625,
+  "y": 2414,
+  "kw": "AI解决方案",
+  "salary_low": 15.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "c8321ae83cf1280a0nJ509--FVtT",
+  "jobName": "智算集群交付工程师",
+  "salary": "15-20K",
+  "company": "申昊科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·未来科技城",
+  "x": 197.046875,
+  "y": -14728,
+  "kw": "AI交付",
+  "salary_low": 15.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "2c7b882aa53631930nN73tm9FlRV",
+  "jobName": "ai产品经理",
+  "salary": "15-30K",
+  "company": "丝路凤凰",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 197.046875,
+  "y": -9580,
+  "kw": "AI交付",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "2261f9cfabc94f7d0nJ72NS6FlRR",
+  "jobName": "AI产品经理（跨境方向）(A59950)",
+  "salary": "15-25K",
+  "company": "陆遥科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·临平区·临平",
+  "x": 197.046875,
+  "y": -7432,
+  "kw": "AI交付",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "9d037da396e729a40nR92Ni8F1JZ",
+  "jobName": "AI产品经理（推荐/归因方向）",
+  "salary": "15-30K",
+  "company": "数新智能",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 197.046875,
+  "y": -4432,
+  "kw": "AI交付",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "4145939ff092e73a1HN529m-EFdR",
+  "jobName": "项目交付/解决方案专家",
+  "salary": "15-22K·13薪",
+  "company": "优财云链",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 177.515625,
+  "y": -2884,
+  "kw": "AI交付",
+  "salary_low": 15.0,
+  "salary_high": 22.0
+ },
+ {
+  "eid": "c3fe885cb7111f0a0ndy0tW1EFBX",
+  "jobName": "全栈开发工程师（AI应用交付）",
+  "salary": "15-20K",
+  "company": "咸亨国际",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 197.046875,
+  "y": -1534,
+  "kw": "AI交付",
+  "salary_low": 15.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "8a9940258c8001ef0nZ70tm6EFpR",
+  "jobName": "高级AI工程师（逆向工程与快速交付方向）",
+  "salary": "15-25K",
+  "company": "摘星社",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·小和山",
+  "x": 197.046875,
+  "y": 1514,
+  "kw": "AI交付",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "86f036474ec7b7d80nJ93ti_GVJR",
+  "jobName": "AI Agent 开发\\大模型应用开发（nb）",
+  "salary": "15-25K",
+  "company": "云象",
+  "tags": [
+   "经验不限",
+   "学历不限"
+  ],
+  "location": "杭州·上城区·四季青",
+  "x": 197.046875,
+  "y": -22426,
+  "kw": "大模型应用",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "0d7853c633b57af203R53NW1GFRX",
+  "jobName": "ai大模型算法",
+  "salary": "15-30K·14薪",
+  "company": "深圳某大型计算机软件公司",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 177.5078125,
+  "y": -21976,
+  "kw": "大模型应用",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "b9f2a3c06ba1e9b30nJ42d60E1JY",
+  "jobName": "AI产品研发工程师",
+  "salary": "15-30K·13薪",
+  "company": "词元智境",
+  "tags": [
+   "在校/应届",
+   "本科"
+  ],
+  "location": "杭州·余杭区·未来科技城",
+  "x": 177.515625,
+  "y": -15178,
+  "kw": "大模型应用",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "d0fa577ddacd57620nZy3du0GVtU",
+  "jobName": "大模型应用算法",
+  "salary": "15-30K",
+  "company": "北京某大型互联网出行平台公司",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 197.046875,
+  "y": -10780,
+  "kw": "大模型应用",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "51ccd200e475efb40nZ92t69GFNR",
+  "jobName": "AI大模型应用开发工程师",
+  "salary": "15-20K·13薪",
+  "company": "万卷智能科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 177.515625,
+  "y": -6232,
+  "kw": "大模型应用",
+  "salary_low": 15.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "8fd60ebf9586c6fe0nJ52tm9F1RS",
+  "jobName": "高级后端工程师（AI Cowork / Agent 平台）",
+  "salary": "15-29K",
+  "company": "云片",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 197.046875,
+  "y": 1214,
+  "kw": "大模型应用",
+  "salary_low": 15.0,
+  "salary_high": 29.0
+ },
+ {
+  "eid": "7a72b7a958ecbe3a0nJ929S0F1dQ",
+  "jobName": "大模型应用研发工程师",
+  "salary": "15-30K·16薪",
+  "company": "浙江省北大信研院",
+  "tags": [
+   "经验不限",
+   "硕士"
+  ],
+  "location": "杭州·萧山区·钱江世纪城",
+  "x": 177.515625,
+  "y": 1664,
+  "kw": "大模型应用",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "5352ded419374ff703B93N26E1RX",
+  "jobName": "大模型应用开发工程师",
+  "salary": "15-25K",
+  "company": "数宇科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·闲林",
+  "x": 197.046875,
+  "y": 1814,
+  "kw": "大模型应用",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "e52c5c49034957b20nd_2961FFtV",
+  "jobName": "AI智能体（ai agent）",
+  "salary": "15-30K",
+  "company": "乐其集团",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 197.046875,
+  "y": -22576,
+  "kw": "AI Agent",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "3924a5f74f2c63480nZ60tm-GFJY",
+  "jobName": "AI Agent 应用专家(A242364)",
+  "salary": "15-16K",
+  "company": "心识宇宙",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 198.6640625,
+  "y": -22276,
+  "kw": "AI Agent",
+  "salary_low": 15.0,
+  "salary_high": 16.0
+ },
+ {
+  "eid": "e379474c6fd44f320nBz09W4EVZW",
+  "jobName": "AI Agent 开发工程师",
+  "salary": "15-20K",
+  "company": "九州云腾",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 197.046875,
+  "y": -21226,
+  "kw": "AI Agent",
+  "salary_low": 15.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "5bfc15fbdf3480570nB-2dq0E1NX",
+  "jobName": "ai agent开发工程师",
+  "salary": "15-25K·13薪",
+  "company": "杭州火呗文化传媒...",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 177.515625,
+  "y": -18826,
+  "kw": "AI Agent",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "b8c6dd7d032871cc0nN-2Nu5FFNY",
+  "jobName": "AI Agent开发工程师（量化交易方向）",
+  "salary": "15-20K",
+  "company": "杭州依瓦未来科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·勾庄",
+  "x": 197.046875,
+  "y": -16828,
+  "kw": "AI Agent",
+  "salary_low": 15.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "a4d57363e90fcc2f0nN-2tm9FVBV",
+  "jobName": "AI Agent 后端工程师",
+  "salary": "15-20K·14薪",
+  "company": "霍客科技",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·勾庄",
+  "x": 177.5078125,
+  "y": -16228,
+  "kw": "AI Agent",
+  "salary_low": 15.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "b4f9de37bd8bb4ff0nN53d60FFpZ",
+  "jobName": "AI agent工程师",
+  "salary": "15-25K·15薪",
+  "company": "海康威视",
+  "tags": [
+   "经验不限",
+   "硕士"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 177.515625,
+  "y": -15178,
+  "kw": "AI Agent",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "87662643156e4c630nN72NW0ElBY",
+  "jobName": "产品经理（AI agent 方向）",
+  "salary": "15-25K·15薪",
+  "company": "四川斯茂瑞企业管...",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 177.515625,
+  "y": -15028,
+  "kw": "AI Agent",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "ed0124fd1cbf082c0nJz3Ni1F1FT",
+  "jobName": "AI Agent 工程师",
+  "salary": "15-25K·20薪",
+  "company": "联东集团",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仁和",
+  "x": 175.8984375,
+  "y": -13180,
+  "kw": "AI Agent",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "3f46121022dfc22d0ndy3t-7GVpQ",
+  "jobName": "GEO产品经理（AI Agent）",
+  "salary": "15-30K",
+  "company": "熵基律动",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·上城区·四季青",
+  "x": 197.046875,
+  "y": -12730,
+  "kw": "AI Agent",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "2187e8053a1d033b03V93d-4GFBV",
+  "jobName": "产品经理-AI Agent",
+  "salary": "15-30K·14薪",
+  "company": "深圳昼光科技有限公司",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 177.5078125,
+  "y": -12130,
+  "kw": "AI Agent",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "41e8de075ff54d0f0nJ40968EFtZ",
+  "jobName": "产品经理（AI agent/跨境）",
+  "salary": "15-25K·13薪",
+  "company": "杭州异想科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 177.515625,
+  "y": -11980,
+  "kw": "AI Agent",
+  "salary_low": 15.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "3fef5fd6eea3d5730nF40ty7EVJW",
+  "jobName": "AI Agent 研发工程师",
+  "salary": "15-30K·13薪",
+  "company": "杭州未来光锥网络科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 177.515625,
+  "y": -11530,
+  "kw": "AI Agent",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "eb246f91590cad7d0nZ50t2-FFVU",
+  "jobName": "AI Agent 系统工程师",
+  "salary": "15-30K",
+  "company": "谦贞数字",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 197.046875,
+  "y": -10330,
+  "kw": "AI Agent",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "2b4c118ba3a650390nN439W5EFBR",
+  "jobName": "高级AI agent工程师",
+  "salary": "15-30K",
+  "company": "杭州找北智职智能科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 197.046875,
+  "y": -5932,
+  "kw": "AI Agent",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "1740267cb42ba0e50nZ40ty4E1JY",
+  "jobName": "AI Agent开发工程师",
+  "salary": "15-30K",
+  "company": "杭州淘金数科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 197.046875,
+  "y": -3484,
+  "kw": "AI Agent",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "38c631d50e9ae0c20nJ809q8FlBZ",
+  "jobName": "AI Agent开发工程师(A196866)",
+  "salary": "15-30K·14薪",
+  "company": "亿咖通科技ECARX",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 177.5078125,
+  "y": -1384,
+  "kw": "AI Agent",
+  "salary_low": 15.0,
+  "salary_high": 30.0
+ },
+ {
+  "eid": "17105950aaa018f20nJ92dS6GVdW",
+  "jobName": "AI Agent",
+  "salary": "15-20K",
+  "company": "浙江嗨便利",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·三墩",
+  "x": 197.046875,
+  "y": 2114,
+  "kw": "AI Agent",
+  "salary_low": 15.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "28d4c7824ade78910nJy29i5ElVZ",
+  "jobName": "具身智能—sim2real模型部署工程师",
+  "salary": "45-65K·15薪",
+  "company": "某人工智能公司",
+  "tags": [
+   "经验不限",
+   "硕士"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": -14878,
+  "kw": "前沿部署",
+  "salary_low": 45.0,
+  "salary_high": 65.0
+ },
+ {
+  "eid": "add98bb0ca8d0f760nd70tS6EltW",
+  "jobName": "模型云端推理架构与部署工程师（北京/杭州",
+  "salary": "45-75K·15薪",
+  "company": "千寻智能",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": -14728,
+  "kw": "前沿部署",
+  "salary_low": 45.0,
+  "salary_high": 75.0
+ },
+ {
+  "eid": "aa8af4c61499b85a0nN-2du7FlRS",
+  "jobName": "AI框架技术专家-头部半导体大厂直招",
+  "salary": "45-75K·16薪",
+  "company": "北京惠星",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 175.8828125,
+  "y": -3334,
+  "kw": "前沿部署",
+  "salary_low": 45.0,
+  "salary_high": 75.0
+ },
+ {
+  "eid": "915d570bce438b900nB_09-7FVFV",
+  "jobName": "大模型云端推理架构与部署工程师",
+  "salary": "45-75K·15薪",
+  "company": "千寻智能",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 175.8828125,
+  "y": -4882,
+  "kw": "前线部署",
+  "salary_low": 45.0,
+  "salary_high": 75.0
+ },
+ {
+  "eid": "1baa2babe53e6cec0nJ-2t27FFRY",
+  "jobName": "AI解决方案/架构师",
+  "salary": "45-75K·14薪",
+  "company": "某大型智能语音及人工智能上市公司",
+  "tags": [
+   "10年以上",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.875,
+  "y": -13330,
+  "kw": "AI解决方案",
+  "salary_low": 45.0,
+  "salary_high": 75.0
+ },
+ {
+  "eid": "01eaeda9e9f83df00nR93dS5F1ZV",
+  "jobName": "大模型应用开发工程师-飞书妙搭",
+  "salary": "45-50K·15薪",
+  "company": "今日头条",
+  "tags": [
+   "3-5年",
+   "学历不限"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 175.8828125,
+  "y": -11380,
+  "kw": "大模型应用",
+  "salary_low": 45.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "b53e03539a34b00303Zz3Ni9FldT",
+  "jobName": "大模型算法高级专家",
+  "salary": "45-70K·14薪",
+  "company": "新华三技术有限公司",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 175.875,
+  "y": -484,
+  "kw": "大模型应用",
+  "salary_low": 45.0,
+  "salary_high": 70.0
+ },
+ {
+  "eid": "d790a4a012c291650ndy3dm5F1pW",
+  "jobName": "AI Agent开发/专家",
+  "salary": "45-75K·16薪",
+  "company": "上海某大型互联网内容社区平台公司",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": -12580,
+  "kw": "AI Agent",
+  "salary_low": 45.0,
+  "salary_high": 75.0
+ },
+ {
+  "eid": "9612024e652340820nB50t68GFdR",
+  "jobName": "AI Agent工程师 - 发布后端",
+  "salary": "45-60K·16薪",
+  "company": "某大型互联网公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": -1984,
+  "kw": "AI Agent",
+  "salary_low": 45.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "ffa4a397712cf2880nJ809q0EVRS",
+  "jobName": "模型部署工程师",
+  "salary": "40-70K·15薪",
+  "company": "深圳某大型人工智能公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": -15028,
+  "kw": "前沿部署",
+  "salary_low": 40.0,
+  "salary_high": 70.0
+ },
+ {
+  "eid": "072b5244b3929fd20nZ-2du1GVtX",
+  "jobName": "模型部署工程师（MLOps）",
+  "salary": "40-70K",
+  "company": "北京某中型互联网金融解决方案和IT服务公司",
+  "tags": [
+   "3-5年",
+   "硕士"
+  ],
+  "location": "杭州",
+  "x": 195.4140625,
+  "y": -12580,
+  "kw": "前沿部署",
+  "salary_low": 40.0,
+  "salary_high": 70.0
+ },
+ {
+  "eid": "5f7c24cea88fe3a10nB82dm1GFRR",
+  "jobName": "核心系统研发-大模型推理部署服务工程师",
+  "salary": "40-70K·14薪",
+  "company": "深度求索",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州·拱墅区·湖墅南路",
+  "x": 175.875,
+  "y": -8632,
+  "kw": "前沿部署",
+  "salary_low": 40.0,
+  "salary_high": 70.0
+ },
+ {
+  "eid": "0963a5241c81094d0nB83N25GFpX",
+  "jobName": "大模型部署工程师",
+  "salary": "40-60K·15薪",
+  "company": "杭州某小型计算机软件公司",
+  "tags": [
+   "1-3年",
+   "硕士"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": -6082,
+  "kw": "前沿部署",
+  "salary_low": 40.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "58696be69af5bb1f0nJ50t69EVBW",
+  "jobName": "AI模型部署工程师(J12429)",
+  "salary": "40-50K·14薪",
+  "company": "睿创微纳",
+  "tags": [
+   "5-10年",
+   "硕士"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 175.875,
+  "y": -1534,
+  "kw": "前沿部署",
+  "salary_low": 40.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "8bec5027e7c104ad0nd50tm4GFdW",
+  "jobName": "视觉大模型推理部署工程师-智能创作",
+  "salary": "40-70K·15薪",
+  "company": "字节跳动",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 175.8828125,
+  "y": -9730,
+  "kw": "前线部署",
+  "salary_low": 40.0,
+  "salary_high": 70.0
+ },
+ {
+  "eid": "f76c1a397805e5ad0nF43d29F1FV",
+  "jobName": "AI应用工程师/leader",
+  "salary": "40-70K·18薪",
+  "company": "北京某中型移动互联网公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": -6532,
+  "kw": "AI应用工程师",
+  "salary_low": 40.0,
+  "salary_high": 70.0
+ },
+ {
+  "eid": "497376ae5b0aea730nB83NS6GFtT",
+  "jobName": "ai解决方案",
+  "salary": "40-55K·16薪",
+  "company": "某知名电子商务公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": -10780,
+  "kw": "AI解决方案",
+  "salary_low": 40.0,
+  "salary_high": 55.0
+ },
+ {
+  "eid": "54fa2ff0d9654f1b0nFz2t66FFdR",
+  "jobName": "制造业AI解决方案专家",
+  "salary": "40-70K",
+  "company": "海亮股份",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 195.4140625,
+  "y": -3484,
+  "kw": "AI解决方案",
+  "salary_low": 40.0,
+  "salary_high": 70.0
+ },
+ {
+  "eid": "bd4e1c1cec6fc1a203V-09W7FVVY",
+  "jobName": "AI算法开发-大模型算法开发",
+  "salary": "40-70K",
+  "company": "某大型互联网公司",
+  "tags": [
+   "5-10年",
+   "硕士"
+  ],
+  "location": "杭州",
+  "x": 195.4140625,
+  "y": 266,
+  "kw": "AI解决方案",
+  "salary_low": 40.0,
+  "salary_high": 70.0
+ },
+ {
+  "eid": "407fde992dcba62a0nJ409S_EVZU",
+  "jobName": "解决方案与交付专家",
+  "salary": "40-70K·14薪",
+  "company": "杭州某大型移动互联网央企研发公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.875,
+  "y": -10330,
+  "kw": "AI交付",
+  "salary_low": 40.0,
+  "salary_high": 70.0
+ },
+ {
+  "eid": "b3832394c1266e9703Jz09y0FFtU",
+  "jobName": "大模型（应用/工程/nlp/训练推理/多模态）",
+  "salary": "40-70K·15薪",
+  "company": "某知名互联网公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": -19876,
+  "kw": "大模型应用",
+  "salary_low": 40.0,
+  "salary_high": 70.0
+ },
+ {
+  "eid": "1e2a9a6ba2f5c9c30nB_2dm-EVpX",
+  "jobName": "大模型应用工程师",
+  "salary": "40-60K",
+  "company": "某知名计算机软件上市公司",
+  "tags": [
+   "经验不限",
+   "硕士"
+  ],
+  "location": "杭州",
+  "x": 195.4140625,
+  "y": -10630,
+  "kw": "大模型应用",
+  "salary_low": 40.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "8c4f796a4d98c8d50nVz3ty0FlBR",
+  "jobName": "大模型算法（训练及应用）-金融方向",
+  "salary": "40-70K·16薪",
+  "company": "上海某大型互联网公司",
+  "tags": [
+   "经验不限",
+   "学历不限"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": -8482,
+  "kw": "大模型应用",
+  "salary_low": 40.0,
+  "salary_high": 70.0
+ },
+ {
+  "eid": "750ffbd140107e830nB439S1EldW",
+  "jobName": "大模型算法",
+  "salary": "40-70K·15薪",
+  "company": "某互联网公司",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": -7732,
+  "kw": "大模型应用",
+  "salary_low": 40.0,
+  "salary_high": 70.0
+ },
+ {
+  "eid": "28192df9b48e2f0a0nB92NS_GVRV",
+  "jobName": "大模型专项",
+  "salary": "40-70K",
+  "company": "某知名互联网公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 195.4140625,
+  "y": -1084,
+  "kw": "大模型应用",
+  "salary_low": 40.0,
+  "salary_high": 70.0
+ },
+ {
+  "eid": "7914115a3addeb8d0nRz0tq1GVBZ",
+  "jobName": "大模型应用工程师",
+  "salary": "40-60K·14薪",
+  "company": "某互联网公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.875,
+  "y": -784,
+  "kw": "大模型应用",
+  "salary_low": 40.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "f089cf1fab11df5d0nd_0t67EFJV",
+  "jobName": "多模态大模型算法-coding and agent",
+  "salary": "40-70K·15薪",
+  "company": "北京某大型互联网内容平台上市公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": 2114,
+  "kw": "大模型应用",
+  "salary_low": 40.0,
+  "salary_high": 70.0
+ },
+ {
+  "eid": "0138d36bce8c3eb90nd42966FFpU",
+  "jobName": "AI agent平台开发工程师-远程",
+  "salary": "40-70K·15薪",
+  "company": "某小型计算机软件公司",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": -15928,
+  "kw": "AI Agent",
+  "salary_low": 40.0,
+  "salary_high": 70.0
+ },
+ {
+  "eid": "fc72e4d18601b4710nBz39S_F1NY",
+  "jobName": "AI Agent研发架构师",
+  "salary": "40-65K",
+  "company": "硕磐智能",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·萧山区·钱江世纪城",
+  "x": 195.4140625,
+  "y": -14128,
+  "kw": "AI Agent",
+  "salary_low": 40.0,
+  "salary_high": 65.0
+ },
+ {
+  "eid": "a31884686dc440f80nJ609q5ElJQ",
+  "jobName": "AI Agent开发工程师",
+  "salary": "40-70K·16薪",
+  "company": "某知名公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": -10780,
+  "kw": "AI Agent",
+  "salary_low": 40.0,
+  "salary_high": 70.0
+ },
+ {
+  "eid": "99c669a7326915780nJz0tW1GFJR",
+  "jobName": "AI Agent全栈开发工程师-杭州",
+  "salary": "40-70K·16薪",
+  "company": "某大型互联网上市集团公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": -10480,
+  "kw": "AI Agent",
+  "salary_low": 40.0,
+  "salary_high": 70.0
+ },
+ {
+  "eid": "d3e405317dfca0300nN43NS8FldS",
+  "jobName": "AI Agent工程师（商品方向）-【电商】",
+  "salary": "40-65K·16薪",
+  "company": "快手",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 175.8828125,
+  "y": -9730,
+  "kw": "AI Agent",
+  "salary_low": 40.0,
+  "salary_high": 65.0
+ },
+ {
+  "eid": "a4b0dcc4fde829070nFy29i-FlFW",
+  "jobName": "ai agent工程师",
+  "salary": "40-70K·14薪",
+  "company": "某知名企业",
+  "tags": [
+   "1年以内",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.875,
+  "y": -2434,
+  "kw": "AI Agent",
+  "salary_low": 40.0,
+  "salary_high": 70.0
+ },
+ {
+  "eid": "86fdcf857071646c0nZ83dm9ElpR",
+  "jobName": "AI Agent开发/专家-电商",
+  "salary": "40-60K·16薪",
+  "company": "小红书",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 175.8828125,
+  "y": 266,
+  "kw": "AI Agent",
+  "salary_low": 40.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "f112cd89c2f93e950nJ60tq9EVNZ",
+  "jobName": "AI Agent研发工程师（AgentOps方向）",
+  "salary": "40-70K·16薪",
+  "company": "快手",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州·余杭区·未来科技城",
+  "x": 175.8828125,
+  "y": 1064,
+  "kw": "AI Agent",
+  "salary_low": 40.0,
+  "salary_high": 70.0
+ },
+ {
+  "eid": "bd1b1c5e478cdef90nZ43t-1EFtQ",
+  "jobName": "AI Agent 算法专家",
+  "salary": "40-70K·14薪",
+  "company": "树根互联股份有限公司",
+  "tags": [
+   "5-10年",
+   "硕士"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 175.875,
+  "y": 2414,
+  "kw": "AI Agent",
+  "salary_low": 40.0,
+  "salary_high": 70.0
+ },
+ {
+  "eid": "b7396113b04561a10nB70ty-FldY",
+  "jobName": "AI Agent 算法专家- AI for science",
+  "salary": "40-60K·15薪",
+  "company": "某小型AI驱动的化学材料研发公司（融资数亿元）",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": 2864,
+  "kw": "AI Agent",
+  "salary_low": 40.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "da0de9e11785d5320nJ42t-9FlVT",
+  "jobName": "高级 FDE-北/杭/深/西/郑",
+  "salary": "35-45K·20薪",
+  "company": "某大型计算机硬件公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 174.265625,
+  "y": -5032,
+  "kw": "fde",
+  "salary_low": 35.0,
+  "salary_high": 45.0
+ },
+ {
+  "eid": "29d8ebeff09886eb0nN60t60EVtS",
+  "jobName": "FDE工程师（智能体方向） - 火山引擎",
+  "salary": "35-65K·15薪",
+  "company": "字节跳动",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 175.8984375,
+  "y": 2114,
+  "kw": "fde",
+  "salary_low": 35.0,
+  "salary_high": 65.0
+ },
+ {
+  "eid": "28e01024a84f0dbf0nN43929GVJX",
+  "jobName": "算法部署工程师",
+  "salary": "35-55K",
+  "company": "杭州新生纪智能科技",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 195.4296875,
+  "y": -14128,
+  "kw": "前沿部署",
+  "salary_low": 35.0,
+  "salary_high": 55.0
+ },
+ {
+  "eid": "469267cfb746a4f70nJ80926F1RT",
+  "jobName": "技术专家-A*I部署-红外芯片全球TOP上市企业",
+  "salary": "35-50K",
+  "company": "某大型计算机软件上市公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 195.4296875,
+  "y": -9430,
+  "kw": "前沿部署",
+  "salary_low": 35.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "c7109ecd5b2c5eb60nJ92d69ElpR",
+  "jobName": "AI/大模型应用工程师",
+  "salary": "35-50K",
+  "company": "某大型租赁/拍卖/典当/担保公司",
+  "tags": [
+   "3-5年",
+   "硕士"
+  ],
+  "location": "杭州",
+  "x": 195.4296875,
+  "y": -20326,
+  "kw": "AI应用工程师",
+  "salary_low": 35.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "e4ff82db0c5fee040nBy3d-_GFFV",
+  "jobName": "AI应用全栈开发工程师",
+  "salary": "35-65K",
+  "company": "星创",
+  "tags": [
+   "3-5年",
+   "大专"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 195.4296875,
+  "y": -19126,
+  "kw": "AI应用工程师",
+  "salary_low": 35.0,
+  "salary_high": 65.0
+ },
+ {
+  "eid": "5cc2a16cb7f1c2580nVy3dy-FFRV",
+  "jobName": "ai应用工程师",
+  "salary": "35-55K·15薪",
+  "company": "波克城市",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·上城区·高铁站",
+  "x": 175.8984375,
+  "y": -16978,
+  "kw": "AI应用工程师",
+  "salary_low": 35.0,
+  "salary_high": 55.0
+ },
+ {
+  "eid": "a436abeea01b90920nJ62tW4GFpY",
+  "jobName": "AI应用研发工程师（品牌广告）-【商业化】",
+  "salary": "35-65K·16薪",
+  "company": "快手",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·未来科技城",
+  "x": 175.8984375,
+  "y": -9580,
+  "kw": "AI应用工程师",
+  "salary_low": 35.0,
+  "salary_high": 65.0
+ },
+ {
+  "eid": "47f574ebe26e81840nB-2d-5EVJW",
+  "jobName": "ai应用工程师",
+  "salary": "35-55K·15薪",
+  "company": "杭州今日头条科技",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 175.8984375,
+  "y": -7732,
+  "kw": "AI应用工程师",
+  "salary_low": 35.0,
+  "salary_high": 55.0
+ },
+ {
+  "eid": "4d660e5e5b4b940a0nJz2t25FVdY",
+  "jobName": "资深系统应用工程师（AI情感陪伴机器人）",
+  "salary": "35-50K·14薪",
+  "company": "某人工智能公司",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": -5032,
+  "kw": "AI应用工程师",
+  "salary_low": 35.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "abf9d7db9579bb750nF639W4ElZY",
+  "jobName": "AI应用&Agent测试开发工程师",
+  "salary": "35-50K·16薪",
+  "company": "浙江未来精灵人工...",
+  "tags": [
+   "5-10年",
+   "硕士"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 175.8984375,
+  "y": -784,
+  "kw": "AI应用工程师",
+  "salary_low": 35.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "2ba7d21d749ce1900nJ-39i-EFFU",
+  "jobName": "ai应用研发工程师",
+  "salary": "35-65K·15薪",
+  "company": "字节跳动",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 175.8984375,
+  "y": 914,
+  "kw": "AI应用工程师",
+  "salary_low": 35.0,
+  "salary_high": 65.0
+ },
+ {
+  "eid": "42c1ae717330df050nF639i8FlJW",
+  "jobName": "AI应用专家",
+  "salary": "35-65K·16薪",
+  "company": "青岛某中型计算机软件公司",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8984375,
+  "y": -17278,
+  "kw": "AI解决方案",
+  "salary_low": 35.0,
+  "salary_high": 65.0
+ },
+ {
+  "eid": "cfede74f8c411e920nN-2t66EVtT",
+  "jobName": "AI智算解决方案架构师",
+  "salary": "35-60K·16薪",
+  "company": "杭州某大型互联网+数字化解决方案上市公司",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8984375,
+  "y": -16378,
+  "kw": "AI解决方案",
+  "salary_low": 35.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "48af0d2245ad26dd0nN729i-EldS",
+  "jobName": "AI产品负责人",
+  "salary": "35-50K·14薪",
+  "company": "交个朋友",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 175.8828125,
+  "y": -7132,
+  "kw": "AI交付",
+  "salary_low": 35.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "13c5c11299cda1550nB439u7FVdQ",
+  "jobName": "大模型应用工程师（工程化落地）",
+  "salary": "35-55K·15薪",
+  "company": "同花顺",
+  "tags": [
+   "5-10年",
+   "硕士"
+  ],
+  "location": "杭州·余杭区·未来科技城",
+  "x": 175.8984375,
+  "y": -10180,
+  "kw": "大模型应用",
+  "salary_low": 35.0,
+  "salary_high": 55.0
+ },
+ {
+  "eid": "8607a6631c525ac50nB42tS9EVtW",
+  "jobName": "大模型应用开发工程师（低空经济方向）",
+  "salary": "35-45K",
+  "company": "杭州某中型低空安全科技公司",
+  "tags": [
+   "1-3年",
+   "博士"
+  ],
+  "location": "杭州",
+  "x": 195.4140625,
+  "y": -8032,
+  "kw": "大模型应用",
+  "salary_low": 35.0,
+  "salary_high": 45.0
+ },
+ {
+  "eid": "0e9cf36e474cb2e50nN40t61GFNT",
+  "jobName": "语音大模型产品",
+  "salary": "35-45K·16薪",
+  "company": "北京某中型移动互联网公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": -6982,
+  "kw": "大模型应用",
+  "salary_low": 35.0,
+  "salary_high": 45.0
+ },
+ {
+  "eid": "9e04535553364ac30nB-39W_GVJX",
+  "jobName": "大模型开发工程师",
+  "salary": "35-45K·18薪",
+  "company": "深圳某大型ICT基础设施和智能终端公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": -4282,
+  "kw": "大模型应用",
+  "salary_low": 35.0,
+  "salary_high": 45.0
+ },
+ {
+  "eid": "ab5c265377e45f810nJ_3d-6EFRT",
+  "jobName": "AI Agent 平台开发工程师",
+  "salary": "35-50K",
+  "company": "某小型计算机软件公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 195.4296875,
+  "y": -20026,
+  "kw": "AI Agent",
+  "salary_low": 35.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "6f7fa2587b6597860nRz0967FVFS",
+  "jobName": "AI AGENT专家",
+  "salary": "35-45K·14薪",
+  "company": "某大型其他行业公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.875,
+  "y": -15778,
+  "kw": "AI Agent",
+  "salary_low": 35.0,
+  "salary_high": 45.0
+ },
+ {
+  "eid": "a251f4d3f8e8bca80nN52ti5E1pT",
+  "jobName": "AI agent研发工程师（全栈方向）",
+  "salary": "35-45K·15薪",
+  "company": "滴滴",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 175.8828125,
+  "y": -4282,
+  "kw": "AI Agent",
+  "salary_low": 35.0,
+  "salary_high": 45.0
+ },
+ {
+  "eid": "15ff137****20b0nV-2tq_FVFR",
+  "jobName": "AI Agent开发工程师/专家",
+  "salary": "35-65K·16薪",
+  "company": "某知名互联网公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8984375,
+  "y": -3334,
+  "kw": "AI Agent",
+  "salary_low": 35.0,
+  "salary_high": 65.0
+ },
+ {
+  "eid": "4ec56233d0880f7d0nF83dy6GFdT",
+  "jobName": "AI Agent 开发工程师",
+  "salary": "35-65K",
+  "company": "北京某大型互联网上市公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 195.4296875,
+  "y": -2284,
+  "kw": "AI Agent",
+  "salary_low": 35.0,
+  "salary_high": 65.0
+ },
+ {
+  "eid": "be4bb1c22bb543240nRz3tq0F1JT",
+  "jobName": "AI agent开发",
+  "salary": "35-65K·16薪",
+  "company": "某大型知名互联网上市公司",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8984375,
+  "y": -1534,
+  "kw": "AI Agent",
+  "salary_low": 35.0,
+  "salary_high": 65.0
+ },
+ {
+  "eid": "3b4213d0e9de315e0nN509y5ElFZ",
+  "jobName": "AI Agent 架构师/AI数字营销技术专家",
+  "salary": "35-50K·15薪",
+  "company": "海兴电力",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·拱墅区·万达广场",
+  "x": 175.8984375,
+  "y": -484,
+  "kw": "AI Agent",
+  "salary_low": 35.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "21bc38f3c00fbafe0nJ729u-GVBW",
+  "jobName": "AI Agent工程师",
+  "salary": "35-55K·15薪",
+  "company": "滴滴出行",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 175.8984375,
+  "y": 116,
+  "kw": "AI Agent",
+  "salary_low": 35.0,
+  "salary_high": 55.0
+ },
+ {
+  "eid": "8ede752786efd30e0nN73Nq1FFdT",
+  "jobName": "AI agent工程师",
+  "salary": "35-50K·15薪",
+  "company": "北京正一文化传媒",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·上城区·西湖",
+  "x": 175.8984375,
+  "y": 1664,
+  "kw": "AI Agent",
+  "salary_low": 35.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "f7c29352e4b2ad220nF_2tS6GFpT",
+  "jobName": "华为昇腾AI Agent工程师",
+  "salary": "35-55K",
+  "company": "上海华为技术有限公司",
+  "tags": [
+   "在校/应届",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 195.4296875,
+  "y": 1814,
+  "kw": "AI Agent",
+  "salary_low": 35.0,
+  "salary_high": 55.0
+ },
+ {
+  "eid": "28c96330df098bdd0nN50t6-GVJU",
+  "jobName": "AI负责人（FDE）",
+  "salary": "30-60K",
+  "company": "杭州比柔",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 195.4296875,
+  "y": -22126,
+  "kw": "fde",
+  "salary_low": 30.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "d04f83d5ed2739240nF_2t67FFFR",
+  "jobName": "FDE 合伙",
+  "salary": "30-60K·14薪",
+  "company": "杭州中盈佰润科技",
+  "tags": [
+   "经验不限",
+   "学历不限"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 175.8828125,
+  "y": -20176,
+  "kw": "fde",
+  "salary_low": 30.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "fab1f1e3024d89b20nJ429m_FlFW",
+  "jobName": "Agent 工程师 / Agent FDE 工程师",
+  "salary": "30-60K·15薪",
+  "company": "乒乓智能技术有限公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 175.8984375,
+  "y": -14278,
+  "kw": "fde",
+  "salary_low": 30.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "98f6634006b6bf6d0nJ_2NS-FVBQ",
+  "jobName": "Senior Software Engineer/FDE（AI4S方向）",
+  "salary": "30-50K·14薪",
+  "company": "杭州某小型医疗健康公司",
+  "tags": [
+   "经验不限",
+   "硕士"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": -12130,
+  "kw": "fde",
+  "salary_low": 30.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "1506e81cca96ce710nJ92ty9E1NY",
+  "jobName": "AI FDE/ 解决方案专家",
+  "salary": "30-50K",
+  "company": "遥望科技",
+  "tags": [
+   "3-5年",
+   "硕士"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 195.4296875,
+  "y": -11230,
+  "kw": "fde",
+  "salary_low": 30.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "1a9dd5b7dc54a5da0nJ40ty7EVFV",
+  "jobName": "FDE-智能体方向（工业智能体应用专家)",
+  "salary": "30-50K·14薪",
+  "company": "广域铭岛",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·浦沿",
+  "x": 175.8828125,
+  "y": -10930,
+  "kw": "fde",
+  "salary_low": 30.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "35a7adbb530ab5ef0nN62Nq6EFNS",
+  "jobName": "FDE工程师",
+  "salary": "30-60K",
+  "company": "某大型通信公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 195.4296875,
+  "y": -6982,
+  "kw": "fde",
+  "salary_low": 30.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "86d7efe3306034020nN42tu8EFBZ",
+  "jobName": "AI客户技术接入工程师 （FDE）",
+  "salary": "30-60K·15薪",
+  "company": "乒乓智能技术有限公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 175.8984375,
+  "y": -1084,
+  "kw": "fde",
+  "salary_low": 30.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "45a98e2244df8dd80nd83d-7EFFR",
+  "jobName": "知名企业+移动端推理引擎部署工程师-上海",
+  "salary": "30-50K·14薪",
+  "company": "某大型计算机软件公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": -4432,
+  "kw": "前沿部署",
+  "salary_low": 30.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "4c746ff3365016790nB439S1ElFW",
+  "jobName": "AI前沿部署工程师-北京/杭州",
+  "salary": "30-60K·17薪",
+  "company": "某大型互联网上市集团公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8984375,
+  "y": -1084,
+  "kw": "前线部署",
+  "salary_low": 30.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "53dee10ff8689e060nN629q5FVpY",
+  "jobName": "AI应用研发工程师 - TikTok Shop",
+  "salary": "30-35K",
+  "company": "字节跳动tiktok",
+  "tags": [
+   "在校/应届",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 195.4296875,
+  "y": -11980,
+  "kw": "AI应用工程师",
+  "salary_low": 30.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "22957e07a4526b780nN40ti8GFNU",
+  "jobName": "ai应用工程师",
+  "salary": "30-60K",
+  "company": "上海华为技术有限公司",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 195.4296875,
+  "y": -4282,
+  "kw": "AI应用工程师",
+  "salary_low": 30.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "34b7539c7d36cf520nN52tu-GFVW",
+  "jobName": "华为校招AI应用开发工程师",
+  "salary": "30-40K",
+  "company": "华为云计算",
+  "tags": [
+   "在校/应届",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 195.4140625,
+  "y": -3934,
+  "kw": "AI应用工程师",
+  "salary_low": 30.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "6b23ebb113fbe7970nJy0tS0GFpY",
+  "jobName": "边缘AI应用工程师",
+  "salary": "30-60K·16薪",
+  "company": "某500强上市公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8984375,
+  "y": -1984,
+  "kw": "AI应用工程师",
+  "salary_low": 30.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "5a7bb579b400ef650nB-2d21GFBW",
+  "jobName": "AI应用工程师（Agent方向） (MJ001796)",
+  "salary": "30-40K·15薪",
+  "company": "禾迈股份",
+  "tags": [
+   "3-5年",
+   "硕士"
+  ],
+  "location": "杭州·拱墅区·石祥路",
+  "x": 175.8828125,
+  "y": -1084,
+  "kw": "AI应用工程师",
+  "salary_low": 30.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "bcd25fe5852c88980nJ-3Ni0FVtW",
+  "jobName": "AI应用后端工程师（杭州）",
+  "salary": "30-60K·15薪",
+  "company": "北京字节跳动",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 175.8984375,
+  "y": 1064,
+  "kw": "AI应用工程师",
+  "salary_low": 30.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "5ed6c778647770e90nB-2dy8ElpQ",
+  "jobName": "AI应用研究工程师",
+  "salary": "30-50K·13薪",
+  "company": "了不起科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 175.8984375,
+  "y": 1814,
+  "kw": "AI应用工程师",
+  "salary_low": 30.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "03c1d065185ef1e80nF92dm_EVNW",
+  "jobName": "石油化工行业AI解决方案",
+  "salary": "30-40K",
+  "company": "景联文",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 195.4140625,
+  "y": -12430,
+  "kw": "AI解决方案",
+  "salary_low": 30.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "79350b4d352db5820nd60928FFVS",
+  "jobName": "AI集群解决方案与服务工程师",
+  "salary": "30-60K·16薪",
+  "company": "摩尔线程",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·萧山区·市心北路",
+  "x": 175.8984375,
+  "y": -10330,
+  "kw": "AI解决方案",
+  "salary_low": 30.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "ca5b6447e72351800nF40ty0F1BS",
+  "jobName": "AI行业解决方案专家-杭州",
+  "salary": "30-60K·13薪",
+  "company": "沐曦集成电路",
+  "tags": [
+   "10年以上",
+   "硕士"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 175.8984375,
+  "y": -9730,
+  "kw": "AI解决方案",
+  "salary_low": 30.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "7c47ba2e68fa9e8f0nJy096_F1BX",
+  "jobName": "产品解决方案专家（对公贷款产品）",
+  "salary": "30-50K",
+  "company": "浙江惠瀜网络科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·萧山区·北干",
+  "x": 195.4296875,
+  "y": -7282,
+  "kw": "AI解决方案",
+  "salary_low": 30.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "3de40fd04c5d2cc40nJ72t24E1BS",
+  "jobName": "AI解决方案专家",
+  "salary": "30-40K",
+  "company": "某知名企业",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 195.4140625,
+  "y": -2134,
+  "kw": "AI解决方案",
+  "salary_low": 30.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "d46562e87f7beb400nN-2tu0E1JS",
+  "jobName": "大数据解决方案专家",
+  "salary": "30-50K·16薪",
+  "company": "杭州小质科技有限公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 175.8984375,
+  "y": -784,
+  "kw": "AI解决方案",
+  "salary_low": 30.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "cb4b1b03d9c9ff720nN-2tu9FVtT",
+  "jobName": "ai产品经理（杭州，AI，B端）",
+  "salary": "30-60K",
+  "company": "某人工智能公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 195.4296875,
+  "y": 416,
+  "kw": "AI解决方案",
+  "salary_low": 30.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "bff6d951efc5be1f0nN72NS9EVJV",
+  "jobName": "AI Agent负责人/架构师",
+  "salary": "30-50K",
+  "company": "火烧云数据",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·拱墅区·东新",
+  "x": 195.4296875,
+  "y": -13330,
+  "kw": "AI交付",
+  "salary_low": 30.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "8b80fdaece6db0690nJ62921FFpS",
+  "jobName": "AI Agents 交付工程师",
+  "salary": "30-40K",
+  "company": "瑞尔齿科",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·上城区·望江",
+  "x": 195.4140625,
+  "y": -10180,
+  "kw": "AI交付",
+  "salary_low": 30.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "2f1820b783c423740nJ72ti1GVdW",
+  "jobName": "大模型应用开发工程师-飞书项目",
+  "salary": "30-60K",
+  "company": "字节跳动",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 195.4296875,
+  "y": -18376,
+  "kw": "大模型应用",
+  "salary_low": 30.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "a1171f2f7f4212d40nZ52t25EFtW",
+  "jobName": "大模型算法",
+  "salary": "30-60K",
+  "company": "某知名企业",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 195.4296875,
+  "y": -17578,
+  "kw": "大模型应用",
+  "salary_low": 30.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "e066483c346b9c6b0nJ93du8F1JW",
+  "jobName": "大模型应用开发",
+  "salary": "30-50K",
+  "company": "杭州某大型计算机软件上市公司",
+  "tags": [
+   "3-5年",
+   "硕士"
+  ],
+  "location": "杭州",
+  "x": 195.4296875,
+  "y": -16078,
+  "kw": "大模型应用",
+  "salary_low": 30.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "0918512514ee46290nd40t-1FlZQ",
+  "jobName": "大模型应用工程师（多模态 / Agent方向）",
+  "salary": "30-60K",
+  "company": "杭州秋果计划科技",
+  "tags": [
+   "3-5年",
+   "硕士"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 195.4296875,
+  "y": -14128,
+  "kw": "大模型应用",
+  "salary_low": 30.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "6a68e31e9193cabe0nF40ty-E1JX",
+  "jobName": "AI图片大模型算法",
+  "salary": "30-60K",
+  "company": "嘉兴九州文化传媒",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·钱塘区·金沙湖",
+  "x": 195.4296875,
+  "y": -11680,
+  "kw": "大模型应用",
+  "salary_low": 30.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "289ddc72d0f323fb0nJ93t2_EFtU",
+  "jobName": "大模型推理工程师",
+  "salary": "30-60K",
+  "company": "浙江算网天下科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 195.4296875,
+  "y": -634,
+  "kw": "大模型应用",
+  "salary_low": 30.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "1864cc3ba8f1d7540nJ409u4EltT",
+  "jobName": "AI Agent开发工程师",
+  "salary": "30-60K·15薪",
+  "company": "杭州某中型互联网AI创作工具公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8984375,
+  "y": -17428,
+  "kw": "AI Agent",
+  "salary_low": 30.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "d6e38cb921e24ebb0nJ-2tu8FlpT",
+  "jobName": "AI Agent 开发工程师",
+  "salary": "30-60K",
+  "company": "乐维创新",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 195.4296875,
+  "y": -9430,
+  "kw": "AI Agent",
+  "salary_low": 30.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "b15c5215de8f2b6a0nN52NW9FFBW",
+  "jobName": "AI Agent开发工程师E02",
+  "salary": "30-60K",
+  "company": "宇生月伴",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·西溪",
+  "x": 195.4296875,
+  "y": -7132,
+  "kw": "AI Agent",
+  "salary_low": 30.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "c5b9da9f8065f6490nV52di1F1NZ",
+  "jobName": "监控系统采集Agent(非AI Agent)工程师",
+  "salary": "30-50K",
+  "company": "Zoom",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 195.4296875,
+  "y": -6832,
+  "kw": "AI Agent",
+  "salary_low": 30.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "3c700e95bbcb29600nJ53tu_EFdW",
+  "jobName": "AI Agent 开发工程师",
+  "salary": "30-60K·16薪",
+  "company": "昊晟投资",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·上城区·四季青",
+  "x": 175.8984375,
+  "y": -6382,
+  "kw": "AI Agent",
+  "salary_low": 30.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "ecb16507edf0ed2d0nd83Nm6EFZZ",
+  "jobName": "杭州-AI agent 开发工程师",
+  "salary": "30-60K·16薪",
+  "company": "某知名电子商务公司",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8984375,
+  "y": -4582,
+  "kw": "AI Agent",
+  "salary_low": 30.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "4822c17e73fe243b0nF70ti8E1dX",
+  "jobName": "AI agent 工程师（支付方向）",
+  "salary": "30-60K·16薪",
+  "company": "乒乓智能技术有限公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 175.8984375,
+  "y": -4432,
+  "kw": "AI Agent",
+  "salary_low": 30.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "a8247279dba0dc610nd70924ElZR",
+  "jobName": "AI Agent应用开发",
+  "salary": "30-60K",
+  "company": "华为",
+  "tags": [
+   "在校/应届",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 195.4296875,
+  "y": -3934,
+  "kw": "AI Agent",
+  "salary_low": 30.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "dbb7dd7564be643d0nd_2t-9EVBU",
+  "jobName": "机器人大模型AI Agent工程师",
+  "salary": "30-50K·14薪",
+  "company": "某大型知名智能硬件公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": -3784,
+  "kw": "AI Agent",
+  "salary_low": 30.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "3a261d4b571cc84e0nF62tq9E1FT",
+  "jobName": "AI Agent 开发工程师",
+  "salary": "30-50K·16薪",
+  "company": "佳帮手",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 175.8984375,
+  "y": -1834,
+  "kw": "AI Agent",
+  "salary_low": 30.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "105fd1898cf528790nZy2dS6GFpR",
+  "jobName": "AI Infra工程师（智算平台/AI Agent方向）",
+  "salary": "30-55K",
+  "company": "零跑科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 195.4296875,
+  "y": -1234,
+  "kw": "AI Agent",
+  "salary_low": 30.0,
+  "salary_high": 55.0
+ },
+ {
+  "eid": "c5e1efdef4f0e4860nB43tq4FFZS",
+  "jobName": "AI Agent 应用资深工程师",
+  "salary": "30-50K",
+  "company": "杭州某小型智能硬件/消费电子公司",
+  "tags": [
+   "3-5年",
+   "硕士"
+  ],
+  "location": "杭州",
+  "x": 195.4296875,
+  "y": -184,
+  "kw": "AI Agent",
+  "salary_low": 30.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "9905489698801a040nB-3tW7FVZS",
+  "jobName": "AI Agent工程师",
+  "salary": "30-50K",
+  "company": "某知名互联网金融公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 195.4296875,
+  "y": 1364,
+  "kw": "AI Agent",
+  "salary_low": 30.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "1339248b201308750nV53tu_EVBY",
+  "jobName": "AI Agent架构师",
+  "salary": "30-60K·13薪",
+  "company": "数里行间",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 175.8984375,
+  "y": 2264,
+  "kw": "AI Agent",
+  "salary_low": 30.0,
+  "salary_high": 60.0
+ },
+ {
+  "eid": "981c2fa53f5405800nB709-_GFFR",
+  "jobName": "AI Agent算法专家",
+  "salary": "30-50K·17薪",
+  "company": "杭州某小型互联网公司",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8984375,
+  "y": 2714,
+  "kw": "AI Agent",
+  "salary_low": 30.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "f3a27cc9966b32070nJ_2Nq5FlNS",
+  "jobName": "AI 应用架构工程师 （Agent &工作流方向）",
+  "salary": "29-35K·13薪",
+  "company": "iWudao吾道科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 175.8984375,
+  "y": -16378,
+  "kw": "AI应用工程师",
+  "salary_low": 29.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "b7bf87beaf3a04d00nN52NS6EVFY",
+  "jobName": "大模型应用算法",
+  "salary": "28-45K·14薪",
+  "company": "亿达信息",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·闲林",
+  "x": 175.875,
+  "y": -9880,
+  "kw": "大模型应用",
+  "salary_low": 28.0,
+  "salary_high": 45.0
+ },
+ {
+  "eid": "f08d179ef3dedea10nN72d60FVFY",
+  "jobName": "AI Agent产品经理",
+  "salary": "28-35K·15薪",
+  "company": "杭州云玦科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 175.8984375,
+  "y": -20476,
+  "kw": "AI Agent",
+  "salary_low": 28.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "dbf97d7516ad439a0nF43NW6FFBT",
+  "jobName": "AI Agent全栈开发工程师",
+  "salary": "28-45K",
+  "company": "杭州佳立购科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 195.4140625,
+  "y": -9880,
+  "kw": "AI Agent",
+  "salary_low": 28.0,
+  "salary_high": 45.0
+ },
+ {
+  "eid": "05c7a610de86aa890nF43Ny1EFpX",
+  "jobName": "AI Agent开发工程师",
+  "salary": "28-40K·16薪",
+  "company": "深圳市小满科技",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 175.8828125,
+  "y": -6532,
+  "kw": "AI Agent",
+  "salary_low": 28.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "3fe6dbc217e78cba0nZy39S8FlBX",
+  "jobName": "AI大模型",
+  "salary": "26-35K·15薪",
+  "company": "某大型计算机服务公司",
+  "tags": [
+   "5-10年",
+   "硕士"
+  ],
+  "location": "杭州",
+  "x": 175.8984375,
+  "y": -6082,
+  "kw": "大模型应用",
+  "salary_low": 26.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "b5a64d1230368a160nB92dy1FVNY",
+  "jobName": "FDE（医疗AI）",
+  "salary": "25-50K",
+  "company": "智诊科技",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州·临平区·东湖",
+  "x": 195.4296875,
+  "y": -18676,
+  "kw": "fde",
+  "salary_low": 25.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "64c3988e85705a250nJ93tq8EVFZ",
+  "jobName": "FDE全栈大模型工程师｜企业AI Agent私有化",
+  "salary": "25-45K",
+  "company": "君越科技",
+  "tags": [
+   "1-3年",
+   "学历不限"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 195.4140625,
+  "y": -14578,
+  "kw": "fde",
+  "salary_low": 25.0,
+  "salary_high": 45.0
+ },
+ {
+  "eid": "f68d33299b1d5d400nJ80ty6GVtS",
+  "jobName": "具身智能 - 机器人sim2real模型部署工程师",
+  "salary": "25-45K",
+  "company": "某人工智能公司",
+  "tags": [
+   "经验不限",
+   "硕士"
+  ],
+  "location": "杭州",
+  "x": 195.4140625,
+  "y": -20476,
+  "kw": "前沿部署",
+  "salary_low": 25.0,
+  "salary_high": 45.0
+ },
+ {
+  "eid": "f9de48e4f34d58e70nN53Nq8EVNW",
+  "jobName": "AI算法部署工程师",
+  "salary": "25-45K·15薪",
+  "company": "爱芯元智",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 175.8828125,
+  "y": -14278,
+  "kw": "前沿部署",
+  "salary_low": 25.0,
+  "salary_high": 45.0
+ },
+ {
+  "eid": "3e99089b4444da660nJy2dy4GVdX",
+  "jobName": "AI应用架构师",
+  "salary": "25-50K·13薪",
+  "company": "明途知产",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 175.8984375,
+  "y": -6982,
+  "kw": "前沿部署",
+  "salary_low": 25.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "03df8796a3ac731d0nJ_29m1EFdV",
+  "jobName": "机器人sim2real模型部署工程师",
+  "salary": "25-50K·14薪",
+  "company": "某人工智能公司",
+  "tags": [
+   "经验不限",
+   "硕士"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": -14728,
+  "kw": "前线部署",
+  "salary_low": 25.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "b47575e8c59308030nN62NW_GFVT",
+  "jobName": "机器人sim2real模型部署工程师（具身智能）",
+  "salary": "25-50K",
+  "company": "杭州某小型人工智能清洁机器人研发公司",
+  "tags": [
+   "经验不限",
+   "硕士"
+  ],
+  "location": "杭州",
+  "x": 195.4296875,
+  "y": -6532,
+  "kw": "前线部署",
+  "salary_low": 25.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "888b9b74a720d3340nN52d-0FlpX",
+  "jobName": "AI产品经理",
+  "salary": "25-35K",
+  "company": "火烧云数据",
+  "tags": [
+   "3-5年",
+   "大专"
+  ],
+  "location": "杭州·拱墅区·东新",
+  "x": 195.4296875,
+  "y": -4282,
+  "kw": "前线部署",
+  "salary_low": 25.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "47ba4969578c4b060nN62tq5E1FX",
+  "jobName": "模型应用工程师（ROS2 系统）",
+  "salary": "25-40K",
+  "company": "某人工智能公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 195.4140625,
+  "y": 1964,
+  "kw": "前线部署",
+  "salary_low": 25.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "2cb527d08af948730nJ70t67ElFS",
+  "jobName": "AI 应用工程师（后端）",
+  "salary": "25-35K",
+  "company": "浙江果然控股有限公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·拱墅区·新天地",
+  "x": 195.4296875,
+  "y": -21376,
+  "kw": "AI应用工程师",
+  "salary_low": 25.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "51ddaed410c97a4f0nJ52dy9EVdS",
+  "jobName": "AI Practice Consultants/AI应用顾问",
+  "salary": "25-45K",
+  "company": "穆氏建筑设计(上...",
+  "tags": [
+   "经验不限",
+   "学历不限"
+  ],
+  "location": "杭州·上城区·湖滨",
+  "x": 195.4140625,
+  "y": -18676,
+  "kw": "AI应用工程师",
+  "salary_low": 25.0,
+  "salary_high": 45.0
+ },
+ {
+  "eid": "355dbc7d96f7f4040nN52tq9EFNT",
+  "jobName": "ai应用开发工程师",
+  "salary": "25-45K·14薪",
+  "company": "杭州华为云计算",
+  "tags": [
+   "在校/应届",
+   "本科"
+  ],
+  "location": "杭州·滨江区·西兴",
+  "x": 175.875,
+  "y": -13180,
+  "kw": "AI应用工程师",
+  "salary_low": 25.0,
+  "salary_high": 45.0
+ },
+ {
+  "eid": "ab06de081f81a9d90nN40tW6GVFW",
+  "jobName": "AI应用高级开发工程师",
+  "salary": "25-40K·13薪",
+  "company": "无忧达",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 175.8828125,
+  "y": -7282,
+  "kw": "AI应用工程师",
+  "salary_low": 25.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "555f3b00d947153c0nd72t61F1VQ",
+  "jobName": "资深 AI 应用工程师",
+  "salary": "25-45K",
+  "company": "诺领",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 195.4140625,
+  "y": -3484,
+  "kw": "AI应用工程师",
+  "salary_low": 25.0,
+  "salary_high": 45.0
+ },
+ {
+  "eid": "44c0c85520a3bf7e03F73d--GFBZ",
+  "jobName": "ai应用工程师",
+  "salary": "25-40K",
+  "company": "高帆破浪",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 195.4140625,
+  "y": -2134,
+  "kw": "AI应用工程师",
+  "salary_low": 25.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "c05055efb00fdcc90nd42d61EVRY",
+  "jobName": "AI 算法应用工程师",
+  "salary": "25-50K",
+  "company": "潮流网络杭州分公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·黄龙",
+  "x": 195.4296875,
+  "y": -1534,
+  "kw": "AI应用工程师",
+  "salary_low": 25.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "19363aa324ccae0d0nN73tu8E1dQ",
+  "jobName": "智能网卡现场应用工程师（FAE）",
+  "salary": "25-50K·14薪",
+  "company": "翼华科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 175.8828125,
+  "y": 2864,
+  "kw": "AI应用工程师",
+  "salary_low": 25.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "4a0ce35256d3c6720nJ82tS9EFRQ",
+  "jobName": "AI Agent 解决方案专家",
+  "salary": "25-50K·15薪",
+  "company": "迈富时",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·拱墅区·小河",
+  "x": 175.8984375,
+  "y": -20476,
+  "kw": "AI解决方案",
+  "salary_low": 25.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "7509f6deff445f220nF92dy6EFdQ",
+  "jobName": "AI解决方案",
+  "salary": "25-35K·15薪",
+  "company": "360集团",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 175.8984375,
+  "y": -18826,
+  "kw": "AI解决方案",
+  "salary_low": 25.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "411f4251ea5403a60nN-2tu4EVFS",
+  "jobName": "解决方案经理",
+  "salary": "25-45K",
+  "company": "格物通智",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 195.4140625,
+  "y": -16228,
+  "kw": "AI解决方案",
+  "salary_low": 25.0,
+  "salary_high": 45.0
+ },
+ {
+  "eid": "dad34ae597a2404c0nF93ti-FlVQ",
+  "jobName": "AI4S算法科学家/LLM算法/AI算法/AI产品等",
+  "salary": "25-50K·17薪",
+  "company": "某人工智能公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8984375,
+  "y": -13828,
+  "kw": "AI解决方案",
+  "salary_low": 25.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "867bf0fca55433290nN62Nq1EFBX",
+  "jobName": "AI解决方案专家",
+  "salary": "25-40K",
+  "company": "上海某中型通信工程监理与咨询服务上市公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 195.4140625,
+  "y": -13678,
+  "kw": "AI解决方案",
+  "salary_low": 25.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "3c7d667520068c5b0nBy3d2_GVtR",
+  "jobName": "AI产品经理",
+  "salary": "25-40K·13薪",
+  "company": "德适科技",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州·临平区·东湖",
+  "x": 175.8828125,
+  "y": -11530,
+  "kw": "AI解决方案",
+  "salary_low": 25.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "6a636fe07a2b35790nN-29-6EVRW",
+  "jobName": "解决方案专家",
+  "salary": "25-35K",
+  "company": "众联成业科技",
+  "tags": [
+   "10年以上",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 195.4296875,
+  "y": -4282,
+  "kw": "AI解决方案",
+  "salary_low": 25.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "9af311691f2939430nFz2dm5F1dW",
+  "jobName": "AI解决方案专家",
+  "salary": "25-50K",
+  "company": "吉利汽车集团",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 195.4296875,
+  "y": -2584,
+  "kw": "AI解决方案",
+  "salary_low": 25.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "42212de2d5f57fa00nZ80t2_FVBV",
+  "jobName": "AI产品经理专家",
+  "salary": "25-45K",
+  "company": "发现力量",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 195.4140625,
+  "y": -334,
+  "kw": "AI解决方案",
+  "salary_low": 25.0,
+  "salary_high": 45.0
+ },
+ {
+  "eid": "e72b8c48f834a6830nF60tq1F1NQ",
+  "jobName": "ai产品经理",
+  "salary": "25-35K·16薪",
+  "company": "武汉某大型智能视觉物联网上市公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8984375,
+  "y": 914,
+  "kw": "AI解决方案",
+  "salary_low": 25.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "d813b4dad62330150nFz3di0F1FY",
+  "jobName": "AI业务架构师（解决方案）",
+  "salary": "25-50K",
+  "company": "某大型知名咨询公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 195.4296875,
+  "y": 2864,
+  "kw": "AI解决方案",
+  "salary_low": 25.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "d69c3bdd04ed92140nJz29y6F1ZX",
+  "jobName": "AI产品专家",
+  "salary": "25-35K·14薪",
+  "company": "值得买科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·五常",
+  "x": 175.8828125,
+  "y": -9880,
+  "kw": "AI交付",
+  "salary_low": 25.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "d5bd89e3a2e5cec30nF43tW_F1tX",
+  "jobName": "AI 智能体部门负责人",
+  "salary": "25-35K",
+  "company": "杭州春客网络科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·钱塘区·和达东东城",
+  "x": 195.4296875,
+  "y": -784,
+  "kw": "AI交付",
+  "salary_low": 25.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "6c475c88f9b8815e0nJz09u0FVZW",
+  "jobName": "AI大模型应用(视觉）",
+  "salary": "25-40K·15薪",
+  "company": "杭州某大型计算机软件上市公司",
+  "tags": [
+   "经验不限",
+   "学历不限"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": -20326,
+  "kw": "大模型应用",
+  "salary_low": 25.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "6519f4704fcfe3ae1Hd-2ty-E1RX",
+  "jobName": "大模型推理工程师",
+  "salary": "25-45K·13薪",
+  "company": "某知名互联网金融公司",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": -18526,
+  "kw": "大模型应用",
+  "salary_low": 25.0,
+  "salary_high": 45.0
+ },
+ {
+  "eid": "1c40c61eebbe79be0nZy29u8GVFV",
+  "jobName": "大模型应用工程师",
+  "salary": "25-50K",
+  "company": "微分智飞",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 195.4296875,
+  "y": -16978,
+  "kw": "大模型应用",
+  "salary_low": 25.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "4b999a9df9cd08fc0nN60t-8FlJV",
+  "jobName": "大模型训推系统优化研究与应用博士后",
+  "salary": "25-50K",
+  "company": "之江实验室",
+  "tags": [
+   "在校/应届",
+   "博士"
+  ],
+  "location": "杭州",
+  "x": 195.4296875,
+  "y": -13180,
+  "kw": "大模型应用",
+  "salary_low": 25.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "8d33ac7165b6b55a0nJ-0tW1EFBZ",
+  "jobName": "大模型应用&Agent智能体安全专家",
+  "salary": "25-35K·15薪",
+  "company": "某中型数据智能服务上市公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8984375,
+  "y": -10030,
+  "kw": "大模型应用",
+  "salary_low": 25.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "ad012f064485ae530nJ-2dy5ElJZ",
+  "jobName": "大模型算法",
+  "salary": "25-35K·15薪",
+  "company": "某大型知名互联网金融上市公司",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8984375,
+  "y": -1684,
+  "kw": "大模型应用",
+  "salary_low": 25.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "ccc9dc2652a207530nN73Nm-GVBW",
+  "jobName": "大模型算法",
+  "salary": "25-40K",
+  "company": "徐州某大型工程机械上市公司",
+  "tags": [
+   "5-10年",
+   "硕士"
+  ],
+  "location": "杭州",
+  "x": 195.4140625,
+  "y": 116,
+  "kw": "大模型应用",
+  "salary_low": 25.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "ab1c9116b412174c0nd40t67GFRT",
+  "jobName": "大模型架构师",
+  "salary": "25-40K·13薪",
+  "company": "代塔供应链",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·上城区·五堡",
+  "x": 175.8828125,
+  "y": 416,
+  "kw": "大模型应用",
+  "salary_low": 25.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "ef58af4fe875d7790nB729y0EldS",
+  "jobName": "AI大模型应用架构师",
+  "salary": "25-35K",
+  "company": "滴滴出行科技有限公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 195.4296875,
+  "y": 2714,
+  "kw": "大模型应用",
+  "salary_low": 25.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "6b75a238b9154f4a0nJ42t68FlRT",
+  "jobName": "AI agent研发工程师",
+  "salary": "25-50K·13薪",
+  "company": "北京某中型具身智能公司",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8984375,
+  "y": -19726,
+  "kw": "AI Agent",
+  "salary_low": 25.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "ba24dddd2392bbdf0nJ60tW8GFFX",
+  "jobName": "AI Agent 产品经理（Vibe Coding方向）",
+  "salary": "25-40K·13薪",
+  "company": "杭州斑头雁智能科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 175.8828125,
+  "y": -17578,
+  "kw": "AI Agent",
+  "salary_low": 25.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "352b4e0b3e989b0a0nF829m0FFdZ",
+  "jobName": "AI Agent产品经理",
+  "salary": "25-50K",
+  "company": "上海渠恩企业管理咨询",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州·滨江区·浦沿",
+  "x": 195.4296875,
+  "y": -17128,
+  "kw": "AI Agent",
+  "salary_low": 25.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "a2b1e59841c7e6b60nV50ti0FFVS",
+  "jobName": "产品经理（AI Agent 方向）",
+  "salary": "25-50K·13薪",
+  "company": "了不起科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 175.8984375,
+  "y": -15328,
+  "kw": "AI Agent",
+  "salary_low": 25.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "c5f7eab495c81b130nB609y8FVZW",
+  "jobName": "AI Agent产品经理",
+  "salary": "25-50K",
+  "company": "小蚕",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·钱塘区·和达东东城",
+  "x": 195.4296875,
+  "y": -14428,
+  "kw": "AI Agent",
+  "salary_low": 25.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "dcc85a0c4bfd59af0nJ-2tS6GVRX",
+  "jobName": "AI Agent 开发",
+  "salary": "25-50K·14薪",
+  "company": "链坊科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·西溪",
+  "x": 175.8828125,
+  "y": -11830,
+  "kw": "AI Agent",
+  "salary_low": 25.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "e84c982962e041470nJ92dm4EFNV",
+  "jobName": "AI agent开发",
+  "salary": "25-35K",
+  "company": "浙江念妆品牌管理",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 195.4296875,
+  "y": -9130,
+  "kw": "AI Agent",
+  "salary_low": 25.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "97189064d2f2248a0nJ83ty9EVVY",
+  "jobName": "AI Agent开发工程师",
+  "salary": "25-50K·15薪",
+  "company": "杭州今日头条科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 175.8984375,
+  "y": -8032,
+  "kw": "AI Agent",
+  "salary_low": 25.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "a4f3cf078021b2770nN43dq8E1FZ",
+  "jobName": "AI Agent 开发工程师",
+  "salary": "25-40K·15薪",
+  "company": "今日头条",
+  "tags": [
+   "在校/应届",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 175.8828125,
+  "y": -7582,
+  "kw": "AI Agent",
+  "salary_low": 25.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "9a61680f5e87bf540nN60tq1FVVS",
+  "jobName": "AI Agent 工程师",
+  "salary": "25-35K",
+  "company": "风之末",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·萧山区·建设二路",
+  "x": 195.4296875,
+  "y": -6982,
+  "kw": "AI Agent",
+  "salary_low": 25.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "4ec4476364a2c87f0nJ92t6_EltR",
+  "jobName": "AI Agent 工程师",
+  "salary": "25-35K·15薪",
+  "company": "连连支付",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 175.8984375,
+  "y": -6682,
+  "kw": "AI Agent",
+  "salary_low": 25.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "2cb23ee9e3bc2fe50nJ93d24FltV",
+  "jobName": "AI Agent-产品经理(金融）",
+  "salary": "25-50K·15薪",
+  "company": "同花顺",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·五常",
+  "x": 175.8984375,
+  "y": -6082,
+  "kw": "AI Agent",
+  "salary_low": 25.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "d66cc45f0bcbe0fd0nV539m7FFBS",
+  "jobName": "AI Agent 全栈工程师",
+  "salary": "25-40K",
+  "company": "杭州千二科技有限公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 195.4140625,
+  "y": -5782,
+  "kw": "AI Agent",
+  "salary_low": 25.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "5ddab4611dc88e860nB92tS9F1BW",
+  "jobName": "AI Agent中高级开发工程师",
+  "salary": "25-50K",
+  "company": "杭州艾科智汇科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·转塘",
+  "x": 195.4296875,
+  "y": -5482,
+  "kw": "AI Agent",
+  "salary_low": 25.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "37e09e939dbf7e010nB-3di9GFdV",
+  "jobName": "AI Agent开发工程师：",
+  "salary": "25-50K·14薪",
+  "company": "杭州偶然与必然科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 175.8828125,
+  "y": -5032,
+  "kw": "AI Agent",
+  "salary_low": 25.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "384fa34b474e3c3b0nJy09m7F1pU",
+  "jobName": "AI Agent系统技术负责人",
+  "salary": "25-40K·14薪",
+  "company": "杭州灵峰智能科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·萧山区·西兴",
+  "x": 175.875,
+  "y": -3634,
+  "kw": "AI Agent",
+  "salary_low": 25.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "7460a746fbd62c9d0nd72ti4ElpR",
+  "jobName": "AI Agent开发工程师（LLM / 多模态）",
+  "salary": "25-50K",
+  "company": "杭州某小型人工智能Seed轮初创公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 195.4296875,
+  "y": -2884,
+  "kw": "AI Agent",
+  "salary_low": 25.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "4fc29a16f1b318c50nJ-09W0FVVZ",
+  "jobName": "AI Agent专家/架构师",
+  "salary": "25-45K·14薪",
+  "company": "智能精准学",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 175.875,
+  "y": -2584,
+  "kw": "AI Agent",
+  "salary_low": 25.0,
+  "salary_high": 45.0
+ },
+ {
+  "eid": "dcc2ce1ac9c64b3e0nJ-29-0ElpU",
+  "jobName": "AI agent开发工程师",
+  "salary": "25-40K",
+  "company": "云梯科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 195.4140625,
+  "y": -1084,
+  "kw": "AI Agent",
+  "salary_low": 25.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "41eb057a066dc94f0nF83t67GVVU",
+  "jobName": "AI Agent开发工程师",
+  "salary": "25-40K",
+  "company": "深睿医疗",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 195.4140625,
+  "y": 416,
+  "kw": "AI Agent",
+  "salary_low": 25.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "80b13d1865f91ba40nZ50t60FVRZ",
+  "jobName": "AI / Agent 平台开发工程师",
+  "salary": "25-45K",
+  "company": "某电子商务公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 195.4140625,
+  "y": 764,
+  "kw": "AI Agent",
+  "salary_low": 25.0,
+  "salary_high": 45.0
+ },
+ {
+  "eid": "152c6df3dd906e700nJ52tW4F1JV",
+  "jobName": "大模型应用框架",
+  "salary": "24-45K·16薪",
+  "company": "华为",
+  "tags": [
+   "在校/应届",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 175.875,
+  "y": -21676,
+  "kw": "大模型应用",
+  "salary_low": 24.0,
+  "salary_high": 45.0
+ },
+ {
+  "eid": "8e87ed58acfa92f10nB_2ti0E1FV",
+  "jobName": "软考资格证书的 医疗系统交付工程师",
+  "salary": "23-45K",
+  "company": "大连金安天成科技有限公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·萧山区·西兴",
+  "x": 195.4140625,
+  "y": 416,
+  "kw": "AI交付",
+  "salary_low": 23.0,
+  "salary_high": 45.0
+ },
+ {
+  "eid": "538592315b19283f0nBy2dS_GFdY",
+  "jobName": "AI 产品经理（（AI Agent ）",
+  "salary": "23-35K",
+  "company": "交易哲学",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·五常",
+  "x": 195.4296875,
+  "y": -13030,
+  "kw": "AI Agent",
+  "salary_low": 23.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "e50165****04390nJ_3di7GFRR",
+  "jobName": "AI应用开发工程师",
+  "salary": "22-35K·16薪",
+  "company": "快手",
+  "tags": [
+   "在校/应届",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 175.8984375,
+  "y": -6382,
+  "kw": "AI应用工程师",
+  "salary_low": 22.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "9c7ad820addf9bf20nJ52tS7EFdT",
+  "jobName": "FDE 全栈 AI 工程师",
+  "salary": "20-40K",
+  "company": "云凡智联",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·萧山区·宁围",
+  "x": 195.4140625,
+  "y": -17128,
+  "kw": "fde",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "66cb679bce53e1840nJ92Nu6ElVT",
+  "jobName": "人工智能开发 智能体 FDE OPC 跨境 Claw",
+  "salary": "20000-50000元/月",
+  "company": "杭州星红文化传媒",
+  "tags": [
+   "经验不限",
+   "学历不限"
+  ],
+  "location": "杭州·钱塘区·金沙湖",
+  "x": 150.5234375,
+  "y": -16078,
+  "kw": "fde",
+  "salary_low": 20.0,
+  "salary_high": 50.0
+ },
+ {
+  "eid": "e76b8e0afa30c39f0nJ52dy8FVNV",
+  "jobName": "FDE-现场部署工程师",
+  "salary": "20-35K·14薪",
+  "company": "杭州博思芯宇科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 175.8828125,
+  "y": -11530,
+  "kw": "fde",
+  "salary_low": 20.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "96e6f04f3af6bf700nN529i7E1NV",
+  "jobName": "前沿/前线部署工程师（FDE）",
+  "salary": "20-40K",
+  "company": "文创企管",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·拱墅区·上塘",
+  "x": 195.4140625,
+  "y": -10780,
+  "kw": "fde",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "b94256384596976d0nJ53Nm7E1RY",
+  "jobName": "AI模型部署工程师",
+  "salary": "20-40K",
+  "company": "元启智合",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 195.4140625,
+  "y": -10780,
+  "kw": "前沿部署",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "41e2eccbdc4ed78e0nF73d67GVdQ",
+  "jobName": "端侧系统 & 高性能部署工程师",
+  "salary": "20-40K",
+  "company": "维泛智能",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 195.4140625,
+  "y": -10180,
+  "kw": "前沿部署",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "16ede4bca4bbbc010nN52NW-FVNQ",
+  "jobName": "AI 技术负责人（大模型与 Agent 方向）",
+  "salary": "20-40K",
+  "company": "昊美科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·五常",
+  "x": 195.4140625,
+  "y": -5932,
+  "kw": "前沿部署",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "cb3d0cc54dddd4ee0nF-09u9F1BV",
+  "jobName": "嵌入式AI算法部署工程师",
+  "salary": "20-40K",
+  "company": "鸿泉物联网",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·北干",
+  "x": 195.4140625,
+  "y": -2134,
+  "kw": "前沿部署",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "325e75f6007a7e780nBz3Nu6GVpS",
+  "jobName": "解决方案专家",
+  "salary": "20-35K",
+  "company": "浙江省北大信研院",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 195.4296875,
+  "y": 2714,
+  "kw": "前沿部署",
+  "salary_low": 20.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "0a4e4c2957f6921a0nN60tS4GVBW",
+  "jobName": "ai应用工程师",
+  "salary": "20-40K·14薪",
+  "company": "华为",
+  "tags": [
+   "在校/应届",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 175.875,
+  "y": -22426,
+  "kw": "AI应用工程师",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "0534834c7447162b0nJy0tS7EFdV",
+  "jobName": "算法/AI大模型应用工程师（北京/杭州）",
+  "salary": "20-40K·14薪",
+  "company": "某中型大数据C轮公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.875,
+  "y": -20476,
+  "kw": "AI应用工程师",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "fe436018e8935bf60nJ-3dS9GFpY",
+  "jobName": "算法/AI大模型应用工程师",
+  "salary": "20-40K",
+  "company": "某中型大数据公司",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 195.4140625,
+  "y": -18526,
+  "kw": "AI应用工程师",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "cb86908e8d9354580nF939-1E1NS",
+  "jobName": "ai应用工程师",
+  "salary": "20-40K·16薪",
+  "company": "华为技术有限公司",
+  "tags": [
+   "在校/应届",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": -18376,
+  "kw": "AI应用工程师",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "04034cf1cb0dcf560nd82tS0F1RX",
+  "jobName": "AI应用研发工程师-杭州",
+  "salary": "20-40K·15薪",
+  "company": "北京懂车帝科技",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 175.8828125,
+  "y": -15178,
+  "kw": "AI应用工程师",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "a7fc7877df2831f00nB42dq4EldY",
+  "jobName": "ai应用工程师",
+  "salary": "20-40K",
+  "company": "杭州某大型汽车零部件上市公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 195.4140625,
+  "y": -13978,
+  "kw": "AI应用工程师",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "d1a6c4b4d62c60050nJ50925EFVZ",
+  "jobName": "AI应用研发工程师(J10635)",
+  "salary": "20-40K·14薪",
+  "company": "Rokid",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 175.875,
+  "y": -5632,
+  "kw": "AI应用工程师",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "30cd05d1bfe792480nN529i9FVdR",
+  "jobName": "算法应用工程师",
+  "salary": "20-35K",
+  "company": "小匠物联",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 195.4296875,
+  "y": -484,
+  "kw": "AI应用工程师",
+  "salary_low": 20.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "52b626347b8a01e10nF73tS4GVRY",
+  "jobName": "机器人模型应用工程师（J10268）",
+  "salary": "20-35K·13薪",
+  "company": "宇树科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8984375,
+  "y": -34,
+  "kw": "AI应用工程师",
+  "salary_low": 20.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "0a9a32ec7d49f4140nZ_3d26FFRV",
+  "jobName": "ai应用开发工程师",
+  "salary": "20-35K",
+  "company": "杭州某中型人工智能教育服务公司（获近2亿融资）",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 195.4296875,
+  "y": 116,
+  "kw": "AI应用工程师",
+  "salary_low": 20.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "73e7c9be8da716070nB52tm7GVNW",
+  "jobName": "AI产品解决方案专家/售前顾问",
+  "salary": "20-35K·18薪",
+  "company": "杭州无问硅一科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 175.8984375,
+  "y": -22576,
+  "kw": "AI解决方案",
+  "salary_low": 20.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "0c62f6aa918d1bf10nV53Nq6FFtV",
+  "jobName": "AI产品经理",
+  "salary": "20-40K",
+  "company": "乐其集团",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 195.4140625,
+  "y": -10930,
+  "kw": "AI解决方案",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "d95f496082216b240nV92Ny6GFVV",
+  "jobName": "AI产品经理-智能体方向",
+  "salary": "20-40K·13薪",
+  "company": "炽橙数字",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·上城区·南星",
+  "x": 175.8828125,
+  "y": -10480,
+  "kw": "AI解决方案",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "ca36a25d3609dd241HB_0tm7FVBY",
+  "jobName": "储能解决方案工程师",
+  "salary": "20-40K",
+  "company": "运达风电",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 195.4140625,
+  "y": -8980,
+  "kw": "AI解决方案",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "e81c746a0c2d28440nJ93tu9EFZS",
+  "jobName": "Solution Architect 解决方案（SA）",
+  "salary": "20-40K",
+  "company": "VAST",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 195.4140625,
+  "y": -7132,
+  "kw": "AI解决方案",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "11989735e1bff9e20nRy2tm4GVRR",
+  "jobName": "售前解决方案专家",
+  "salary": "20-40K",
+  "company": "进迭时空",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·五常",
+  "x": 195.4140625,
+  "y": -6532,
+  "kw": "AI解决方案",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "a24efc7f4bb97ff00nJ63tS8EFZY",
+  "jobName": "解决方案交付技术工程师",
+  "salary": "20-40K·15薪",
+  "company": "新石器慧通",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 175.8828125,
+  "y": -2284,
+  "kw": "AI解决方案",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "de7577affb5117a10nB92N65FVRR",
+  "jobName": "营销AI产品经理",
+  "salary": "20-40K",
+  "company": "杭州才培教育科技",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 195.4140625,
+  "y": -1534,
+  "kw": "AI解决方案",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "b0367f7b4537ad3f0nF-29q5ElpU",
+  "jobName": "解决方案技术专家",
+  "salary": "20-40K",
+  "company": "互联网交换中心",
+  "tags": [
+   "经验不限",
+   "硕士"
+  ],
+  "location": "杭州·萧山区·北干",
+  "x": 195.4140625,
+  "y": -1234,
+  "kw": "AI解决方案",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "db82f9a8738299b20nFy2968GVdQ",
+  "jobName": "AI产品经理（化学侧）-AI4Science方向",
+  "salary": "20-40K",
+  "company": "祥峰投资",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 195.4140625,
+  "y": 1664,
+  "kw": "AI解决方案",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "44278ed1590ce9690nZ729m_F1tR",
+  "jobName": "ai产品经理",
+  "salary": "20-40K",
+  "company": "掌中云",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 195.4140625,
+  "y": 2114,
+  "kw": "AI解决方案",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "b770184a3d7d139a0nB70tq8FlNT",
+  "jobName": "医疗 AI 智能体工程师",
+  "salary": "20-35K",
+  "company": "泰格医药",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·浦沿",
+  "x": 195.4296875,
+  "y": -14428,
+  "kw": "AI交付",
+  "salary_low": 20.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "400d5f61911c6c7e0nN42dW6EVRX",
+  "jobName": "AI Agent 开发工程师（技术负责人）",
+  "salary": "20-40K",
+  "company": "易有料",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·萧山区·奥体中心",
+  "x": 195.4140625,
+  "y": -13828,
+  "kw": "AI交付",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "e3a2905d115ae4ef0nd509W-FlNY",
+  "jobName": "AI Agent 资深产品经理",
+  "salary": "20-40K",
+  "company": "杭州零壹起舞网络技术",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 195.4140625,
+  "y": -6232,
+  "kw": "AI交付",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "579691261e04dcda03Ny3tu5GVFR",
+  "jobName": "AI产品经理",
+  "salary": "20-40K",
+  "company": "超块",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·文二路",
+  "x": 195.4140625,
+  "y": -5032,
+  "kw": "AI交付",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "47c7df245246ad6d0nV42d26E1VX",
+  "jobName": "ai产品专家",
+  "salary": "20-40K·14薪",
+  "company": "北京元理无限科技",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 175.875,
+  "y": -634,
+  "kw": "AI交付",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "2e8e26328e396ab40nJz3dq-GFJU",
+  "jobName": "AI大模型开放平台产品经理 / 主管",
+  "salary": "20-35K",
+  "company": "联汇科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 195.4296875,
+  "y": 1664,
+  "kw": "AI交付",
+  "salary_low": 20.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "6f87fdaeac68a3d903N-2Nm1GFJW",
+  "jobName": "大模型开发工程师",
+  "salary": "20-40K",
+  "company": "某大型机械设备公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 195.4140625,
+  "y": -22726,
+  "kw": "大模型应用",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "d3258150103db6640nR-0tm7F1RV",
+  "jobName": "大模型应用工程师(A52129)",
+  "salary": "20-40K",
+  "company": "小影",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·五常",
+  "x": 195.4140625,
+  "y": -13828,
+  "kw": "大模型应用",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "7eafd0a2b375b6cf0nN62di6EFdZ",
+  "jobName": "大模型安全训练微调专家",
+  "salary": "20-40K",
+  "company": "网宿科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 195.4140625,
+  "y": -12430,
+  "kw": "大模型应用",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "48b2beb935e70e310nBy2N6-EVNY",
+  "jobName": "AI应用技术负责人",
+  "salary": "20-40K·13薪",
+  "company": "杭州益联智慧科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·萧山区·西兴",
+  "x": 175.8828125,
+  "y": -10330,
+  "kw": "大模型应用",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "7ce87685bfe4a0d80nd52N66ElVY",
+  "jobName": "Python开发（AI Agent /大模型应用方向)",
+  "salary": "20-40K",
+  "company": "掌中云",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 195.4140625,
+  "y": -8632,
+  "kw": "大模型应用",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "e92c56d032d751940nF_09S8FlFR",
+  "jobName": "大模型应用开发工程师 / Agent 应用专家",
+  "salary": "20-40K",
+  "company": "亿货宝",
+  "tags": [
+   "3-5年",
+   "大专"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 195.4140625,
+  "y": -7132,
+  "kw": "大模型应用",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "375c5a5684bbd3190nZz2tu5GVpW",
+  "jobName": "AI大模型训练",
+  "salary": "20-40K",
+  "company": "某大型社交网络与媒体公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 195.4140625,
+  "y": -6532,
+  "kw": "大模型应用",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "f28bbabc58d2979b0nB93NS9F1NZ",
+  "jobName": "AI大模型应用平台产品经理",
+  "salary": "20-40K",
+  "company": "深圳凌纪元科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 195.4140625,
+  "y": -6382,
+  "kw": "大模型应用",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "c0f4b2a2a14d44de1HJ62961FVtS",
+  "jobName": "AI大模型工程师",
+  "salary": "20-35K",
+  "company": "易达科技",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·萧山区·北干",
+  "x": 195.4296875,
+  "y": -5632,
+  "kw": "大模型应用",
+  "salary_low": 20.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "02b410312b9a37980nV92tq7FVFU",
+  "jobName": "大模型训练",
+  "salary": "20-40K·16薪",
+  "company": "深圳某大型互联网金融上市公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": -4432,
+  "kw": "大模型应用",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "a83df5ba2c392d0903N429m7E1BT",
+  "jobName": "大模型应用开发工程师",
+  "salary": "20-35K",
+  "company": "杭州鼎智云人工智...",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 195.4296875,
+  "y": -3334,
+  "kw": "大模型应用",
+  "salary_low": 20.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "30b1aeffe0b8160f0nN50t-5EVZQ",
+  "jobName": "大模型算法",
+  "salary": "20-40K·16薪",
+  "company": "上海华为技术有限公司",
+  "tags": [
+   "在校/应届",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 175.8828125,
+  "y": 764,
+  "kw": "大模型应用",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "4e211888333d055f0nJz3d6_FVBV",
+  "jobName": "大模型应用开发工程师/AIGC&力&CAD",
+  "salary": "20-40K",
+  "company": "某计算机软件公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 195.4140625,
+  "y": 1364,
+  "kw": "大模型应用",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "8bf6e8e9f70c40f60nJ50tq_F1BQ",
+  "jobName": "大模型应用开发工程师",
+  "salary": "20-40K",
+  "company": "某计算机软件公司",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 195.4140625,
+  "y": 2414,
+  "kw": "大模型应用",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "211fd370caf8825b0nJ_3Ny7ElJQ",
+  "jobName": "AI Agent 工程师",
+  "salary": "20-35K",
+  "company": "腾展科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·文二路",
+  "x": 195.4296875,
+  "y": -17728,
+  "kw": "AI Agent",
+  "salary_low": 20.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "bb8be0dc9a6534e50nN72Nm4F1NY",
+  "jobName": "AI Agent开发工程师(J11696)",
+  "salary": "20-35K",
+  "company": "网营科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 195.4296875,
+  "y": -15478,
+  "kw": "AI Agent",
+  "salary_low": 20.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "a75de5f9f0608ea30nd-29S1FVBR",
+  "jobName": "全栈开发（AI Agent偏后端）",
+  "salary": "20-40K·13薪",
+  "company": "北京某大型计算机软件上市公司",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": -13330,
+  "kw": "AI Agent",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "a5c5776aed31f5fe0nF62Ny_FVJU",
+  "jobName": "AI产品经理（AI Agent / 房地产智能体）",
+  "salary": "20-40K",
+  "company": "居住奇点",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 195.4140625,
+  "y": -11230,
+  "kw": "AI Agent",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "a2298687fe1917e80nN52du9F1ZS",
+  "jobName": "AI Agent应用开发工程师（机器人方向）",
+  "salary": "20-40K·15薪",
+  "company": "杭州旷行科技有限公司",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 175.8828125,
+  "y": -10030,
+  "kw": "AI Agent",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "740111f2c93aa4e40nZ50t24FlBV",
+  "jobName": "AI Agent开发工程师",
+  "salary": "20-40K·14薪",
+  "company": "招银",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 175.875,
+  "y": -9580,
+  "kw": "AI Agent",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "1c9909e8e4fa6f460nJ_3Ny6E1tY",
+  "jobName": "AI Agent 工程师",
+  "salary": "20-35K",
+  "company": "超块",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·文二路",
+  "x": 195.4296875,
+  "y": -8482,
+  "kw": "AI Agent",
+  "salary_low": 20.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "230ad1f2cd67c7580nF62Nu1FFFV",
+  "jobName": "产品经理-AI Agent",
+  "salary": "20-40K·15薪",
+  "company": "某人工智能公司",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": -8332,
+  "kw": "AI Agent",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "ef4871d67f7a62130nB-29i_EFdW",
+  "jobName": "AI Agent 产品经理",
+  "salary": "20-40K·14薪",
+  "company": "小影",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 175.875,
+  "y": -7282,
+  "kw": "AI Agent",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "7de63ae36aeb57eb0nJz09y1FFJT",
+  "jobName": "Ai Agent工程师（机器人）",
+  "salary": "20-40K·15薪",
+  "company": "某知名互联网公司",
+  "tags": [
+   "3-5年",
+   "硕士"
+  ],
+  "location": "杭州",
+  "x": 175.8828125,
+  "y": -6232,
+  "kw": "AI Agent",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "fc6f23309f375ae40nZy09m4ElJU",
+  "jobName": "机器人大模型AI Agent工程师",
+  "salary": "20-40K·14薪",
+  "company": "微分智飞",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 175.875,
+  "y": -3034,
+  "kw": "AI Agent",
+  "salary_low": 20.0,
+  "salary_high": 40.0
+ },
+ {
+  "eid": "f81aa9e7a3757c0e0ndy2d-0EFpZ",
+  "jobName": "AI Agent 算法⼯程师（偏工程+3D理解）",
+  "salary": "20-35K",
+  "company": "八维通",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 195.4296875,
+  "y": -34,
+  "kw": "AI Agent",
+  "salary_low": 20.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "6afbefec4a307aa70nJz3Ny1FVdY",
+  "jobName": "AI产品经理",
+  "salary": "19-35K·15薪",
+  "company": "滴滴",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 177.515625,
+  "y": -11980,
+  "kw": "AI交付",
+  "salary_low": 19.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "173a8d997768387d0nN42NW1E1NU",
+  "jobName": "AI Agent算法研究员",
+  "salary": "19-35K·14薪",
+  "company": "品联科技有限公司",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 177.5078125,
+  "y": -11080,
+  "kw": "AI Agent",
+  "salary_low": 19.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "9e76d365838934c90nN-2du1FFdY",
+  "jobName": "ai应用研发工程师",
+  "salary": "18-35K·14薪",
+  "company": "深圳某大型ICT基础设施和智能终端公司",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 177.5078125,
+  "y": -21676,
+  "kw": "AI应用工程师",
+  "salary_low": 18.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "882b64ec5335a7e50nR739-1FFdT",
+  "jobName": "AI大模型应用工程师",
+  "salary": "18-35K·15薪",
+  "company": "舜宇集团",
+  "tags": [
+   "3-5年",
+   "硕士"
+  ],
+  "location": "杭州·萧山区·北干",
+  "x": 177.515625,
+  "y": -4882,
+  "kw": "AI应用工程师",
+  "salary_low": 18.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "1393e746ed31ca010nJy2Nm1ElFR",
+  "jobName": "BI+AI解决方案顾问",
+  "salary": "18-35K·14薪",
+  "company": "观远数据",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·五常",
+  "x": 177.5078125,
+  "y": -19876,
+  "kw": "AI解决方案",
+  "salary_low": 18.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "c7ff113e4431f5ef0nJ929--GFRU",
+  "jobName": "AI安全解决方案专家",
+  "salary": "18-35K",
+  "company": "浙江公众信息产业",
+  "tags": [
+   "5-10年",
+   "硕士"
+  ],
+  "location": "杭州",
+  "x": 197.046875,
+  "y": -15628,
+  "kw": "AI解决方案",
+  "salary_low": 18.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "71c5880f0dbaccb70nJ43dy9FlBQ",
+  "jobName": "产品解决方案架构师",
+  "salary": "18-35K",
+  "company": "浙江云链未来技术",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·拱墅区·拱宸桥",
+  "x": 197.046875,
+  "y": 2564,
+  "kw": "AI解决方案",
+  "salary_low": 18.0,
+  "salary_high": 35.0
+ },
+ {
+  "eid": "e2f6641529a46e210nN52t61ElJQ",
+  "jobName": "大模型算法中级工程师",
+  "salary": "14-28K",
+  "company": "杭州盈格信息",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州·钱塘区·和达东东城",
+  "x": 197.0390625,
+  "y": 116,
+  "kw": "前沿部署",
+  "salary_low": 14.0,
+  "salary_high": 28.0
+ },
+ {
+  "eid": "abba3b4e7860f3c60nBy3dW0EVtS",
+  "jobName": "ai应用工程师",
+  "salary": "14-25K",
+  "company": "杭州和为机电有限公司",
+  "tags": [
+   "经验不限",
+   "硕士"
+  ],
+  "location": "杭州·萧山区·新街",
+  "x": 197.0390625,
+  "y": -21226,
+  "kw": "AI应用工程师",
+  "salary_low": 14.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "d2afe539a1a468480nN629q1FVRR",
+  "jobName": "AI应用工程师",
+  "salary": "14-16K",
+  "company": "浙江徽创信息技术有限",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 198.65625,
+  "y": -18028,
+  "kw": "AI应用工程师",
+  "salary_low": 14.0,
+  "salary_high": 16.0
+ },
+ {
+  "eid": "e9e52ac263598d800nN429S1GVJT",
+  "jobName": "ai应用工程师",
+  "salary": "14-16K",
+  "company": "北京仟格科技有限公司",
+  "tags": [
+   "3-5年",
+   "大专"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 198.65625,
+  "y": -12580,
+  "kw": "AI应用工程师",
+  "salary_low": 14.0,
+  "salary_high": 16.0
+ },
+ {
+  "eid": "eb4b35ff4f62c0330nN52N-7E1NQ",
+  "jobName": "AI大模型质控",
+  "salary": "14-16K",
+  "company": "万声通讯实业有限公司",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 198.65625,
+  "y": -20626,
+  "kw": "AI交付",
+  "salary_low": 14.0,
+  "salary_high": 16.0
+ },
+ {
+  "eid": "505098568c88d0f20nN52dq-FlVW",
+  "jobName": "ai产品经理（产品建设方向）",
+  "salary": "14-19K·13薪",
+  "company": "武汉市阅江科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 179.125,
+  "y": 1964,
+  "kw": "AI交付",
+  "salary_low": 14.0,
+  "salary_high": 19.0
+ },
+ {
+  "eid": "ad7bea2c54bb6dfa0nJ_2NW1E1JT",
+  "jobName": "AI大模型应用开发工程师",
+  "salary": "14-20K",
+  "company": "杭州泛讯信息科技",
+  "tags": [
+   "1年以内",
+   "硕士"
+  ],
+  "location": "杭州·余杭区·勾庄",
+  "x": 197.0390625,
+  "y": -19576,
+  "kw": "大模型应用",
+  "salary_low": 14.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "892edb75a859946a03Fy2di-ElVU",
+  "jobName": "AI应用开发工程师（大模型方向）",
+  "salary": "14-20K",
+  "company": "华峰集团有限公司",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·上城区·钱江新城",
+  "x": 197.0390625,
+  "y": -14428,
+  "kw": "大模型应用",
+  "salary_low": 14.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "57bbe9336211ecb40nN609y-GVtQ",
+  "jobName": "大模型应用工程师",
+  "salary": "14-20K",
+  "company": "陕西轩意光电科技",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·西兴",
+  "x": 197.0390625,
+  "y": -9730,
+  "kw": "大模型应用",
+  "salary_low": 14.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "cae2ff0878a79f5203N52t61ElFU",
+  "jobName": "大模型应用开发工程师",
+  "salary": "14-20K·13薪",
+  "company": "万维空间",
+  "tags": [
+   "经验不限",
+   "硕士"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 177.5078125,
+  "y": -5782,
+  "kw": "大模型应用",
+  "salary_low": 14.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "5fe772fa0bfba8740nFy29S6EFNV",
+  "jobName": "大模型应用工程师",
+  "salary": "14-28K",
+  "company": "浙江大学滨江研究...",
+  "tags": [
+   "3-5年",
+   "硕士"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 197.0390625,
+  "y": -1834,
+  "kw": "大模型应用",
+  "salary_low": 14.0,
+  "salary_high": 28.0
+ },
+ {
+  "eid": "2d9ee398963300f10nN-2dW_EFdW",
+  "jobName": "FDE工程师 / AI落地工程师",
+  "salary": "13-25K",
+  "company": "千点白网络科技",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·萧山区·西兴",
+  "x": 197.046875,
+  "y": -19126,
+  "kw": "fde",
+  "salary_low": 13.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "06141d4b7b463afd0nJ_2NS6ElpR",
+  "jobName": "AI 应用工程师",
+  "salary": "13-26K",
+  "company": "杭州泛讯信息科技",
+  "tags": [
+   "1年以内",
+   "硕士"
+  ],
+  "location": "杭州·余杭区·勾庄",
+  "x": 197.046875,
+  "y": -20776,
+  "kw": "AI应用工程师",
+  "salary_low": 13.0,
+  "salary_high": 26.0
+ },
+ {
+  "eid": "a5d07573a6bb162d0nJ-3d-9GFFR",
+  "jobName": "AI应用工程师/大模型算法",
+  "salary": "13-25K",
+  "company": "杭州知几智能科技",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·闲林",
+  "x": 197.046875,
+  "y": -20026,
+  "kw": "AI应用工程师",
+  "salary_low": 13.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "bbc2870a7619e4e10nF939u4F1BU",
+  "jobName": "Python AI 应用工程师",
+  "salary": "13-18K·13薪",
+  "company": "杭州智能涌现人工...",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 179.1328125,
+  "y": -7132,
+  "kw": "AI应用工程师",
+  "salary_low": 13.0,
+  "salary_high": 18.0
+ },
+ {
+  "eid": "6ccc34d7be4c9f620nF_2dW6ElpY",
+  "jobName": "AI应用开发工程师【27届校招】",
+  "salary": "13-20K·14薪",
+  "company": "多益网络",
+  "tags": [
+   "在校/应届",
+   "学历不限"
+  ],
+  "location": "杭州·临平区·塘栖",
+  "x": 177.5078125,
+  "y": -3784,
+  "kw": "AI应用工程师",
+  "salary_low": 13.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "845e1ed1c91308870nF43d24FFVV",
+  "jobName": "AI应用研发工程师",
+  "salary": "13-20K",
+  "company": "帕科科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 197.046875,
+  "y": -2434,
+  "kw": "AI应用工程师",
+  "salary_low": 13.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "c2f237f4a0b2f24b0nV52du-EVtR",
+  "jobName": "售前解决方案工程师（无人机巡检）",
+  "salary": "13-25K",
+  "company": "浙江灵犀感知科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·海创园",
+  "x": 197.046875,
+  "y": -11230,
+  "kw": "AI解决方案",
+  "salary_low": 13.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "d802b727c1da5d730nF639S4FVZY",
+  "jobName": "售前解决方案（国企）",
+  "salary": "13-18K·14薪",
+  "company": "浙江高速信息",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·上城区·望江",
+  "x": 179.125,
+  "y": -9430,
+  "kw": "AI解决方案",
+  "salary_low": 13.0,
+  "salary_high": 18.0
+ },
+ {
+  "eid": "5d1bf1c9406dad5103182NS0FFVU",
+  "jobName": "医疗AI解决方案架构师",
+  "salary": "13-25K",
+  "company": "宁波瀚启智能科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 197.046875,
+  "y": -3784,
+  "kw": "AI解决方案",
+  "salary_low": 13.0,
+  "salary_high": 25.0
+ },
+ {
+  "eid": "ab6465478ec426b30nF93dm7GVBT",
+  "jobName": "AI 数据项目经理（电商大模型同款识别）",
+  "salary": "13-18K",
+  "company": "上海勤穆网络科技",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 198.6640625,
+  "y": -17728,
+  "kw": "AI交付",
+  "salary_low": 13.0,
+  "salary_high": 18.0
+ },
+ {
+  "eid": "846d8db51465922d0nF-2tS_ElBT",
+  "jobName": "大模型应用开发工程师（偏后端）",
+  "salary": "13-26K",
+  "company": "AskTable",
+  "tags": [
+   "1-3年",
+   "学历不限"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 197.046875,
+  "y": -15778,
+  "kw": "大模型应用",
+  "salary_low": 13.0,
+  "salary_high": 26.0
+ },
+ {
+  "eid": "dbde35656e5624140nJy2Ni7EFFZ",
+  "jobName": "FDE工程师",
+  "salary": "12-18K·13薪",
+  "company": "略微出手",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·钱塘区·工业园南",
+  "x": 179.1328125,
+  "y": -17428,
+  "kw": "fde",
+  "salary_low": 12.0,
+  "salary_high": 18.0
+ },
+ {
+  "eid": "ffb0d4f5a07cce440nF82ti8FVpU",
+  "jobName": "RPA+AI Agent开发实施工程师",
+  "salary": "12-17K",
+  "company": "杭州卓迩智能",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·未来科技城",
+  "x": 198.6640625,
+  "y": -6682,
+  "kw": "fde",
+  "salary_low": 12.0,
+  "salary_high": 17.0
+ },
+ {
+  "eid": "5ca1b819fe699e010nJ_3ti0FldY",
+  "jobName": "企业AI业务解决方案顾问（流程与场景方向）",
+  "salary": "12-24K",
+  "company": "峰瞰智能",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·勾庄",
+  "x": 197.0390625,
+  "y": -6382,
+  "kw": "fde",
+  "salary_low": 12.0,
+  "salary_high": 24.0
+ },
+ {
+  "eid": "f09c78589847e5b20nN62d6_ElBX",
+  "jobName": "Ai 钉钉/飞书 实施交付工程师",
+  "salary": "12-15K",
+  "company": "因睿科技",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·拱墅区·新天地",
+  "x": 198.6640625,
+  "y": 914,
+  "kw": "fde",
+  "salary_low": 12.0,
+  "salary_high": 15.0
+ },
+ {
+  "eid": "ebad818fd4555e510nJ539S5ElZT",
+  "jobName": "AI应用工程师",
+  "salary": "12-16K·13薪",
+  "company": "微能科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 179.1328125,
+  "y": -16678,
+  "kw": "AI应用工程师",
+  "salary_low": 12.0,
+  "salary_high": 16.0
+ },
+ {
+  "eid": "013d77d725f1e6eb0nJ70tu_GFdW",
+  "jobName": "电商AI全栈应用工程师(ai智能体/模型落地）",
+  "salary": "12-20K",
+  "company": "旭瀚网络",
+  "tags": [
+   "1-3年",
+   "大专"
+  ],
+  "location": "杭州·临平区·临平",
+  "x": 197.046875,
+  "y": -14878,
+  "kw": "AI应用工程师",
+  "salary_low": 12.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "383d238daa9919500nN72di1GFFZ",
+  "jobName": "AI应用全栈工程师",
+  "salary": "12-20K",
+  "company": "杭州扶摇而上数字科技",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·临平区·东湖",
+  "x": 197.046875,
+  "y": -14428,
+  "kw": "AI应用工程师",
+  "salary_low": 12.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "538f29e74ae15a2a0nF639S9EVtV",
+  "jobName": "AI应用工程师（Agent框架与系统集成方向）",
+  "salary": "12-20K",
+  "company": "杭州联众",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·上城区·西湖",
+  "x": 197.046875,
+  "y": -12730,
+  "kw": "AI应用工程师",
+  "salary_low": 12.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "e035f636ede953390nBz2Nq8EFZX",
+  "jobName": "全栈开发工程师（AI应用方向）",
+  "salary": "12-20K·13薪",
+  "company": "共创引导",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·未来科技城",
+  "x": 177.515625,
+  "y": -11680,
+  "kw": "AI应用工程师",
+  "salary_low": 12.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "e2aee34e31afa8640nN63NS8GFRW",
+  "jobName": "AI智能体应用开发工程师",
+  "salary": "12-16K·13薪",
+  "company": "君南科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·拱墅区·拱宸桥",
+  "x": 179.1328125,
+  "y": -4432,
+  "kw": "AI应用工程师",
+  "salary_low": 12.0,
+  "salary_high": 16.0
+ },
+ {
+  "eid": "af534ba6de1a2c6d0nB-3Nu9EldX",
+  "jobName": "AI应用工程师",
+  "salary": "12-20K",
+  "company": "万物辰新",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州·上城区·机场路沿线",
+  "x": 197.046875,
+  "y": 2714,
+  "kw": "AI应用工程师",
+  "salary_low": 12.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "f832d3ae9a3888ad0nd72d6-EVRZ",
+  "jobName": "智能工厂解决方案工程师（工业AI菁英计划)",
+  "salary": "12-16K·14薪",
+  "company": "杭州和利时",
+  "tags": [
+   "在校/应届",
+   "本科"
+  ],
+  "location": "杭州·钱塘区·和达东东城",
+  "x": 179.125,
+  "y": -21976,
+  "kw": "AI解决方案",
+  "salary_low": 12.0,
+  "salary_high": 16.0
+ },
+ {
+  "eid": "cb24f43118fe40e90ndy2929FVRQ",
+  "jobName": "AI解决方案工程师",
+  "salary": "12-20K",
+  "company": "南京优飞保科信息技术",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 197.046875,
+  "y": -19576,
+  "kw": "AI解决方案",
+  "salary_low": 12.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "761f4ec192d5cc940nJ92d61F1dR",
+  "jobName": "ai产品经理",
+  "salary": "12-18K",
+  "company": "久点智能",
+  "tags": [
+   "1-3年",
+   "大专"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 198.6640625,
+  "y": -11380,
+  "kw": "AI解决方案",
+  "salary_low": 12.0,
+  "salary_high": 18.0
+ },
+ {
+  "eid": "a9dfc1a97bba8ab40nJ72Ny9F1RQ",
+  "jobName": "教育解决方案专家",
+  "salary": "12-24K·13薪",
+  "company": "布谷蓝途",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 177.5078125,
+  "y": 1364,
+  "kw": "AI解决方案",
+  "salary_low": 12.0,
+  "salary_high": 24.0
+ },
+ {
+  "eid": "b646f87021233c2703x50tq1ElJR",
+  "jobName": "解决方案专家 AI教育",
+  "salary": "12-24K",
+  "company": "天学网",
+  "tags": [
+   "5-10年",
+   "硕士"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 197.0390625,
+  "y": 1814,
+  "kw": "AI解决方案",
+  "salary_low": 12.0,
+  "salary_high": 24.0
+ },
+ {
+  "eid": "ed7bdcc3d220e5f10nJz3N67FFZU",
+  "jobName": "图库交付工程师",
+  "salary": "12-20K",
+  "company": "创邻科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 197.046875,
+  "y": -6682,
+  "kw": "AI交付",
+  "salary_low": 12.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "310ba92a6e3b71410nJ52tW4E1tT",
+  "jobName": "大模型应用工程师（知识库方向）",
+  "salary": "12-18K·13薪",
+  "company": "杭州七彩棱镜信息...",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 179.1328125,
+  "y": -21376,
+  "kw": "大模型应用",
+  "salary_low": 12.0,
+  "salary_high": 18.0
+ },
+ {
+  "eid": "74a0ad0b045cc4340nN52tm1FlpV",
+  "jobName": "大模型应用交付工程师",
+  "salary": "12-20K",
+  "company": "杭州联众",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·上城区·西湖",
+  "x": 197.046875,
+  "y": -17128,
+  "kw": "大模型应用",
+  "salary_low": 12.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "3cf4d730e2cbddea0nJ93Ny0EFtZ",
+  "jobName": "大模型应用开发工程师",
+  "salary": "12-20K",
+  "company": "杭州兔启未来科技",
+  "tags": [
+   "经验不限",
+   "大专"
+  ],
+  "location": "杭州",
+  "x": 197.046875,
+  "y": -15328,
+  "kw": "大模型应用",
+  "salary_low": 12.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "5771e5b0ec5901da0nN63t24F1NV",
+  "jobName": "智能体开发工程师（知识产权方向）",
+  "salary": "12-16K",
+  "company": "杭州熵擎科技有限公司",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 198.6640625,
+  "y": -7282,
+  "kw": "大模型应用",
+  "salary_low": 12.0,
+  "salary_high": 16.0
+ },
+ {
+  "eid": "239a3cc60bfba7461HB429u6EFdU",
+  "jobName": "人工智能大模型应用开发工程师",
+  "salary": "12-20K",
+  "company": "普赛微科技",
+  "tags": [
+   "在校/应届",
+   "硕士"
+  ],
+  "location": "杭州",
+  "x": 197.046875,
+  "y": -4732,
+  "kw": "大模型应用",
+  "salary_low": 12.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "efdb3f394817197d0nN42Nu_FVJQ",
+  "jobName": "AI大模型应用开发工程师+旅游",
+  "salary": "12-18K",
+  "company": "华运文旅",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 198.6640625,
+  "y": -934,
+  "kw": "大模型应用",
+  "salary_low": 12.0,
+  "salary_high": 18.0
+ },
+ {
+  "eid": "23fc7f55a5c7765d0nN42N21EVRT",
+  "jobName": "AI Agent开发工程师",
+  "salary": "12-18K·13薪",
+  "company": "杭州向量轨迹科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 179.1328125,
+  "y": -20176,
+  "kw": "AI Agent",
+  "salary_low": 12.0,
+  "salary_high": 18.0
+ },
+ {
+  "eid": "5b46e377be8272f60nd42NW4FlFY",
+  "jobName": "AI Agent开发工程师",
+  "salary": "12-24K·13薪",
+  "company": "思创智联",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 177.5078125,
+  "y": -13828,
+  "kw": "AI Agent",
+  "salary_low": 12.0,
+  "salary_high": 24.0
+ },
+ {
+  "eid": "efa4e19382dda6210nVy3du-FVZT",
+  "jobName": "后端架构师（AI Agent与产品方向）",
+  "salary": "12-24K",
+  "company": "首域万物互联",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州·临平区·临平",
+  "x": 197.0390625,
+  "y": -8182,
+  "kw": "AI Agent",
+  "salary_low": 12.0,
+  "salary_high": 24.0
+ },
+ {
+  "eid": "005d75cd830034790nJ_2d-0FVRS",
+  "jobName": "AI Agent 前端工程师",
+  "salary": "12-24K",
+  "company": "中科昊萌",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·钱塘区·下沙",
+  "x": 197.0390625,
+  "y": -334,
+  "kw": "AI Agent",
+  "salary_low": 12.0,
+  "salary_high": 24.0
+ },
+ {
+  "eid": "82c471cda47b3e9d0nN52t-6FlBZ",
+  "jobName": "前沿部署工程师FDE（国际物流/AI 方向）",
+  "salary": "11-22K",
+  "company": "启胜国际物流集团",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·拱墅区·湖墅南路",
+  "x": 198.6640625,
+  "y": -13828,
+  "kw": "fde",
+  "salary_low": 11.0,
+  "salary_high": 22.0
+ },
+ {
+  "eid": "d9b2746f5c497b4e0nN52dy0EFRW",
+  "jobName": "AI解决方案（FDE-Echo方向）",
+  "salary": "11-22K",
+  "company": "浙江公众信息产业",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 198.6640625,
+  "y": 1514,
+  "kw": "fde",
+  "salary_low": 11.0,
+  "salary_high": 22.0
+ },
+ {
+  "eid": "208b4c330f2aede30nB73t6_FlVZ",
+  "jobName": "ai应用工程师",
+  "salary": "11-20K",
+  "company": "杭州星池智算科技",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·拱墅区·上塘",
+  "x": 198.6640625,
+  "y": -19276,
+  "kw": "AI应用工程师",
+  "salary_low": 11.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "75d7fc0e1665562f0nV929m5EFRX",
+  "jobName": "ai应用工程师",
+  "salary": "11-20K",
+  "company": "cocochi cosme",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 198.6640625,
+  "y": -17728,
+  "kw": "AI应用工程师",
+  "salary_low": 11.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "07f7134541af1a2c0nJ52Nu-ElJZ",
+  "jobName": "企业AI应用工程师",
+  "salary": "11-20K·14薪",
+  "company": "高特电子",
+  "tags": [
+   "1-3年",
+   "硕士"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 179.125,
+  "y": -15928,
+  "kw": "AI应用工程师",
+  "salary_low": 11.0,
+  "salary_high": 20.0
+ },
+ {
+  "eid": "a47d782c0f4dc3440nZ809u1ElBT",
+  "jobName": "ai应用工程师",
+  "salary": "11-18K",
+  "company": "杭州凡创质品电子...",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 200.2890625,
+  "y": -1384,
+  "kw": "AI应用工程师",
+  "salary_low": 11.0,
+  "salary_high": 18.0
+ },
+ {
+  "eid": "f6310fe2bc853dd10nFz3d61ElVT",
+  "jobName": "资深解决方案工程师（储能）",
+  "salary": "11-18K",
+  "company": "杭州捷能科技",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 200.2890625,
+  "y": -8032,
+  "kw": "AI解决方案",
+  "salary_low": 11.0,
+  "salary_high": 18.0
+ },
+ {
+  "eid": "0636c58077f1e9250nJ-29W9GVZS",
+  "jobName": "ai产品经理",
+  "salary": "11-22K·18薪",
+  "company": "海康威视",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·西兴",
+  "x": 179.1328125,
+  "y": -11080,
+  "kw": "大模型应用",
+  "salary_low": 11.0,
+  "salary_high": 22.0
+ },
+ {
+  "eid": "32a0951493b7866c0nF93tu1FlFU",
+  "jobName": "AI agent开发",
+  "salary": "11-17K",
+  "company": "问顶科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·上城区·四季青",
+  "x": 200.2890625,
+  "y": -7732,
+  "kw": "AI Agent",
+  "salary_low": 11.0,
+  "salary_high": 17.0
+ },
+ {
+  "eid": "592b4dbbc65207620nN-2di6GFZS",
+  "jobName": "前沿部署工程师",
+  "salary": "10-15K·13薪",
+  "company": "数利得",
+  "tags": [
+   "1年以内",
+   "本科"
+  ],
+  "location": "杭州·余杭区·五常",
+  "x": 179.1328125,
+  "y": -16678,
+  "kw": "fde",
+  "salary_low": 10.0,
+  "salary_high": 15.0
+ },
+ {
+  "eid": "f98c45f5d2d43f250nF_3t24GFJV",
+  "jobName": "FDE工程师（AI智能体方向）",
+  "salary": "10-15K",
+  "company": "杭州梵域智能科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 198.6640625,
+  "y": -15928,
+  "kw": "fde",
+  "salary_low": 10.0,
+  "salary_high": 15.0
+ },
+ {
+  "eid": "c4bd9bc76fd661b90nN609q7ElBX",
+  "jobName": "展陈AI‑FDE/AI业务串联主管",
+  "salary": "10-15K",
+  "company": "禧动文化",
+  "tags": [
+   "3-5年",
+   "大专"
+  ],
+  "location": "杭州·上城区·机场路沿线",
+  "x": 198.6640625,
+  "y": -15478,
+  "kw": "fde",
+  "salary_low": 10.0,
+  "salary_high": 15.0
+ },
+ {
+  "eid": "d26488bab8c22b500nF_2d-0FVRW",
+  "jobName": "FDE前沿部署工程师",
+  "salary": "10-15K",
+  "company": "蓝网智能",
+  "tags": [
+   "3-5年",
+   "大专"
+  ],
+  "location": "杭州·上城区·丁桥",
+  "x": 198.6640625,
+  "y": -12730,
+  "kw": "fde",
+  "salary_low": 10.0,
+  "salary_high": 15.0
+ },
+ {
+  "eid": "af9e21689c622f200nJ43dy5GFBQ",
+  "jobName": "FDE工程师",
+  "salary": "10-15K·14薪",
+  "company": "新通教育集团",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 179.125,
+  "y": -7432,
+  "kw": "fde",
+  "salary_low": 10.0,
+  "salary_high": 15.0
+ },
+ {
+  "eid": "e426228438f3f5ad0nN60tm4FFJU",
+  "jobName": "AI智能体全栈开发工程师",
+  "salary": "10-15K",
+  "company": "浙江每日元康控股",
+  "tags": [
+   "1-3年",
+   "学历不限"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 198.6640625,
+  "y": -5332,
+  "kw": "fde",
+  "salary_low": 10.0,
+  "salary_high": 15.0
+ },
+ {
+  "eid": "b0353b4023c9af720nN52t-0EVZX",
+  "jobName": "FDE工程师",
+  "salary": "10-15K",
+  "company": "启胜国际物流集团",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州",
+  "x": 198.6640625,
+  "y": -334,
+  "kw": "fde",
+  "salary_low": 10.0,
+  "salary_high": 15.0
+ },
+ {
+  "eid": "69a37be1acc424ce0nFy0967FFZZ",
+  "jobName": "FDE交付工程师",
+  "salary": "10-15K",
+  "company": "杭州梵域智能科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 198.6640625,
+  "y": 2564,
+  "kw": "fde",
+  "salary_low": 10.0,
+  "salary_high": 15.0
+ },
+ {
+  "eid": "206547af1774f2b30nJ52tS0F1JV",
+  "jobName": "前线/前沿部署工程师（AI自动化）",
+  "salary": "10-15K",
+  "company": "杭州沐钧网络科技",
+  "tags": [
+   "1-3年",
+   "学历不限"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 198.6640625,
+  "y": -22576,
+  "kw": "前沿部署",
+  "salary_low": 10.0,
+  "salary_high": 15.0
+ },
+ {
+  "eid": "99316fab851974a00nJ-2tq4FFRW",
+  "jobName": "高级部署工程师",
+  "salary": "10-15K",
+  "company": "飞步科技",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 198.6640625,
+  "y": -19276,
+  "kw": "前沿部署",
+  "salary_low": 10.0,
+  "salary_high": 15.0
+ },
+ {
+  "eid": "662c15404cb91ea00nB83dS0EVNU",
+  "jobName": "智能化园区软件部署工程师",
+  "salary": "10-15K",
+  "company": "浙江永翊科技有限公司",
+  "tags": [
+   "5-10年",
+   "大专"
+  ],
+  "location": "杭州·临安区·青山",
+  "x": 198.6640625,
+  "y": -17128,
+  "kw": "前沿部署",
+  "salary_low": 10.0,
+  "salary_high": 15.0
+ },
+ {
+  "eid": "411cc160995ca14c0nJ93tu4E1VV",
+  "jobName": "模型部署工程师（偏部署、非开发！）",
+  "salary": "10-15K",
+  "company": "像衍科技",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州·余杭区·海创园",
+  "x": 198.6640625,
+  "y": -15478,
+  "kw": "前沿部署",
+  "salary_low": 10.0,
+  "salary_high": 15.0
+ },
+ {
+  "eid": "bb18e6ffcba0b25f0nBz39W0ElpS",
+  "jobName": "AI应用工程师",
+  "salary": "10-15K·13薪",
+  "company": "上海光本位智能科技",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 179.1328125,
+  "y": -10930,
+  "kw": "AI应用工程师",
+  "salary_low": 10.0,
+  "salary_high": 15.0
+ },
+ {
+  "eid": "4e839504e255f5a80nd-39u5GFdZ",
+  "jobName": "ai应用工程师",
+  "salary": "10-15K",
+  "company": "小虫科技",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 198.6640625,
+  "y": -7582,
+  "kw": "AI应用工程师",
+  "salary_low": 10.0,
+  "salary_high": 15.0
+ },
+ {
+  "eid": "437c9b50d59600c50nN72N6-GFZX",
+  "jobName": "AI应用开发工程师",
+  "salary": "10-15K",
+  "company": "青岛路兹",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 198.6640625,
+  "y": -6682,
+  "kw": "AI应用工程师",
+  "salary_low": 10.0,
+  "salary_high": 15.0
+ },
+ {
+  "eid": "6cf806a6819f32720nZ-2tu7E1dW",
+  "jobName": "网络安全与AI应用工程师",
+  "salary": "10-15K",
+  "company": "杭州久益机械",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·闲林",
+  "x": 198.6640625,
+  "y": -6082,
+  "kw": "AI应用工程师",
+  "salary_low": 10.0,
+  "salary_high": 15.0
+ },
+ {
+  "eid": "8b43b25494b028700nJy2dy5GVJZ",
+  "jobName": "数据应用工程师",
+  "salary": "10-15K·13薪",
+  "company": "迈伺特智能装备",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·钱塘区·大江东",
+  "x": 179.1328125,
+  "y": -3634,
+  "kw": "AI应用工程师",
+  "salary_low": 10.0,
+  "salary_high": 15.0
+ },
+ {
+  "eid": "c839db3133eeef8c0nJ52t64GVJS",
+  "jobName": "售前技术支持 解决方案",
+  "salary": "10-15K",
+  "company": "杭州传化具身智能科技",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·萧山区·宁围",
+  "x": 198.6640625,
+  "y": -20326,
+  "kw": "AI解决方案",
+  "salary_low": 10.0,
+  "salary_high": 15.0
+ },
+ {
+  "eid": "a3e132284f4526630nJ73967EFJZ",
+  "jobName": "AI应用与解决方案工程师(J10416)",
+  "salary": "10-15K",
+  "company": "九阳豆业",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·钱塘区·金桥街",
+  "x": 198.6640625,
+  "y": -12580,
+  "kw": "AI解决方案",
+  "salary_low": 10.0,
+  "salary_high": 15.0
+ },
+ {
+  "eid": "7c79e7b093a1697d0nJ92t28ElBV",
+  "jobName": "解决方案经理",
+  "salary": "10-15K·13薪",
+  "company": "大数云智",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·良渚",
+  "x": 179.1328125,
+  "y": -3934,
+  "kw": "AI解决方案",
+  "salary_low": 10.0,
+  "salary_high": 15.0
+ },
+ {
+  "eid": "d60997b964f767520nJ62d-7F1NV",
+  "jobName": "售前解决方案经理",
+  "salary": "10-15K",
+  "company": "江苏冰谷数字科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 198.6640625,
+  "y": -1834,
+  "kw": "AI解决方案",
+  "salary_low": 10.0,
+  "salary_high": 15.0
+ },
+ {
+  "eid": "02f9e35073d2cb2e0nJz0t--E1RR",
+  "jobName": "AI交付工程师",
+  "salary": "10-15K·13薪",
+  "company": "大希地",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 179.1328125,
+  "y": -22276,
+  "kw": "AI交付",
+  "salary_low": 10.0,
+  "salary_high": 15.0
+ },
+ {
+  "eid": "fc257112a3fab39103Z42Ni6EVBY",
+  "jobName": "SAAS交付工程师",
+  "salary": "10-15K",
+  "company": "数里行间",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 198.6640625,
+  "y": 2264,
+  "kw": "AI交付",
+  "salary_low": 10.0,
+  "salary_high": 15.0
+ },
+ {
+  "eid": "266751ab0edf281d0nN53N29FlRY",
+  "jobName": "AI 模型 / 大模型 应用产品开发支持",
+  "salary": "10-15K·15薪",
+  "company": "华为云计算",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 179.1328125,
+  "y": -20926,
+  "kw": "大模型应用",
+  "salary_low": 10.0,
+  "salary_high": 15.0
+ },
+ {
+  "eid": "f4f6f0fa5001f891031y3Nq8FlNR",
+  "jobName": "AI agent开发工程师",
+  "salary": "10-15K",
+  "company": "浙江顶王",
+  "tags": [
+   "5-10年",
+   "本科"
+  ],
+  "location": "杭州·萧山区·新街",
+  "x": 198.6640625,
+  "y": -1684,
+  "kw": "AI Agent",
+  "salary_low": 10.0,
+  "salary_high": 15.0
+ },
+ {
+  "eid": "d1be8e170007f9a80nJ529y7E1JX",
+  "jobName": "FDE前沿部署工程师",
+  "salary": "5000-15000元/月",
+  "company": "杭州原点数集",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 157.34375,
+  "y": -15628,
+  "kw": "fde",
+  "salary_low": 5.0,
+  "salary_high": 15.0
+ },
+ {
+  "eid": "35c4bb92e89d544f0nZ8092_GVtW",
+  "jobName": "Ai智能体搭建工程师 agent部署",
+  "salary": "11-12K",
+  "company": "山途体育",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 200.2890625,
+  "y": -16678,
+  "kw": "前沿部署",
+  "salary_low": 11.0,
+  "salary_high": 12.0
+ },
+ {
+  "eid": "4ecf8d688fd9b4580nJ43N6-E1RZ",
+  "jobName": "现场实施工程师（FDE）",
+  "salary": "10-12K",
+  "company": "佛山市益帕瓦物联科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·萧山区·市心北路",
+  "x": 198.6640625,
+  "y": -18526,
+  "kw": "fde",
+  "salary_low": 10.0,
+  "salary_high": 12.0
+ },
+ {
+  "eid": "d58c2a201806a0b30nBy2di5GFdW",
+  "jobName": "前线部署工程师Forward Deployed Engineer",
+  "salary": "10-11K",
+  "company": "晨羽",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 200.2890625,
+  "y": -14878,
+  "kw": "fde",
+  "salary_low": 10.0,
+  "salary_high": 11.0
+ },
+ {
+  "eid": "acc96f87c8f14fab0nN-2928GVdQ",
+  "jobName": "ai应用开发工程师",
+  "salary": "10-12K",
+  "company": "浙江新中环建筑设计",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 198.6640625,
+  "y": 266,
+  "kw": "AI应用工程师",
+  "salary_low": 10.0,
+  "salary_high": 12.0
+ },
+ {
+  "eid": "497609cb54f432520nN-29W8F1BW",
+  "jobName": "AI全栈工程师（大模型/智能体应用方向）",
+  "salary": "10-13K",
+  "company": "亚信科技",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 198.6640625,
+  "y": -19426,
+  "kw": "大模型应用",
+  "salary_low": 10.0,
+  "salary_high": 13.0
+ },
+ {
+  "eid": "785a3a3d1ae01a520nJy2tW1F1RV",
+  "jobName": "FDE工程师",
+  "salary": "9-14K·14薪",
+  "company": "杭州迷境智塔科技",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 182.6953125,
+  "y": -7732,
+  "kw": "fde",
+  "salary_low": 9.0,
+  "salary_high": 14.0
+ },
+ {
+  "eid": "a9b459af24b795a60nN53N28ElBQ",
+  "jobName": "钉钉AI部署工程师",
+  "salary": "9-12K",
+  "company": "杭州逅得网络",
+  "tags": [
+   "3-5年",
+   "大专"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 202.25,
+  "y": -18376,
+  "kw": "前沿部署",
+  "salary_low": 9.0,
+  "salary_high": 12.0
+ },
+ {
+  "eid": "74a8399ce615152a0nN53ty_ElpT",
+  "jobName": "AI 应用工程师",
+  "salary": "9-14K·13薪",
+  "company": "浙江新锐焊接科技...",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·上城区·三里亭",
+  "x": 182.703125,
+  "y": -21076,
+  "kw": "AI应用工程师",
+  "salary_low": 9.0,
+  "salary_high": 14.0
+ },
+ {
+  "eid": "3761294571e324190nF92dS4ElZY",
+  "jobName": "企业AI应用工程师（智能体与自动化方向）",
+  "salary": "9-14K·13薪",
+  "company": "昆元量子",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 182.703125,
+  "y": -14278,
+  "kw": "AI应用工程师",
+  "salary_low": 9.0,
+  "salary_high": 14.0
+ },
+ {
+  "eid": "646e054c653c77f50nV_0t67EFJW",
+  "jobName": "ai应用工程师",
+  "salary": "9-13K·14薪",
+  "company": "诺赢科技",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·拱墅区·拱宸桥",
+  "x": 182.703125,
+  "y": -184,
+  "kw": "AI应用工程师",
+  "salary_low": 9.0,
+  "salary_high": 13.0
+ },
+ {
+  "eid": "05969ade7f74cf760nVy3Ni5ElNY",
+  "jobName": "高校人工智能教育解决方案·售前工程师",
+  "salary": "9-12K·13薪",
+  "company": "睿数科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 182.71875,
+  "y": -19126,
+  "kw": "AI解决方案",
+  "salary_low": 9.0,
+  "salary_high": 12.0
+ },
+ {
+  "eid": "5486712470d89aa30nN-2dy8EFBU",
+  "jobName": "AI FDE 工程师 / AI ERP 研发工程师",
+  "salary": "8-13K·14薪",
+  "company": "杭州侯爷网络科技",
+  "tags": [
+   "1-3年",
+   "硕士"
+  ],
+  "location": "杭州·上城区·四季青",
+  "x": 182.703125,
+  "y": -22276,
+  "kw": "fde",
+  "salary_low": 8.0,
+  "salary_high": 13.0
+ },
+ {
+  "eid": "53533805f0a286710nJy3N61EVtS",
+  "jobName": "FDE 前沿部署工程师（售前解决方案）",
+  "salary": "8-13K",
+  "company": "极付",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·萧山区·西兴",
+  "x": 202.25,
+  "y": -20026,
+  "kw": "fde",
+  "salary_low": 8.0,
+  "salary_high": 13.0
+ },
+ {
+  "eid": "d131ce384405809d0nN709-1GFVX",
+  "jobName": "前线部署工程师（FDE）合伙人",
+  "salary": "8-13K",
+  "company": "杭州家有仙妈电子商务",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·转塘",
+  "x": 202.25,
+  "y": -19276,
+  "kw": "fde",
+  "salary_low": 8.0,
+  "salary_high": 13.0
+ },
+ {
+  "eid": "07ee313a3488607b0nJ82N-8FFpW",
+  "jobName": "AI Agent 全栈产品经理（初创/FDE岗）",
+  "salary": "8-10K·13薪",
+  "company": "泰瓴未来",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州·临安区·青山",
+  "x": 182.71875,
+  "y": -16978,
+  "kw": "fde",
+  "salary_low": 8.0,
+  "salary_high": 10.0
+ },
+ {
+  "eid": "ed7745acde46b1cb0nF42di5FlZS",
+  "jobName": "建筑AI解决方案工程师",
+  "salary": "8-12K",
+  "company": "博合设计",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·良渚",
+  "x": 202.25,
+  "y": -5482,
+  "kw": "fde",
+  "salary_low": 8.0,
+  "salary_high": 12.0
+ },
+ {
+  "eid": "cdd900679cca014b0nF52N-_E1ZT",
+  "jobName": "FDE工程师",
+  "salary": "8-10K",
+  "company": "杭州梵域智能科技",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 202.25,
+  "y": -1384,
+  "kw": "fde",
+  "salary_low": 8.0,
+  "salary_high": 10.0
+ },
+ {
+  "eid": "0f7aacf95a1fb3f90nB-2dy_FlBY",
+  "jobName": "量化部署工程师",
+  "salary": "8-10K·13薪",
+  "company": "OBSBOT寻影",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 182.71875,
+  "y": -7432,
+  "kw": "前线部署",
+  "salary_low": 8.0,
+  "salary_high": 10.0
+ },
+ {
+  "eid": "9757bd7f6a25b1fe0nN53tW4FVdX",
+  "jobName": "AIGC技术应用工程师",
+  "salary": "8-12K",
+  "company": "杭州星上文化创意",
+  "tags": [
+   "1-3年",
+   "大专"
+  ],
+  "location": "杭州·上城区·乔司",
+  "x": 202.25,
+  "y": -6982,
+  "kw": "AI应用工程师",
+  "salary_low": 8.0,
+  "salary_high": 12.0
+ },
+ {
+  "eid": "0ef631509c742eb10nF_2tS6F1JU",
+  "jobName": "人工智能解决方案专家",
+  "salary": "8-12K·13薪",
+  "company": "数利得",
+  "tags": [
+   "1年以内",
+   "本科"
+  ],
+  "location": "杭州·余杭区·五常",
+  "x": 182.71875,
+  "y": -22126,
+  "kw": "AI解决方案",
+  "salary_low": 8.0,
+  "salary_high": 12.0
+ },
+ {
+  "eid": "ebb319c4e56dff850nJ709S7FFNX",
+  "jobName": "AI解决方案顾问",
+  "salary": "8-13K",
+  "company": "向量螺旋",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·拱墅区·古墩路",
+  "x": 202.25,
+  "y": -18526,
+  "kw": "AI解决方案",
+  "salary_low": 8.0,
+  "salary_high": 13.0
+ },
+ {
+  "eid": "471fad528c48a6270nN72N-4GVZZ",
+  "jobName": "AI工程师（剧本智能体方向）",
+  "salary": "8-13K·14薪",
+  "company": "边锋",
+  "tags": [
+   "经验不限",
+   "学历不限"
+  ],
+  "location": "杭州·拱墅区·拱宸桥",
+  "x": 182.703125,
+  "y": -16828,
+  "kw": "大模型应用",
+  "salary_low": 8.0,
+  "salary_high": 13.0
+ },
+ {
+  "eid": "14544cb83c29a7600nVy0ti6ElZU",
+  "jobName": "AI应用开发工程师/大模型工程师",
+  "salary": "8-11K",
+  "company": "开心火山",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 203.8671875,
+  "y": 266,
+  "kw": "大模型应用",
+  "salary_low": 8.0,
+  "salary_high": 11.0
+ },
+ {
+  "eid": "ca3a3e4c45857e750nJz2NS6FVdY",
+  "jobName": "FDE AI工程师（B端 Agent / WorkBuddy）",
+  "salary": "7-10K",
+  "company": "杭州旺客来软件",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 202.25,
+  "y": -3934,
+  "kw": "fde",
+  "salary_low": 7.0,
+  "salary_high": 10.0
+ },
+ {
+  "eid": "6efb9f58a698ac360nN72Nm0EFFW",
+  "jobName": "前线部署工程师",
+  "salary": "7-12K·13薪",
+  "company": "三象数据",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·临平区·临平",
+  "x": 182.71875,
+  "y": -5782,
+  "kw": "前沿部署",
+  "salary_low": 7.0,
+  "salary_high": 12.0
+ },
+ {
+  "eid": "865603eb82642c270nN-2NW8ElNU",
+  "jobName": "ai应用工程师",
+  "salary": "7-10K",
+  "company": "博彦科技",
+  "tags": [
+   "经验不限",
+   "学历不限"
+  ],
+  "location": "杭州·西湖区·西溪",
+  "x": 202.25,
+  "y": -22276,
+  "kw": "AI应用工程师",
+  "salary_low": 7.0,
+  "salary_high": 10.0
+ },
+ {
+  "eid": "de5b532beabebd8e0nN63d-_FFRV",
+  "jobName": "ai应用工程师",
+  "salary": "7-12K",
+  "company": "杭州息光数字科技",
+  "tags": [
+   "1-3年",
+   "大专"
+  ],
+  "location": "杭州·滨江区·长河",
+  "x": 202.25,
+  "y": -11830,
+  "kw": "AI应用工程师",
+  "salary_low": 7.0,
+  "salary_high": 12.0
+ },
+ {
+  "eid": "a1f3059b1644e0720nJ93t64F1ZR",
+  "jobName": "ai应用工程师",
+  "salary": "7-10K",
+  "company": "人来人往",
+  "tags": [
+   "1-3年",
+   "本科"
+  ],
+  "location": "杭州·拱墅区·拱宸桥",
+  "x": 202.25,
+  "y": -10030,
+  "kw": "AI应用工程师",
+  "salary_low": 7.0,
+  "salary_high": 10.0
+ },
+ {
+  "eid": "57debcc6f6d17b6503x_2dm9GVNT",
+  "jobName": "实施部署工程师",
+  "salary": "6-10K",
+  "company": "竞族电竞",
+  "tags": [
+   "经验不限",
+   "中专/中技"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 202.25,
+  "y": -14578,
+  "kw": "前沿部署",
+  "salary_low": 6.0,
+  "salary_high": 10.0
+ },
+ {
+  "eid": "f46bc61faa2e3a360nF53965EVpX",
+  "jobName": "AI Agent 应用工程师（远程办公）",
+  "salary": "6-10K",
+  "company": "杭州袋鼠智元科技",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州·上城区·四季青",
+  "x": 202.25,
+  "y": -19426,
+  "kw": "AI应用工程师",
+  "salary_low": 6.0,
+  "salary_high": 10.0
+ },
+ {
+  "eid": "99185ca6339dbd160nV82ti6FlRS",
+  "jobName": "AI应用场景工程师",
+  "salary": "6-11K·13薪",
+  "company": "顾忠科技",
+  "tags": [
+   "3-5年",
+   "本科"
+  ],
+  "location": "杭州·滨江区·浦沿",
+  "x": 184.3359375,
+  "y": -10780,
+  "kw": "AI应用工程师",
+  "salary_low": 6.0,
+  "salary_high": 11.0
+ },
+ {
+  "eid": "db6532b4e71e6e930nFz0tq0ElZR",
+  "jobName": "ai应用工程师",
+  "salary": "6-10K",
+  "company": "浙江惠果网络科技",
+  "tags": [
+   "经验不限",
+   "本科"
+  ],
+  "location": "杭州·拱墅区·上塘",
+  "x": 202.25,
+  "y": -10480,
+  "kw": "AI应用工程师",
+  "salary_low": 6.0,
+  "salary_high": 10.0
+ },
+ {
+  "eid": "72ce782052e58ef403R80t-9F1pQ",
+  "jobName": "ai解决方案工程师",
+  "salary": "6-10K",
+  "company": "环界云计算",
+  "tags": [
+   "在校/应届",
+   "本科"
+  ],
+  "location": "杭州·余杭区·仓前",
+  "x": 202.25,
+  "y": -14728,
+  "kw": "AI解决方案",
+  "salary_low": 6.0,
+  "salary_high": 10.0
+ }
+]

@@ -1,0 +1,1523 @@
+[
+ {
+  "company": "微软（杭州）",
+  "sources": [
+   "知名企业"
+  ],
+  "sector": "",
+  "relevant_roles": [
+   "Global careers 支持按 Hangzhou 地点检索（含 Solution/Architect 类岗位，多为英文）"
+  ],
+  "career_url": "https://apply.careers.microsoft.com/",
+  "evidence_url": "https://jobs.careers.microsoft.com/global/en/search?lc=Hangzhou",
+  "ai_score": 10,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "why_fit=微软Solution Architect/Technical Specialist类岗位与FDE画像接近，杭州有研发中心；但要求较强英文，是求职者短板。 | role_type=AI解决方案 / 技术支持",
+  "exclude_reason": "岗位含语言要求: Global careers 支持按 Hangzhou 地点(英文)",
+  "exclude_scope": "该公司仅有语言要求岗位"
+ },
+ {
+  "company": "Databricks（杭州德布科科技有限公司）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "数据与 AI 平台",
+  "relevant_roles": [
+   "Director, Forward Deployed Engineering（FDE 总监；注：该岗位实际工作地在美国联邦业务线）",
+   "Solutions Architect",
+   "Staff Technical Solution Engineering",
+   "Staff Software Engineer, AI Native Web Platform"
+  ],
+  "career_url": "https://www.databricks.com/company/careers",
+  "evidence_url": "https://waiqipin.cn:8443/jobs/386535",
+  "ai_score": 7,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=中国注册实体（杭州德布科科技有限公司） | ai_relevance=high",
+  "exclude_reason": "外企（美国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "道富银行（State Street）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "金融/金融科技外包",
+  "relevant_roles": [
+   "Senior Software Engineering Lead – COMPASS Platform & AI Solutions, AVP",
+   "Global Head of Analytics and AI Platform Engineering, Managing Director",
+   "Product Owner – AGENTIC AI, Global Delivery Simplification, VP",
+   "Artificial Intelligence Application Development, AVP",
+   "Data Analytics & Management, Officer",
+   "Software Engineering & Development, AVP"
+  ],
+  "career_url": "https://statestreet.wd1.myworkdayjobs.com/Global",
+  "evidence_url": "https://statestreet.wd1.myworkdayjobs.com/Global",
+  "ai_score": 5,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=技术中心 / 交付中心（规模大，在招 84 个岗位） | ai_relevance=high",
+  "exclude_reason": "外企（美国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "埃森哲（Accenture）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "管理咨询/IT 服务",
+  "relevant_roles": [
+   "Data Architect（杭州）",
+   "Presales/Implementation Expert"
+  ],
+  "career_url": "https://www.accenture.com/cn-en/careers",
+  "evidence_url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers",
+  "ai_score": 5,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=交付中心 / 分公司（Accenture 中国交付中心网络） | ai_relevance=high",
+  "exclude_reason": "外企（爱尔兰/美国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "辉瑞（Pfizer）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "医药",
+  "relevant_roles": [
+   "医院解决方案经理-LC-杭州（辉瑞中国研究开发有限公司）",
+   "Patient Product Solution Manager",
+   "Product Solution Manager",
+   "CreateSmart Creative Design Lead（AI 创意工具方向）",
+   "高级后端架构师",
+   "Medical Content Operation"
+  ],
+  "career_url": "https://www.pfizer.com/about/careers",
+  "evidence_url": "https://pfizer.wd1.myworkdayjobs.com/PfizerCareers",
+  "ai_score": 5,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=分公司 + 研究开发公司（辉瑞中国研究开发有限公司杭州岗位） | ai_relevance=high",
+  "exclude_reason": "外企（美国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "福思智能（Fosi，杭州）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "智能驾驶/汽车电子",
+  "relevant_roles": [
+   "感知部署开发工程师/主管",
+   "自动泊车规划开发主管/专家",
+   "融合感知算法（激光感知）",
+   "高级图像算法工程师",
+   "高级交付管理工程师",
+   "海外客户经理"
+  ],
+  "career_url": "https://waiqipin.cn:8443/companies/49",
+  "evidence_url": "https://waiqipin.cn:8443/?city=%E6%9D%AD%E5%B7%9E",
+  "ai_score": 5,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=研发中心（杭州） | ai_relevance=high",
+  "exclude_reason": "外企（其他境外），通常要求英语；岗位含语言要求: 海外客户经理(海外)",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "韶音科技（Shokz，杭州韶音科技）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "消费电子/音频算法",
+  "relevant_roles": [
+   "AI 架构师",
+   "AI Infra 工程师",
+   "AI 开发工程师",
+   "初级 AI 开发工程师",
+   "北美 AI 产品经理",
+   "IT 解决方案架构师",
+   "音频算法工程师"
+  ],
+  "career_url": "https://waiqipin.cn:8443/companies/114",
+  "evidence_url": "https://waiqipin.cn:8443/?city=%E6%9D%AD%E5%B7%9E",
+  "ai_score": 5,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=研发/运营基地（杭州，在招 261 个岗位，含 AI 序列） | ai_relevance=high",
+  "exclude_reason": "外企（美国（注册地）），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "杭州衡泰技术股份有限公司",
+  "sources": [
+   "外企"
+  ],
+  "sector": "金融软件",
+  "relevant_roles": [
+   "金融科技研发/交付类岗位"
+  ],
+  "career_url": "https://waiqipin.cn:8443/companies",
+  "evidence_url": "https://zcom.zj.gov.cn/art/2025/10/11/art_1384587_58949187.html",
+  "ai_score": 5,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州（浙江省第三批省级外资研发中心） | ai_relevance=medium",
+  "exclude_reason": "外企（外资（具体母国待核）），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "微软（Microsoft）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "云计算/AI/软件",
+  "relevant_roles": [
+   "历史上招 Technical Account Manager / Consultant（杭州）",
+   "Azure/云解决方案类岗位（需微软官网按 Hangzhou 筛选确认）"
+  ],
+  "career_url": "https://jobs.careers.microsoft.com/global/en/search?q=Hangzhou",
+  "evidence_url": "https://www.microsoft.com/zh-cn/ard/recruitment/",
+  "ai_score": 5,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州分公司/办事处（微软中国分支机构之一） | ai_relevance=high",
+  "exclude_reason": "外企（美国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "SAP",
+  "sources": [
+   "外企"
+  ],
+  "sector": "企业软件/ERP",
+  "relevant_roles": [
+   "SAP 实施/顾问类岗位（杭州，多由伙伴与本地团队发布）"
+  ],
+  "career_url": "https://jobs.sap.com/",
+  "evidence_url": "https://jobs.sap.com/search/?q=Hangzhou",
+  "ai_score": 5,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州分公司/办事处 | ai_relevance=medium",
+  "exclude_reason": "外企（德国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "印孚瑟斯（Infosys）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "IT 服务/外包",
+  "relevant_roles": [
+   "IT 交付/技术支持类岗位（需站内确认）"
+  ],
+  "career_url": "https://www.infosys.com/careers/",
+  "evidence_url": "https://m.baike.so.com/",
+  "ai_score": 5,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州交付/研发团队（多份城市清单列为『infosys(杭州)』） | ai_relevance=medium",
+  "exclude_reason": "外企（印度），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "拜尔斯道夫（Beiersdorf）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "消费品（妮维雅等）",
+  "relevant_roles": [
+   "市场/电商/销售类岗位"
+  ],
+  "career_url": "https://www.beiersdorf.com/careers",
+  "evidence_url": "https://www.nowcoder.com/feed/main/detail/712e916307ba4beca747d9404b688d6c",
+  "ai_score": 5,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州办公室（员工口碑清单列为杭州外企） | ai_relevance=low",
+  "exclude_reason": "外企（德国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "特斯拉（Tesla）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "新能源汽车",
+  "relevant_roles": [
+   "交付/服务/销售类岗位"
+  ],
+  "career_url": "https://www.tesla.com/careers",
+  "evidence_url": "https://m.hupu.com/bbs/627560683-33.html",
+  "ai_score": 5,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州交付中心 / 门店 | ai_relevance=low",
+  "exclude_reason": "外企（美国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "瑞思迈（ResMed）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "医疗健康/呼吸设备",
+  "relevant_roles": [
+   "E-commerce Operation Specialist",
+   "Assistant Accountant"
+  ],
+  "career_url": "https://www.resmed.com/en-us/careers/",
+  "evidence_url": "https://waiqipin.cn:8443/companies/84",
+  "ai_score": 5,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州办公室（在招电商运营岗位） | ai_relevance=low",
+  "exclude_reason": "外企（澳大利亚），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "布鲁奈尔（Brunel）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "工程服务/技术外包交付",
+  "relevant_roles": [
+   "工程/项目交付类岗位（工程外包派遣）"
+  ],
+  "career_url": "https://www.brunel.net/en-us/careers",
+  "evidence_url": "https://waiqipin.cn:8443/companies/78",
+  "ai_score": 5,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=长三角工程技术交付团队（南通注册，服务浙江客户） | ai_relevance=medium",
+  "exclude_reason": "外企（荷兰），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "亚马逊 / AWS（Amazon）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "云计算/电商",
+  "relevant_roles": [
+   "BD Manager - Strategic Account, Digital Native Business",
+   "Senior Seller Consultant, NSR NA"
+  ],
+  "career_url": "https://www.amazon.jobs/en/search?base_query=&city=Hangzhou",
+  "evidence_url": "https://www.amazon.jobs/en/search.json?base_query=&city=Hangzhou",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=分公司 / 业务团队（Amazon Global Selling 杭州） | ai_relevance=medium",
+  "exclude_reason": "外企（美国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "强生（Johnson & Johnson）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "医药/医疗器械",
+  "relevant_roles": [
+   "Hangzhou Site EHS and FM Lead",
+   "Regional Sales Lead 区域销售经理",
+   "高级医药代表-实体瘤",
+   "医学信息沟通"
+  ],
+  "career_url": "https://www.careers.jnj.com/",
+  "evidence_url": "https://jj.wd5.myworkdayjobs.com/JJ",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州站点（Johnson & Johnson Hangzhou Site，有实体园区） | ai_relevance=low",
+  "exclude_reason": "外企（美国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "阿斯利康（AstraZeneca）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "医药",
+  "relevant_roles": [
+   "Medical Science Liaison-HCC/BTC-Hangzhou",
+   "Medical Science Liaison-Biologics-Severe Asthma-Hangzhou",
+   "Medical Science Liaison-Immu-Hangzhou"
+  ],
+  "career_url": "https://careers.astrazeneca.com/",
+  "evidence_url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=分公司（杭州医学团队） | ai_relevance=low",
+  "exclude_reason": "外企（英国/瑞典），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "默沙东（MSD）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "医药",
+  "relevant_roles": [
+   "Promotion Manager, DIA-Hangzhou",
+   "Regional Manager, DIA",
+   "Sr. Pharmaceutical Info Specialist, Onco"
+  ],
+  "career_url": "https://jobs.msd.com/",
+  "evidence_url": "https://waiqipin.cn:8443/companies/80",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=默沙东研发（中国）有限公司 / 动物保健公司在杭州设岗 | ai_relevance=low",
+  "exclude_reason": "外企（美国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "赛诺菲（Sanofi）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "医药",
+  "relevant_roles": [
+   "Digital Site Shopfloor Expert（数字化/智能制造方向）",
+   "M&S-Site Risk Officer-Hangzhou",
+   "医学信息沟通代表-杭州"
+  ],
+  "career_url": "https://jobs.sanofi.com/",
+  "evidence_url": "https://waiqipin.cn:8443/companies/1",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州团队（M&S Site） | ai_relevance=medium",
+  "exclude_reason": "外企（法国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "思科（Cisco）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "通信/网络设备",
+  "relevant_roles": [
+   "Platform R&D Engineer（15-22K）",
+   "WebEx 音视频研发类岗位"
+  ],
+  "career_url": "https://careers.cisco.com/global/en/search-results",
+  "evidence_url": "https://ori.hangzhou.com.cn/ornews/content/2011-11/08/content_3949980.htm",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=研发中心（思科系统(中国)研发有限公司杭州分公司，2011 年落户） | ai_relevance=medium",
+  "exclude_reason": "外企（美国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "微策略（MicroStrategy）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "商业智能 BI / AI 数据平台",
+  "relevant_roles": [
+   "软件开发工程师（参与核心 BI+AI 产品）",
+   "测试开发工程师",
+   "测试工程师"
+  ],
+  "career_url": "https://www.microstrategy.com/careers",
+  "evidence_url": "https://www.nowcoder.com/feed/main/detail/712e916307ba4beca747d9404b688d6c",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=中国研发中心 CTC（全球最大海外研发中心，300+ 员工）+ 技术支持中心 | ai_relevance=high",
+  "exclude_reason": "外企（美国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "施耐德电气（Schneider Electric）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "电气/工业自动化",
+  "relevant_roles": [
+   "Associate Consultant",
+   "销售工程师-杭州 OEM",
+   "Project Sales Representative",
+   "Services Partner Sales（服务伙伴销售）"
+  ],
+  "career_url": "https://www.se.com/ww/en/about-us/careers/",
+  "evidence_url": "https://m.liepin.com/company-jobs/2547498/city-070020/",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州分公司（滨江区，在招 6 个岗位） | ai_relevance=medium",
+  "exclude_reason": "外企（法国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "ABB",
+  "sources": [
+   "外企"
+  ],
+  "sector": "工业自动化/机器人",
+  "relevant_roles": [
+   "R&D Manager（28-35K）",
+   "物流专员",
+   "低压开关销售工程师-终端用户"
+  ],
+  "career_url": "https://careers.abb/global/en",
+  "evidence_url": "https://m.zhipin.com/job_detail/60d41c9bf4276f8d03xz3ty4FFdQ.html",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州分公司（萧山区宁围） | ai_relevance=medium",
+  "exclude_reason": "外企（瑞士/瑞典），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "飞利浦（Philips）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "医疗健康",
+  "relevant_roles": [
+   "现场维修服务工程师（杭州/金华）",
+   "售后销售（Service Sales）"
+  ],
+  "career_url": "https://www.careers.philips.com/global/en",
+  "evidence_url": "https://m.zhipin.com/gongsis/l174369636.html",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=飞利浦（中国）投资有限公司杭州分公司 | ai_relevance=low",
+  "exclude_reason": "外企（荷兰），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "通用电气（GE）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "能源/医疗",
+  "relevant_roles": [
+   "车工/数控机床实习生",
+   "现场服务/维修类岗位"
+  ],
+  "career_url": "https://careers.geaerospace.com/",
+  "evidence_url": "https://msearch.51job.com/jobs/all/co220512.html",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=通用电气能源（杭州）有限公司 + GE 医疗杭州分公司 | ai_relevance=low",
+  "exclude_reason": "外企（美国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "博世（Bosch）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "汽车零部件/工业",
+  "relevant_roles": [
+   "研发/制造/质量类岗位（博世电动杭州）"
+  ],
+  "career_url": "https://www.bosch.com.cn/careers/",
+  "evidence_url": "https://zcom.zj.gov.cn/art/2025/10/11/art_1384587_58949187.html",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=博世电动工具（中国）有限公司（浙江省第三批省级外资研发中心）+ 博世包装技术（杭州） | ai_relevance=medium",
+  "exclude_reason": "外企（德国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "诺基亚（Nokia）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "通信设备",
+  "relevant_roles": [
+   "通信/云网研发类岗位"
+  ],
+  "career_url": "https://www.nokia.com/about-us/careers/",
+  "evidence_url": "https://zcom.zj.gov.cn/art/2025/10/11/art_1384587_58949187.html",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=诺基亚通信系统技术（北京）有限公司浙江分公司（浙江省第三批省级外资研发中心） | ai_relevance=medium",
+  "exclude_reason": "外企（芬兰），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "奥的斯（Otis）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "电梯/楼宇设备",
+  "relevant_roles": [
+   "海外维修技师（南非项目等）",
+   "工程/研发类岗位"
+  ],
+  "career_url": "https://www.otis.com/en/us/careers",
+  "evidence_url": "https://www.hangzhou.gov.cn/art/2023/12/28/art_1229243366_59091583.html",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=奥的斯机电电梯有限公司（浙江省首批省级外资研发中心，杭州） | ai_relevance=low",
+  "exclude_reason": "外企（美国），通常要求英语；岗位含语言要求: 海外维修技师（南非项目等）(海外)",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "玳能科技（杭州）有限公司（Dynabook/Toshiba 系）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "计算机/电子设备",
+  "relevant_roles": [
+   "电脑/电子研发类岗位"
+  ],
+  "career_url": "https://www.dynabook.com/",
+  "evidence_url": "https://www.hangzhou.gov.cn/art/2023/12/28/art_1229243366_59091583.html",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州（浙江省首批省级外资研发中心） | ai_relevance=low",
+  "exclude_reason": "外企（日本），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "杭州大和热磁电子（Ferrotec）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "半导体/电子材料",
+  "relevant_roles": [
+   "半导体材料/设备研发类岗位"
+  ],
+  "career_url": "https://www.ferrotec.com/",
+  "evidence_url": "https://www.hangzhou.gov.cn/art/2023/12/28/art_1229243366_59091583.html",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州（浙江省首批省级外资研发中心） | ai_relevance=low",
+  "exclude_reason": "外企（日本），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "浙江力积存储科技（Zentel）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "存储芯片",
+  "relevant_roles": [
+   "芯片设计/存储类岗位"
+  ],
+  "career_url": "https://waiqipin.cn:8443/companies",
+  "evidence_url": "https://zcom.zj.gov.cn/art/2025/10/11/art_1384587_58949187.html",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州（浙江省第三批省级外资研发中心） | ai_relevance=medium",
+  "exclude_reason": "外企（中国台湾/其他境外），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "加特兰微电子（Calterah，杭州）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "毫米波雷达芯片",
+  "relevant_roles": [
+   "System Engineer/系统工程师（AI 实现数据处理方向）",
+   "Software Process Management Engineer（DevOps 方向）",
+   "技术项目管理工程师"
+  ],
+  "career_url": "https://waiqipin.cn:8443/companies/61",
+  "evidence_url": "https://waiqipin.cn:8443/?city=%E6%9D%AD%E5%B7%9E",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=研发中心（杭州） | ai_relevance=high",
+  "exclude_reason": "外企（其他境外），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "应用材料（Applied Materials）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "半导体设备",
+  "relevant_roles": [
+   "Process Support Engineer III (E3) - DDP/Etch/CMP",
+   "工艺支持工程师-2026 届"
+  ],
+  "career_url": "https://careers.appliedmaterials.com/",
+  "evidence_url": "https://waiqipin.cn:8443/companies/44",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州服务/现场团队（在招工艺支持工程师） | ai_relevance=medium",
+  "exclude_reason": "外企（美国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "液化空气（Air Liquide）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "工业气体/工程",
+  "relevant_roles": [
+   "Solution Development Manager - Lurgi",
+   "Supply Chain Engineer",
+   "Instrumentation Engineer",
+   "E&C Asia Process Risk Manager"
+  ],
+  "career_url": "https://www.airliquide.com/careers",
+  "evidence_url": "https://waiqipin.cn:8443/?city=%E6%9D%AD%E5%B7%9E&q=%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州项目组/办公室（在招 24 个工程类岗位） | ai_relevance=low",
+  "exclude_reason": "外企（法国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "美敦力（Medtronic）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "医疗器械",
+  "relevant_roles": [
+   "CSOT-Key Account Supervisor-Hangzhou"
+  ],
+  "career_url": "https://www.medtronic.com/careers",
+  "evidence_url": "https://waiqipin.cn:8443/?city=%E6%9D%AD%E5%B7%9E",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州销售/客户团队 | ai_relevance=low",
+  "exclude_reason": "外企（美国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "爱尔康（Alcon）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "眼科医疗器械",
+  "relevant_roles": [
+   "Sr. Associate, Surgical Field Sales"
+  ],
+  "career_url": "https://www.alcon.com/careers",
+  "evidence_url": "https://waiqipin.cn:8443/?city=%E6%9D%AD%E5%B7%9E",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州销售团队 | ai_relevance=low",
+  "exclude_reason": "外企（瑞士），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "百时美施贵宝（Bristol Myers Squibb）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "医药",
+  "relevant_roles": [
+   "Area Manager/District Manager",
+   "IO Account Executive"
+  ],
+  "career_url": "https://www.bms.com/careers.html",
+  "evidence_url": "https://waiqipin.cn:8443/companies/13",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州销售团队 | ai_relevance=low",
+  "exclude_reason": "外企（美国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "日立能源（Hitachi Energy / ABB Power Grids）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "电力设备",
+  "relevant_roles": [
+   "Sales Engineer"
+  ],
+  "career_url": "https://www.hitachienergy.com/careers",
+  "evidence_url": "https://waiqipin.cn:8443/companies/12",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州销售/工程团队 | ai_relevance=low",
+  "exclude_reason": "外企（瑞士），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "欧蒙医学诊断（EUROIMMUN）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "医学诊断",
+  "relevant_roles": [
+   "技术服务专家"
+  ],
+  "career_url": "https://www.euroimmun.com/",
+  "evidence_url": "https://waiqipin.cn:8443/companies/94",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州技术服务团队 | ai_relevance=low",
+  "exclude_reason": "外企（德国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "英飞特（Inventronics，浙江英飞特光电）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "LED 驱动电源",
+  "relevant_roles": [
+   "智能软件系统工程师",
+   "产品维护工程师（开关电源）",
+   "工业工程师"
+  ],
+  "career_url": "https://www.inventronics-co.com/",
+  "evidence_url": "https://waiqipin.cn:8443/companies/58",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州研发/制造基地 | ai_relevance=medium",
+  "exclude_reason": "外企（美国（注册地）），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "芯耘微电子科技（杭州）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "半导体",
+  "relevant_roles": [
+   "IT|ERP 软件开发",
+   "区域销售经理（杭州）",
+   "MCU 及电源产品线经理"
+  ],
+  "career_url": "https://waiqipin.cn:8443/companies/45",
+  "evidence_url": "https://waiqipin.cn:8443/?city=%E6%9D%AD%E5%B7%9E",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州办公室（在招 12 个岗位） | ai_relevance=low",
+  "exclude_reason": "外企（其他境外），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "易纳纬（杭州）智能科技有限公司",
+  "sources": [
+   "外企"
+  ],
+  "sector": "智能科技",
+  "relevant_roles": [
+   "智能制造类岗位"
+  ],
+  "career_url": "https://waiqipin.cn:8443/companies",
+  "evidence_url": "https://zcom.zj.gov.cn/art/2025/10/11/art_1384587_58949187.html",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州（浙江省第三批省级外资研发中心） | ai_relevance=medium",
+  "exclude_reason": "外企（外资（具体母国待核）），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "杭州极目智控科技有限公司",
+  "sources": [
+   "外企"
+  ],
+  "sector": "智能控制",
+  "relevant_roles": [
+   "智能控制/算法类岗位"
+  ],
+  "career_url": "https://waiqipin.cn:8443/companies",
+  "evidence_url": "https://zcom.zj.gov.cn/art/2025/10/11/art_1384587_58949187.html",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州（浙江省第三批省级外资研发中心） | ai_relevance=medium",
+  "exclude_reason": "外企（外资（具体母国待核）），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "默克（Merck KGaA）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "医药/化工",
+  "relevant_roles": [
+   "医药/化工类岗位（需站内按杭州筛选）"
+  ],
+  "career_url": "https://www.merckgroup.com/en/careers.html",
+  "evidence_url": "https://www.nowcoder.com/feed/main/detail/712e916307ba4beca747d9404b688d6c",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州办公室（员工口碑清单常列） | ai_relevance=low",
+  "exclude_reason": "外企（德国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "星展银行（DBS）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "银行",
+  "relevant_roles": [
+   "Specialist, Treasures Development",
+   "Contract CS - CSO"
+  ],
+  "career_url": "https://www.dbs.com/careers",
+  "evidence_url": "https://dbs.wd3.myworkdayjobs.com/DBS_Careers",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州（在招 2 个岗位） | ai_relevance=low",
+  "exclude_reason": "外企（新加坡），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "IBM",
+  "sources": [
+   "外企"
+  ],
+  "sector": "IT 服务/咨询/混合云",
+  "relevant_roles": [
+   "IT 咨询顾问/企业级 AI 架构类岗位（多在其他城市，需站内筛选杭州）"
+  ],
+  "career_url": "https://www.ibm.com/careers/search",
+  "evidence_url": "https://www.liepin.com/city-hz/zpibm/",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=IBM 杭州分公司 | ai_relevance=medium",
+  "exclude_reason": "外企（美国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "铃盛（RingCentral）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "云通信",
+  "relevant_roles": [
+   "研发/测试类岗位（基本英语沟通能力即可，公司提供免费外教）"
+  ],
+  "career_url": "https://careers.ringcentral.com/",
+  "evidence_url": "https://www.nowcoder.com/feed/main/detail/712e916307ba4beca747d9404b688d6c",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州研发中心（另设厦门、香港） | ai_relevance=medium",
+  "exclude_reason": "外企（美国），通常要求英语；岗位含语言要求: 研发/测试类岗位（基本英语沟通能力即可，公司提供免费外教）(英语)",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "麦好货（杭州）网络科技",
+  "sources": [
+   "外企"
+  ],
+  "sector": "跨境电商/AI 应用",
+  "relevant_roles": [
+   "智能体开发工程师",
+   "AI 产品专家",
+   "AI 数据专家"
+  ],
+  "career_url": "https://waiqipin.cn:8443/companies/112",
+  "evidence_url": "https://waiqipin.cn:8443/?city=%E6%9D%AD%E5%B7%9E",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州办公室 | ai_relevance=high",
+  "exclude_reason": "外企（其他境外），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "商迈科技（浙江）有限公司",
+  "sources": [
+   "外企"
+  ],
+  "sector": "软件和信息技术服务",
+  "relevant_roles": [
+   "AI 工程师-2"
+  ],
+  "career_url": "https://waiqipin.cn:8443/companies/47",
+  "evidence_url": "https://waiqipin.cn:8443/?city=%E6%9D%AD%E5%B7%9E",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州办公室 | ai_relevance=high",
+  "exclude_reason": "外企（日本），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "杭州筹图科技有限公司",
+  "sources": [
+   "外企"
+  ],
+  "sector": "软件/图像算法",
+  "relevant_roles": [
+   "初级图像算法工程师",
+   "图像算法工程师（实习）",
+   "初级数据分析师"
+  ],
+  "career_url": "https://waiqipin.cn:8443/companies/85",
+  "evidence_url": "https://waiqipin.cn:8443/?city=%E6%9D%AD%E5%B7%9E",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州办公室 | ai_relevance=high",
+  "exclude_reason": "外企（日本），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "空中云汇（Airwallex）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "跨境支付/金融科技",
+  "relevant_roles": [
+   "Sales Team Lead, Outbound, SME & Growth, CN"
+  ],
+  "career_url": "https://www.airwallex.com/careers",
+  "evidence_url": "https://waiqipin.cn:8443/companies/68",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州业务团队 | ai_relevance=low",
+  "exclude_reason": "外企（澳大利亚），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "史陶比尔（Staubli）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "工业制造/机器人",
+  "relevant_roles": [
+   "工业自动化/销售类岗位"
+  ],
+  "career_url": "https://www.staubli.com/global/en/careers.html",
+  "evidence_url": "https://www.nowcoder.com/feed/main/detail/712e916307ba4beca747d9404b688d6c",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州办公室（员工口碑清单列为杭州外企） | ai_relevance=low",
+  "exclude_reason": "外企（瑞士），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "达能（Danone）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "食品饮料",
+  "relevant_roles": [
+   "市场/销售/职能类岗位"
+  ],
+  "career_url": "https://careers.danone.com/",
+  "evidence_url": "https://www.nowcoder.com/feed/main/detail/712e916307ba4beca747d9404b688d6c",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州办公室（员工口碑清单列为杭州外企） | ai_relevance=low",
+  "exclude_reason": "外企（法国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "爱立信（Ericsson）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "通信设备",
+  "relevant_roles": [
+   "通信/云软件类岗位"
+  ],
+  "career_url": "https://www.ericsson.com/en/careers",
+  "evidence_url": "https://www.nowcoder.com/feed/main/detail/712e916307ba4beca747d9404b688d6c",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州办公室（员工口碑清单列为杭州外企；本次未取到官方杭州岗位页） | ai_relevance=medium",
+  "exclude_reason": "外企（瑞典），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "霍尼韦尔（Honeywell）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "工业/楼宇科技",
+  "relevant_roles": [
+   "销售/渠道类岗位（多为经销体系）"
+  ],
+  "career_url": "https://careers.honeywell.com/",
+  "evidence_url": "https://www.zhaopin.com/zhaopin/fb016e223f8d4100a3b0873e2d026c8e/",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州经销商/门店体系（是否有直属研发中心未见确证） | ai_relevance=low",
+  "exclude_reason": "外企（美国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "英特尔（Intel）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "半导体",
+  "relevant_roles": [
+   "数字 IC 验证工程师（北京/杭州/深圳，第三方渠道信息）"
+  ],
+  "career_url": "https://jobs.intel.com/",
+  "evidence_url": "https://www.liepin.com/s/yteicyzgcsa6e1/pn4/",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=未获官方站点确证（仅见校招/IC 验证岗位提到杭州） | ai_relevance=medium",
+  "exclude_reason": "外企（美国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "英伟达（NVIDIA）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "GPU/AI 计算",
+  "relevant_roles": [
+   "（官方站点未见杭州岗位）"
+  ],
+  "career_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
+  "evidence_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=⚠️ 官方招聘系统（Workday）无杭州站点；中国站点仅北京/上海/深圳 | ai_relevance=high",
+  "exclude_reason": "外企（美国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "高通（Qualcomm）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "半导体/无线",
+  "relevant_roles": [
+   "（第三方渠道出现杭州关键词，未确证岗位）"
+  ],
+  "career_url": "https://careers.qualcomm.com/",
+  "evidence_url": "https://careers.qualcomm.com/",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州有岗位线索，官方站点未能直接验证 | ai_relevance=medium",
+  "exclude_reason": "外企（美国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "德勤（Deloitte）中国",
+  "sources": [
+   "外企"
+  ],
+  "sector": "专业服务/咨询",
+  "relevant_roles": [
+   "咨询/技术咨询类岗位（需官网按杭州筛选）"
+  ],
+  "career_url": "https://www2.deloitte.com/cn/en/careers.html",
+  "evidence_url": "https://www2.deloitte.com/cn/en/careers.html",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州办公室（德勤中国设有杭州分所；本次未取到官方招聘页证据） | ai_relevance=medium",
+  "exclude_reason": "外企（英国/美国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "毕马威（KPMG）中国",
+  "sources": [
+   "外企"
+  ],
+  "sector": "专业服务/咨询",
+  "relevant_roles": [
+   "咨询/技术支持类岗位（需官网按杭州筛选）"
+  ],
+  "career_url": "https://kpmg.com/cn/en/home/careers.html",
+  "evidence_url": "https://kpmg.com/cn/en/home/careers.html",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州办公室（KPMG 中国设有杭州分所；本次未取到官方招聘页证据） | ai_relevance=medium",
+  "exclude_reason": "外企（荷兰/英国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "西门子（Siemens）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "工业自动化/数字化",
+  "relevant_roles": [
+   "数字化工业/销售类岗位（需官网按杭州筛选）"
+  ],
+  "career_url": "https://jobs.siemens.com/careers",
+  "evidence_url": "https://jobs.siemens.com/careers",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州分公司（西门子中国分支机构；本次未取到官方杭州岗位页） | ai_relevance=medium",
+  "exclude_reason": "外企（德国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "意法/恩智浦/瑞萨等半导体外企（待核）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "半导体",
+  "relevant_roles": [
+   "FAE/现场应用工程师类岗位（需逐个官网核实）"
+  ],
+  "career_url": "https://www.st.com/",
+  "evidence_url": "https://www.st.com/",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州有销售/FAE 团队线索，未确证 | ai_relevance=medium",
+  "exclude_reason": "外企（欧洲/日本），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "帝亚吉欧（Diageo）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "酒类消费品",
+  "relevant_roles": [
+   "Sales Representative"
+  ],
+  "career_url": "https://www.diageo.com/en/careers/",
+  "evidence_url": "https://waiqipin.cn:8443/companies/28",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州销售团队 | ai_relevance=low",
+  "exclude_reason": "外企（英国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "国际香料（IFF）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "香精香料/食品配料",
+  "relevant_roles": [
+   "Senior Scientist, Organic Synthesis",
+   "Scientist",
+   "Associate Engineer, Process Development",
+   "EHS Coordinator"
+  ],
+  "career_url": "https://www.iff.com/careers/",
+  "evidence_url": "https://waiqipin.cn:8443/companies/51",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州团队（在招 5 个研发/工程岗位） | ai_relevance=low",
+  "exclude_reason": "外企（美国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "德沃尔无纺布（TWE Group）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "无纺布材料",
+  "relevant_roles": [
+   "Machine Operator",
+   "Maintenance Technician（设备/电气维护）"
+  ],
+  "career_url": "https://www.twe-group.com/en/career/",
+  "evidence_url": "https://waiqipin.cn:8443/companies/97",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=德沃尔无纺布（杭州）有限公司（在招 8 个岗位） | ai_relevance=low",
+  "exclude_reason": "外企（比利时），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "浙江松冈机电工业（Matsuoka）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "电气机械",
+  "relevant_roles": [
+   "软件产品工程师",
+   "品质工程师"
+  ],
+  "career_url": "https://waiqipin.cn:8443/companies/75",
+  "evidence_url": "https://waiqipin.cn:8443/companies/75",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州（浙江松冈机电工业有限公司） | ai_relevance=medium",
+  "exclude_reason": "外企（日本），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "科医国际贸易（Q-Med / Galderma 系）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "医美/药品",
+  "relevant_roles": [
+   "Senior Sales Representative, Injectable Aesthetics",
+   "Sales Executive, Injectable Aesthetics"
+  ],
+  "career_url": "https://www.galderma.com/careers",
+  "evidence_url": "https://waiqipin.cn:8443/companies/9",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州销售/医学团队 | ai_relevance=low",
+  "exclude_reason": "外企（瑞典），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "日东电工（Nitto Denko，日东电线工业）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "电子材料",
+  "relevant_roles": [
+   "生产/技术类岗位"
+  ],
+  "career_url": "https://www.nitto.com/jp/en/careers/",
+  "evidence_url": "https://waiqipin.cn:8443/companies/91",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=浙江（日东电线工业（衢州）有限公司，杭州区域岗位） | ai_relevance=low",
+  "exclude_reason": "外企（日本），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "特莱福思电子材料（Trefoss）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "电子材料",
+  "relevant_roles": [
+   "CS 工程师（客户服务/技术支持）",
+   "研发工程师",
+   "SQE 工程师"
+  ],
+  "career_url": "https://waiqipin.cn:8443/companies/87",
+  "evidence_url": "https://waiqipin.cn:8443/companies/87",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=浙江（宁波注册，在招 10 个含 CS 工程师岗位，服务杭州客户） | ai_relevance=medium",
+  "exclude_reason": "外企（挪威），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "安图实验仪器（AUTOBIO）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "体外诊断/医疗器械",
+  "relevant_roles": [
+   "技术支持工程师（浙江）",
+   "区域产品经理（浙江）",
+   "区域市场经理（浙江）"
+  ],
+  "career_url": "https://www.autobio.com.cn/",
+  "evidence_url": "https://waiqipin.cn:8443/companies/8",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=浙江区域团队（在招浙江区域技术支持与销售岗位） | ai_relevance=low",
+  "exclude_reason": "外企（其他境外），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "蓝城检测技术（Blue City Detection）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "检验检测认证（TIC）",
+  "relevant_roles": [
+   "检测员",
+   "采样员",
+   "供应链供应商管理专员"
+  ],
+  "career_url": "https://waiqipin.cn:8443/companies/32",
+  "evidence_url": "https://waiqipin.cn:8443/companies/32",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州（在招 8 个检测/供应链岗位） | ai_relevance=low",
+  "exclude_reason": "外企（其他境外），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "安利（中国）日用品（Amway）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "日用品/直销",
+  "relevant_roles": [
+   "HRBP（人力资源业务伙伴）"
+  ],
+  "career_url": "https://www.amway.com.cn/",
+  "evidence_url": "https://waiqipin.cn:8443/companies/6",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州分公司 | ai_relevance=low",
+  "exclude_reason": "外企（美国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "泰佩思琦（Tapestry / Coach）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "轻奢零售",
+  "relevant_roles": [
+   "COACH-销售顾问-杭州恒隆广场"
+  ],
+  "career_url": "https://www.tapestry.com/careers/",
+  "evidence_url": "https://waiqipin.cn:8443/companies/5",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州门店（恒隆广场） | ai_relevance=low",
+  "exclude_reason": "外企（美国），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "台泥永仁（杭州）再生资源科技（TCC）",
+  "sources": [
+   "外企"
+  ],
+  "sector": "环保/再生资源",
+  "relevant_roles": [
+   "低碳材料创新工程专案"
+  ],
+  "career_url": "https://www.taiwancement.com/",
+  "evidence_url": "https://waiqipin.cn:8443/companies/23",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": false,
+  "notes": "hangzhou_site=杭州（台泥集团在杭州公司） | ai_relevance=low",
+  "exclude_reason": "外企（中国台湾），通常要求英语",
+  "exclude_scope": "整家公司"
+ },
+ {
+  "company": "Zoom",
+  "sources": [
+   "外企"
+  ],
+  "sector": "云视频会议 / AI 协作",
+  "relevant_roles": [
+   "音视频研发工程师（杭州研发中心）",
+   "软件研发类岗位"
+  ],
+  "career_url": "https://careers.zoom.us/",
+  "evidence_url": "https://www.ustcif.org.cn/",
+  "ai_score": 2,
+  "is_ali": false,
+  "excluded": false,
+  "already_contacted": true,
+  "notes": "hangzhou_site=中国研发中心（中国区总部；中国共杭州、合肥、苏州三地） | ai_relevance=high",
+  "exclude_reason": "外企（美国），通常要求英语",
+  "exclude_scope": "整家公司"
+ }
+]
